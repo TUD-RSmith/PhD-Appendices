@@ -1,0 +1,2990 @@
+﻿Body_value,CA-value,Cheeks-value,Eye_Ap-value,Eyebrows-value,Eyegaze-value,Head-value
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera,null
+LEAN,null,null,null,eyebrow movement,+camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+camera,Headshake
+LEAN,CA,null,null,null,+camera,Headshake
+LEAN,null,null,null,null,+camera,Headshake
+LEAN,CA,null,// > SQ,null,+camera,Headshake
+LEAN,null,null,SQ,null,+camera,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,side & UpDn > +camera > UpDn,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,UpDn,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+camera,TURN
+SHOULDERS,null,null,SQ,eyebrow movement,+camera,TURN
+SHOULDERS,null,null,null,null,+camera,TILT
+null,null,null,null,null,+camera,TILT
+LEAN,CA,null,SQ,null,+camera,TILT
+LEAN,CA,null,SQ,null,UpDn > +camera,TILT
+LEAN,CA,null,CLOSED,null,+camera,TURN
+LEAN,CA,null,CLOSED,null,+camera,TURN
+TWIST,CA,null,CLOSED,null,side,TILT
+LEAN,CA,null,CLOSED,null,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+SHOULDERS,CA,null,WD,eyebrow movement,+camera > side > +camera > side,TILT > PUSH
+SHOULDERS,CA,null,WD,eyebrow movement,side > +camera,TURN
+SHOULDERS,CA,null,WD,eyebrow movement,+camera,TURN
+TWIST,CA,null,WD,eyebrow movement,UpDn,TURN
+TWIST,null,null,CLOSED,eyebrow movement,+camera,TURN
+null,CA,null,CLOSED,null,null,TILT
+LEAN,CA,null,CLOSED,eyebrow movement,null,TILT
+LEAN,CA,null,CLOSED,eyebrow movement,null,TILT
+LEAN,CA,null,CLOSED > WD,eyebrow movement,null,TILT
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+TWIST,null,null,null,eyebrow movement,+camera,null
+TWIST,null,null,null,eyebrow movement,+camera,TILT
+TWIST,null,null,null,eyebrow movement,+camera,TILT
+TWIST,null,null,WD,eyebrow movement,+camera,null
+null,null,null,//,eyebrow movement,+camera,null
+LEAN,null,null,WD,eyebrow movement,UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,side > UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,+camera > side & UpDn,PUSH > TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+null,null,null,WD,eyebrow movement,+camera,TURN
+null,null,null,WD > //,eyebrow movement,+camera,TURN
+LEAN,null,null,null,eyebrow movement,+camera,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN & PUSH
+LEANTWIST,CA,null,null,null,side & UpDn,PUSH & Headshake
+TWIST,CA,null,null,eyebrow movement,side & UpDn,Headshake > TURN
+TWIST,null,null,null,eyebrow movement,+camera,TURN
+TWIST,null,null,null,eyebrow movement,+camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,UpDn > +camera > side,TILT
+LEAN,CA,null,SQ,eyebrow movement,side > +camera,TURN > Headshake
+LEAN,CA,null,SQ > WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,+camera > side & UpDn,TILT > PUSH
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera > UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > PUSH
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN > TILT
+LEAN,CD,null,null,eyebrow movement,side & UpDn,TILT > TURN
+LEAN,CD,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CD,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,CA,null,SQ,eyebrow movement,+camera,TILT
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,null,null,+camera,TURN
+LEAN,null,null,null,null,side,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,PUSH
+LEAN,null,null,null,eyebrow movement,side,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TILT
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,SQ,null,side & UpDn,Headnod > TILT
+TWIST,CA,null,//,null,+camera,TILT
+null,null,null,null,null,+camera,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,WD,eyebrow movement,side & UpDn > +camera,PUSH
+LEAN,null,null,null,null,+camera,TILT
+LEAN,CA,null,null,eyebrow movement,+camera,PUSH
+LEAN,CA,null,//,eyebrow movement,UpDn,TILT & TURN
+TWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN
+null,CA,null,null,eyebrow movement,+camera,TURN
+LEANTWIST,CA,null,SQ,eyebrow movement,+dh > +camera > +dh > +camera > +dh,TURN > TILT
+TWIST,CA,null,SQ,eyebrow movement,+dh,TILT
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,SQ,eyebrow movement,+camera,TILT
+null,CA,null,SQ,eyebrow movement,null,TILT
+LEAN,CA,null,WD,eyebrow movement,side > +camera,PUSH
+LEAN,null,null,WD,eyebrow movement,+camera,PUSH
+LEAN,CA,cheek movement,WD,eyebrow movement,+dh > +camera,PUSH
+LEAN,null,cheek movement,WD,null,+camera > UpDn,PUSH > TILT
+LEAN,null,null,null,null,UpDn,TILT
+null,null,null,//,eyebrow movement,+camera,TURN
+LEAN,CA,null,// > WD,eyebrow movement,side & UpDn,TURN & TILT
+LEAN,null,null,WD,null,+camera,TURN
+null,null,null,WD,eyebrow movement,side & UpDn > +camera > side & UpDn,TURN
+null,null,null,WD,eyebrow movement,side & UpDn,TURN
+TWIST,null,cheek movement,WD,eyebrow movement,side & UpDn,TURN
+TWIST,null,cheek movement,WD,eyebrow movement,side & UpDn,TILT
+TWIST,null,cheek movement,WD,null,side & UpDn,TURN
+TWIST,null,null,WD,eyebrow movement,+camera,TURN
+TWIST,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side > +camera,TURN
+LEAN,null,cheek movement,//,eyebrow movement,side > +camera,TURN > PUSH
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+TWIST,null,null,null,null,+camera,TURN
+LEAN,null,null,WD,eyebrow movement,+hands > +camera,TURN & TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > +camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+hands,null
+LEAN,null,null,SQ,eyebrow movement,+hands,null
+LEAN,CA,null,SQ,eyebrow movement,+nd,TILT
+LEAN,null,null,null,eyebrow movement,+dh > side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TILT & PUSH
+LEAN,CD,null,null,eyebrow movement,side > +camera > UpDn,PUSH & TURN
+LEAN,CD,null,SQ,eyebrow movement,UpDn > side,TILT
+LEAN,null,null,SQ,eyebrow movement,side > UpDn,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT > PUSH
+null,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,+dh > +camera,TILT
+LEAN,CA,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+TWIST,CD,null,SQ > WD,eyebrow movement,side & UpDn > +camera,TURN
+TWIST,CA,null,WD,eyebrow movement,+camera,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn > +camera,TURN
+null,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,+nd > +dh > +camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera > UpDn,PUSH
+LEAN,null,null,null,null,+camera,PUSH
+LEAN,CA,null,WD,eyebrow movement,+dh > +camera,PUSH
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,+dh > +camera > UpDn,TILT > PUSH
+LEAN,CA,cheek movement,WD,eyebrow movement,+camera,PUSH
+null,null,cheek movement,WD,eyebrow movement,+camera,PUSH
+LEAN,null,null,WD,eyebrow movement,+camera,null
+LEAN,CA,null,WD > // > SQ,eyebrow movement,+camera > UpDn,TURN
+LEAN,CA,null,SQ > WD,eyebrow movement,+camera > side,TURN
+null,null,null,WD,eyebrow movement,side > +camera > side,TURN
+LEANTWIST,null,null,WD,eyebrow movement,side & UpDn > +camera,TURN > TILT
+LEAN,null,null,WD,eyebrow movement,side,TILT
+LEAN,null,null,WD > SQ,eyebrow movement,UpDn,TILT > TURN
+LEAN,null,null,SQ > WD,eyebrow movement,UpDn,TURN
+null,null,null,WD,eyebrow movement,+camera > +hands,TURN
+null,null,null,SQ,eyebrow movement,+hands > +camera,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,SQ,eyebrow movement,+hands > +camera,TILT
+LEAN,null,null,null,null,+camera,Headnod
+LEAN,null,null,null,null,+hands,Headnod
+LEAN,null,null,WD,eyebrow movement,UpDn > +camera,null
+LEAN,null,null,WD,eyebrow movement,+camera > UpDn > +camera,PUSH
+LEAN,null,null,WD,eyebrow movement,+camera > UpDn,PUSH > Headnod
+null,null,null,WD,eyebrow movement,+camera,Headnod
+null,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera > UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,UpDn > side & UpDn,TILT > PUSH > TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn > +hands,PUSH
+TWIST,CA,null,SQ,null,side & UpDn,TURN
+LEANTWIST,null,null,SQ > //,null,side & UpDn,TURN
+LEAN,null,null,null,null,+camera,TILT
+null,null,null,null,null,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD > SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,cheek movement,SQ,eyebrow movement,side,TURN
+null,CD,null,SQ,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,CA,cheek movement,SQ,eyebrow movement,side,TURN > TILT > TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,CD,null,null,eyebrow movement,side,PUSH
+null,CD,null,WD,eyebrow movement,side,PUSH
+null,CD,null,WD,eyebrow movement,side,PUSH
+null,null,null,WD,eyebrow movement,+dh,PUSH
+null,null,null,WD,eyebrow movement,+dh,PUSH
+LEAN,null,null,WD > // > WD,eyebrow movement,side,PUSH
+LEAN,null,null,WD,eyebrow movement,side,PUSH
+LEAN,null,null,WD,eyebrow movement,side,PUSH
+LEAN,null,null,WD,eyebrow movement,side & UpDn,null
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,cheek movement,WD,eyebrow movement,side > UpDn,TURN > TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TURN
+null,CA,null,null,eyebrow movement,UpDn,TURN
+null,CA,null,null,eyebrow movement,null,TURN
+SHOULDERS,null,null,null,null,side,PUSH
+SHOULDERS,CA,null,null,eyebrow movement,side,PUSH & TILT
+SHOULDERS,null,null,null,eyebrow movement,side,TURN > PUSH
+null,CA,null,null,eyebrow movement,side & UpDn,PUSH > TURN
+null,null,null,CLOSED,eyebrow movement,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT > TURN
+null,null,null,null,null,UpDn,TURN
+null,null,null,null,null,UpDn,PUSH
+null,CA,null,//,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,null
+LEAN,null,null,null,eyebrow movement,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,cheek movement,SQ,eyebrow movement,side & UpDn,TILT > TURN
+LEAN,CA,cheek movement,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,// > SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TURN > PUSH
+null,null,null,//,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,//,null,side & UpDn > side,TURN > PUSH
+LEAN,CA,null,WD,eyebrow movement,side,PUSH
+SHOULDERS,CA,null,WD,eyebrow movement,side & UpDn,null
+SHOULDERS,CA,null,WD,null,side & UpDn,null
+SHOULDERS,CA,null,null,null,side,TURN
+SHOULDERS,CA,null,null,null,side,TURN & TILT
+LEAN,CA,null,null,null,side,TILT > TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,null,null,SQ,eyebrow movement,side,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TILT
+null,null,null,SQ,eyebrow movement,side,TILT
+null,null,null,SQ,eyebrow movement,side,TILT > Headnod
+SHOULDERS,null,null,//,eyebrow movement,side,TILT
+SHOULDERS,CA,null,// > CLOSED,eyebrow movement,side,TILT > Headnod > TURN
+LEAN,CA,null,CLOSED,eyebrow movement,side & UpDn,TURN > PUSH
+LEAN,CD,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,WD,eyebrow movement,side,TURN
+LEAN,CD,null,WD,eyebrow movement,side,TURN
+LEAN,CD,null,WD > //,eyebrow movement,side & UpDn,TURN
+LEAN,CD,null,//,eyebrow movement,side & UpDn,Headnod
+null,CD,null,null,eyebrow movement,side & UpDn,Headnod
+null,CD,null,null,eyebrow movement,side & UpDn,Headnod
+TWIST,CD,null,null,eyebrow movement,side & UpDn,Headnod
+TWIST,CD,null,null,null,side,TURN
+TWIST,CD,null,null,null,side,TURN
+null,CD,null,//,eyebrow movement,UpDn > side,Headshake > TURN > Headshake
+null,CD,null,//,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+SHOULDERS,null,null,null,null,side & UpDn > +hands,TURN
+SHOULDERS,CA,null,//,null,+hands,PUSH
+SHOULDERS,CA,null,null,null,+hands,PUSH
+SHOULDERS,CA,null,SQ,null,+hands,TILT
+SHOULDERS,CA,null,SQ,eyebrow movement,+hands,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+hands,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,//,null,side & UpDn,TURN
+null,CA,null,//,null,side & UpDn,TURN
+null,CA,null,//,null,side & UpDn,TURN
+null,CA,null,null,null,side,TURN
+null,null,null,//,eyebrow movement,side & UpDn,TURN > TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT > Headshake
+null,null,null,null,eyebrow movement,side & UpDn,Headshake
+null,null,null,null,eyebrow movement,side & UpDn,Headshake
+LEAN,null,null,//,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+null,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+null,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+null,CA,null,SQ,null,side & UpDn,TILT
+null,CA,null,SQ,null,side & UpDn,TILT
+null,null,null,SQ,null,side & UpDn,TILT
+null,null,null,SQ,null,side & UpDn,TILT
+null,null,null,SQ,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,CA,null,null,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,null,eyebrow movement,side,TURN
+SHOULDERS,null,null,null,eyebrow movement,side,TURN
+SHOULDERS,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,CLOSED,null,side & UpDn,TURN > Headshake
+LEAN,null,null,CLOSED > //,null,null,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,//,null,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,//,eyebrow movement,side,null
+LEAN,CA,null,// > WD,eyebrow movement,side,TURN > PUSH
+LEAN,CA,null,WD,eyebrow movement,side,PUSH
+null,CA,null,WD,eyebrow movement,side,PUSH
+null,CA,null,WD,eyebrow movement,side,PUSH
+null,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,SQ,eyebrow movement,side,TURN
+null,CA,null,SQ > //,eyebrow movement,side,TURN > TILT
+LEAN,CA,null,//,null,side,TILT
+LEAN,CA,null,null,null,side,TILT
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+null,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side > UpDn,TURN > TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,side,TILT
+null,CA,null,SQ,eyebrow movement,side,TURN
+null,null,null,SQ,eyebrow movement,null,TILT
+null,CA,null,SQ,eyebrow movement,side,TILT > PUSH
+null,CA,null,SQ,null,side,PUSH
+null,CA,null,//,null,side,PUSH
+LEAN,CA,null,null,null,side,PUSH
+LEAN,null,null,null,null,side,PUSH
+LEAN,null,null,null,eyebrow movement,side,PUSH > TILT
+LEAN,null,null,null,eyebrow movement,side,TILT
+LEAN,null,null,null,eyebrow movement,side,TILT > TURN
+null,CA,null,WD,eyebrow movement,side,TURN > PUSH
+null,null,null,WD,eyebrow movement,side,null
+null,null,null,WD,eyebrow movement,side & UpDn,PUSH
+null,CA,null,null,eyebrow movement,side & UpDn > side,PUSH
+LEAN,CA,null,null,eyebrow movement,side,PUSH
+LEAN,CA,null,null,eyebrow movement,side,PUSH
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN > TILT > TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side > UpDn,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,UpDn,PUSH
+SHOULDERS,null,null,SQ,eyebrow movement,null,PUSH
+LEAN,null,null,SQ,eyebrow movement,side,PUSH
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side,TILT
+null,CA,null,null,eyebrow movement,side,TILT
+LEAN,null,null,WD,eyebrow movement,UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,UpDn > side,null
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+null,null,null,//,null,side > +dh,TURN
+null,null,null,null,null,+dh,null
+LEAN,null,null,null,null,+dh,null
+LEAN,null,null,null,eyebrow movement,side & UpDn,null
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,//,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,//,eyebrow movement,side,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side > +hands,TURN
+null,null,null,//,null,+hands > side,TURN
+null,null,null,//,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,Headshake
+LEAN,null,null,CLOSED,eyebrow movement,side,PUSH
+LEAN,CA,null,CLOSED,eyebrow movement,side,PUSH
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN & PUSH
+LEAN,CA,null,CLOSED,eyebrow movement,side,PUSH
+null,null,null,SQ,eyebrow movement,side,null
+null,CA,null,SQ,eyebrow movement,side,null
+null,CA,null,SQ,eyebrow movement,side,null
+null,CA,null,SQ,eyebrow movement,side,null
+null,CA,null,SQ,eyebrow movement,side,TILT
+null,CA,null,SQ,eyebrow movement,side,TILT
+LEAN,CA,cheek movement,//,null,side,TILT > PUSH
+LEAN,CA,null,null,null,side,TILT
+LEAN,CA,null,CLOSED,eyebrow movement,side,TILT
+null,CA,null,null,eyebrow movement,side,TILT
+null,null,cheek movement,null,eyebrow movement,side,Headnod
+null,CA,cheek movement,CLOSED,eyebrow movement,side,Headnod
+null,CA,null,CLOSED,eyebrow movement,null,TILT
+null,CA,null,CLOSED,eyebrow movement,null,TILT
+null,CA,null,CLOSED,eyebrow movement,null,Headnod
+null,CA,null,CLOSED,eyebrow movement,side,Headnod
+null,CA,null,null,eyebrow movement,side,Headnod
+null,CA,null,null,eyebrow movement,side,TILT
+null,null,null,//,eyebrow movement,side,TILT
+LEAN,CA,cheek movement,//,eyebrow movement,side & UpDn,TILT > TURN
+LEAN,CA,cheek movement,//,null,side & UpDn,TURN
+LEAN,null,null,null,null,+dh,null
+LEAN,null,null,null,null,+dh,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,CA,null,WD > //,eyebrow movement,side,TURN
+TWIST,null,null,//,eyebrow movement,side > +hands,TURN > TILT
+TWIST,null,cheek movement,SQ,eyebrow movement,+hands,TILT
+TWIST,null,cheek movement,SQ > //,eyebrow movement,+dh > +hands,TURN
+SHOULDERS,null,null,SQ,eyebrow movement,+hands,TURN
+SHOULDERS,null,null,SQ,eyebrow movement,side,TURN
+SHOULDERS,CA,null,CLOSED,eyebrow movement,side,TILT
+null,null,null,CLOSED,eyebrow movement,null,TILT
+null,null,null,//,null,side,null
+null,null,null,null,null,side,null
+null,CD,null,null,null,side,TILT
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,//,eyebrow movement,side,TURN
+null,null,null,null,null,side,TURN
+LEAN,CA,null,SQ > // > SQ,eyebrow movement,side > +hands > side & UpDn,TURN > TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ > //,eyebrow movement,side & UpDn,TURN
+null,null,null,// > SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,//,null,side & UpDn > side,TILT > TURN
+TWIST,null,null,null,null,side,TURN
+TWIST,null,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,//,eyebrow movement,side,TURN
+LEAN,CA,null,//,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CD,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,//,null,UpDn,PUSH
+SHOULDERS,null,null,null,eyebrow movement,+dh,TURN
+SHOULDERS,null,null,null,eyebrow movement,+dh,null
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,null
+null,null,null,null,eyebrow movement,side & UpDn,null
+null,CA,null,null,null,side & UpDn,null
+null,null,null,null,eyebrow movement,side & UpDn,null
+null,CA,null,null,eyebrow movement,side & UpDn > side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,WD,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,WD > //,eyebrow movement,side & UpDn > side,PUSH > TILT
+LEAN,null,null,null,null,side,null
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,null,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,//,null,side > UpDn,Headnod
+null,null,null,//,eyebrow movement,UpDn > side & UpDn,TURN
+null,CA,null,WD,eyebrow movement,side & UpDn,TURN
+null,CA,cheek movement,WD,eyebrow movement,side & UpDn,TURN
+null,CA,cheek movement,WD > //,eyebrow movement,side & UpDn,Headnod
+null,null,null,// > //,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,SQ,eyebrow movement,side,TILT
+TWIST,null,null,CLOSED,eyebrow movement,side,TURN
+LEAN,CA,null,CLOSED > SQ,eyebrow movement,side,Headnod
+LEAN,CA,null,null,eyebrow movement,side,Headnod
+LEAN,CA,null,//,eyebrow movement,side,Headnod
+null,CA,null,//,eyebrow movement,side,Headnod
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,Headnod
+null,null,null,//,null,side & UpDn,null
+null,null,null,null,null,side & UpDn,null
+LEAN,null,null,//,null,side & UpDn,null
+LEAN,null,null,//,eyebrow movement,side,Headnod
+LEAN,null,null,null,eyebrow movement,side,Headnod
+LEAN,null,null,//,null,side,Headnod
+LEAN,null,null,//,null,UpDn > side & UpDn,TILT > TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn > side,TURN
+TWIST,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,WD > //,eyebrow movement,side,TURN
+null,null,null,WD,eyebrow movement,side,TURN
+null,null,null,WD,eyebrow movement,side,null
+null,null,null,WD,eyebrow movement,side,null
+null,null,null,//,eyebrow movement,side,TURN
+TWIST,CA,null,null,null,side,TURN
+TWIST,CA,null,//,null,side,TURN
+TWIST,null,null,null,null,side & UpDn,TURN > TILT
+TWIST,null,null,//,null,UpDn,TILT
+null,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn > side,TURN
+null,null,null,null,eyebrow movement,side,TURN > TILT
+SHOULDERS,CA,null,//,eyebrow movement,side,TILT
+SHOULDERS,CA,null,CLOSED,eyebrow movement,side,TILT
+SHOULDERLEAN,CA,null,CLOSED,eyebrow movement,null,TILT > TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side,Headnod
+LEAN,null,null,//,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+null,null,null,WD,eyebrow movement,side & UpDn,null
+LEAN,null,null,WD,eyebrow movement,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,null,null,side & UpDn,null
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn > +nd,TURN
+null,null,null,//,null,side,TURN > TILT
+null,null,null,null,null,side,TILT
+LEAN,CA,null,WD,eyebrow movement,side,TILT
+LEAN,CA,null,WD > //,eyebrow movement,side,TURN
+null,null,null,//,null,side & UpDn,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,eyebrow movement,side,PUSH
+null,null,null,null,eyebrow movement,side,PUSH
+TWIST,null,null,WD,eyebrow movement,side & UpDn,PUSH
+TWIST,CA,null,WD > //,eyebrow movement,side & UpDn > side,TILT
+null,null,null,WD,eyebrow movement,side,TILT
+null,null,null,WD,eyebrow movement,side,TILT
+null,null,null,WD,eyebrow movement,side,TILT
+LEAN,null,null,WD,eyebrow movement,side,TILT
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side,Headnod
+LEAN,null,null,null,eyebrow movement,side,TILT
+LEAN,null,null,null,eyebrow movement,side,TILT
+LEAN,null,null,null,null,side,TILT
+null,null,null,//,null,side,null
+null,null,null,//,null,side,null
+null,null,null,null,null,side,TURN
+null,null,null,//,null,side,TURN
+null,null,null,null,eyebrow movement,null,null
+null,null,null,null,eyebrow movement,null,TURN
+null,null,null,null,eyebrow movement,null,TURN
+null,null,null,null,eyebrow movement,UpDn,TURN
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn > side,TILT
+null,null,null,null,eyebrow movement,side,TILT
+null,null,null,null,eyebrow movement,+hands,TILT
+null,null,null,null,eyebrow movement,UpDn > side,TILT
+null,null,null,null,eyebrow movement,side,Headshake
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side,TILT
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side,TURN
+LEAN,null,null,SQ,eyebrow movement,side,PUSH
+LEAN,null,null,SQ,eyebrow movement,side,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side,TILT > Headnod
+null,null,null,null,null,side,null
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,//,eyebrow movement,side,TURN
+null,null,null,//,eyebrow movement,side > +camera,TURN
+null,null,null,null,null,+camera > side & UpDn,null
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,Headshake
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn > side & UpDn,TILT > TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn > side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side > UpDn,TURN
+null,null,null,//,eyebrow movement,UpDn,TILT
+null,null,null,null,null,UpDn,TILT
+null,null,null,null,null,null,null
+null,null,null,null,null,null,TILT
+null,null,null,null,null,null,TILT
+null,null,null,null,null,null,TILT
+null,null,null,null,null,null,TILT
+null,null,null,null,null,side,null
+null,null,null,null,eyebrow movement,side,PUSH
+null,CD,null,null,eyebrow movement,side,PUSH
+null,CD,null,null,eyebrow movement,side,TURN
+null,CD,null,null,eyebrow movement,side,TURN
+null,CD,null,null,eyebrow movement,side,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,PUSH
+null,CD,null,null,eyebrow movement,side & UpDn,PUSH
+null,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,null
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+SHOULDERS,CD,null,null,eyebrow movement,side & UpDn,PUSH
+SHOULDERS,CA,null,null,eyebrow movement,side & UpDn,PUSH
+SHOULDERS,CA,null,null,eyebrow movement,side & UpDn > side,PUSH
+null,CA,null,null,eyebrow movement,side,null
+null,CA,null,null,eyebrow movement,side & UpDn,TURN > TILT
+null,CA,null,null,eyebrow movement,UpDn,TILT
+null,CA,null,null,eyebrow movement,UpDn,TILT
+null,CA,null,null,eyebrow movement,UpDn,TILT
+null,CD,null,null,eyebrow movement,side,null
+null,CD,null,null,eyebrow movement,side,null
+null,CD,null,null,eyebrow movement,side > UpDn,TILT
+null,CD,null,null,eyebrow movement,side,TILT
+null,CD,null,null,eyebrow movement,side,null
+null,CD,null,null,eyebrow movement,side,Headnod
+null,CD,null,null,eyebrow movement,side,Headnod
+null,CD,null,null,eyebrow movement,side,Headnod
+null,CD,null,null,eyebrow movement,side,Headnod
+null,CD,null,null,eyebrow movement,side > UpDn,Headnod
+null,CD,null,null,eyebrow movement,side,PUSH
+null,CD,null,null,eyebrow movement,side,PUSH > TILT
+null,CD,null,null,eyebrow movement,side,TILT
+null,CD,null,null,eyebrow movement,side,TILT
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,side,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn,TILT > TURN
+null,CD,null,null,eyebrow movement,UpDn,TURN
+null,CD,null,null,eyebrow movement,UpDn,TURN > PUSH
+null,CD,null,null,eyebrow movement,UpDn,PUSH
+null,CD,null,null,eyebrow movement,side & UpDn,TURN
+null,CD,null,null,eyebrow movement,side & UpDn > side,TURN > TILT
+null,CD,null,null,eyebrow movement,side,Headshake
+null,CD,null,null,eyebrow movement,side,TILT
+null,null,null,WD,eyebrow movement,side,TILT
+null,null,null,WD,eyebrow movement,side,TURN > Headnod
+null,null,null,null,null,side & UpDn,Headnod
+null,null,null,null,null,side & UpDn,Headnod
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,UpDn,Headnod
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,null
+LEAN,CA,null,null,null,UpDn,null
+LEAN,CA,null,null,null,UpDn,null
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+null,CA,null,null,null,side & UpDn,TURN > TILT
+null,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+TWIST,CA,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,+hands,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,eyebrow movement,UpDn,TURN
+LEAN,null,null,null,eyebrow movement,+hands,null
+LEAN,null,null,null,eyebrow movement,+hands,null
+LEAN,null,null,null,eyebrow movement,+camera,null
+LEAN,null,null,null,eyebrow movement,+camera,null
+null,null,null,null,eyebrow movement,+camera > side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TURN > TILT
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn > side,TURN
+null,CA,null,null,eyebrow movement,side,TILT
+null,null,null,null,eyebrow movement,side,TILT > TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,CD,null,null,eyebrow movement,side,null
+null,CD,null,null,eyebrow movement,side,null
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,CD,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn > side,TILT
+null,null,null,//,eyebrow movement,side,Headnod
+null,null,null,null,eyebrow movement,null,null
+null,null,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN > PUSH
+LEAN,CA,cheek movement,null,eyebrow movement,side & UpDn,PUSH > TILT
+null,CA,null,null,eyebrow movement,side & UpDn,TILT
+null,CA,null,null,eyebrow movement,side & UpDn > side,TILT
+null,CA,null,null,eyebrow movement,side,TILT
+LEAN,CA,null,SQ,eyebrow movement,side,null
+LEAN,null,null,SQ,eyebrow movement,side,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TILT > TURN
+LEAN,null,null,SQ,eyebrow movement,side,TURN > Headnod
+null,null,null,null,null,side,Headnod
+null,null,null,null,null,side,Headnod
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side & UpDn,TURN
+null,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,side,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,PUSH
+null,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+null,CA,null,SQ,eyebrow movement,side & UpDn > side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TILT
+LEAN,CA,null,null,eyebrow movement,side,TILT
+LEAN,CA,null,null,eyebrow movement,side,TILT
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,null
+LEAN,CA,null,null,eyebrow movement,side,TILT
+null,CA,null,null,eyebrow movement,side & UpDn,TILT
+null,CA,null,null,eyebrow movement,+hands > side,TILT > TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,Headshake
+null,CA,null,null,eyebrow movement,+hands,TILT
+null,CA,null,null,eyebrow movement,+nd > side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,null,null
+null,null,null,SQ,eyebrow movement,null,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn > +camera,TILT
+null,null,null,WD,eyebrow movement,+camera > side,TILT
+null,CA,null,WD,eyebrow movement,side,PUSH
+null,CA,null,WD,eyebrow movement,side,PUSH
+null,null,null,null,eyebrow movement,side,TILT
+null,CA,null,null,eyebrow movement,side,Headshake
+null,CA,null,null,eyebrow movement,side,Headshake
+null,null,null,null,eyebrow movement,side,Headnod
+null,CA,null,null,eyebrow movement,side,Headnod
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN > TILT
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN > TILT
+null,CA,null,null,eyebrow movement,UpDn,TILT
+null,CA,null,null,eyebrow movement,UpDn > side,TILT > TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,null,side,null
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,eyebrow movement,side & UpDn,null
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TILT > TURN
+null,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+null,CA,null,null,eyebrow movement,side & UpDn,PUSH
+null,null,null,null,eyebrow movement,side,TURN
+null,CA,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+null,null,null,null,null,side,TURN
+null,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN > PUSH
+LEAN,null,null,//,null,side,TURN
+null,CA,null,//,eyebrow movement,side > UpDn > side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,null
+null,CA,null,//,null,+camera > side,TILT
+null,CA,null,//,null,side > +camera,Headshake
+null,null,null,null,null,+camera > side,null
+null,CA,null,null,null,side & UpDn > +camera > side,null
+LEAN,null,null,SQ,eyebrow movement,side,null
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn > +camera > side & UpDn,TILT
+null,CA,null,null,null,side > +camera,null
+null,null,null,WD,eyebrow movement,side,TURN
+null,null,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,+camera > side > +camera,TURN
+LEAN,CA,null,WD,eyebrow movement,+camera > UpDn > side,TILT
+null,CA,null,WD,eyebrow movement,side,null
+null,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,WD,eyebrow movement,+camera,TURN
+null,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,WD,eyebrow movement,side,TURN
+null,CA,null,WD,null,UpDn,TILT
+null,CA,null,WD,null,UpDn,TILT
+null,CA,null,WD,null,UpDn,TILT
+null,CA,null,WD,null,side,null
+null,CA,null,WD,null,side > +camera,null
+null,CA,null,WD,null,+camera,null
+LEAN,null,null,//,null,null,null
+null,null,null,SQ,eyebrow movement,null,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,// > SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ > //,eyebrow movement,side & UpDn,TURN > Headnod
+null,null,null,SQ,eyebrow movement,side > +interlocutor1,Headnod > TURN
+null,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,CA,null,// > SQ,eyebrow movement,UpDn > side,TILT > PUSH
+LEAN,null,null,SQ > //,eyebrow movement,+interlocutor1 > +hands,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn > +interlocutor1 > UpDn,PUSH > TURN
+null,null,null,//,eyebrow movement,UpDn,TURN
+null,null,null,//,eyebrow movement,null,TURN
+null,null,null,//,eyebrow movement,+interlocutor1,null
+null,null,null,WD,eyebrow movement,+interlocutor1,TILT
+null,null,null,WD > //,eyebrow movement,+interlocutor1,Headnod
+null,null,null,//,eyebrow movement,null,Headnod
+null,null,null,null,eyebrow movement,+interlocutor1,null
+null,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,null,cheek movement,SQ,eyebrow movement,UpDn > +interlocutor1,TURN > Headnod
+null,null,null,CLOSED,eyebrow movement,null,Headnod
+null,null,null,null,eyebrow movement,null,null
+SHOULDERLEAN,null,null,SQ > // > SQ,eyebrow movement,side > +hands,TURN > TILT
+LEAN,null,null,null,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,CLOSED,eyebrow movement,+interlocutor1,TURN
+SHOULDERS,null,null,// > SQ,eyebrow movement,+interlocutor1,null
+SHOULDERS,null,null,SQ,eyebrow movement,null,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+SHOULDERS,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+SHOULDERS,null,null,SQ > //,eyebrow movement,+interlocutor1,TURN
+SHOULDERS,null,null,// > SQ,eyebrow movement,+hands,TURN > PUSH
+LEAN,null,null,WD > //,eyebrow movement,+interlocutor1 > +dh,TURN > TILT
+null,null,null,SQ,eyebrow movement,+interlocutor1,PUSH
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side > +interlocutor1,TURN > TILT
+LEAN,null,null,SQ > //,eyebrow movement,+interlocutor1,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+interlocutor1,TILT
+SHOULDERS,null,null,//,eyebrow movement,+interlocutor1,TILT
+SHOULDERS,null,null,//,eyebrow movement,+nd,TILT
+SHOULDERS,null,null,//,null,+nd > +interlocutor1,TILT
+SHOULDERS,null,null,null,null,+interlocutor1,null
+SHOULDERS,null,cheek movement,null,null,+hands > +interlocutor1,null
+SHOULDERS,null,null,//,null,+interlocutor1 > UpDn,TILT
+SHOULDERTWIST,null,cheek movement,null,eyebrow movement,+interlocutor1 > +nd > +interlocutor1,TILT
+SHOULDERS,null,cheek movement,null,eyebrow movement,+interlocutor1,TILT
+SHOULDERLEAN,null,cheek movement,null,eyebrow movement,side & UpDn > +interlocutor1,TILT
+LEAN,null,null,//,eyebrow movement,+interlocutor1,TILT
+LEAN,null,null,//,eyebrow movement,side > +interlocutor1,null
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+TWIST,null,cheek movement,null,null,+interlocutor1 > +nd,TILT
+TWIST,null,cheek movement,null,null,+nd > +interlocutor1,TILT
+null,null,null,//,eyebrow movement,side,TILT
+null,CA,null,SQ > CLOSED,eyebrow movement,side,TILT > TURN
+LEAN,CA,cheek movement,CLOSED > //,eyebrow movement,side > UpDn,TILT > TURN > Headshake
+SHOULDERS,CA,null,WD,null,UpDn > +interlocutor1,TILT > TURN
+SHOULDERS,null,null,WD > SQ,null,+interlocutor1 > side,TURN
+SHOULDERS,CA,null,SQ > // > SQ,null,side > +nd,TURN > TILT
+SHOULDERS,null,null,SQ > //,null,+nd,TILT
+SHOULDERS,null,null,//,null,null,TILT
+SHOULDERS,null,null,//,null,UpDn,TILT
+SHOULDERS,null,null,null,null,UpDn,TILT
+SHOULDERS,null,null,null,null,UpDn,TILT
+SHOULDERLEAN,null,null,SQ,eyebrow movement,UpDn > +interlocutor1,TILT > TURN
+SHOULDERS,null,null,SQ > //,eyebrow movement,+interlocutor1,TURN
+null,null,null,//,null,null,TURN
+null,null,null,//,null,UpDn,Headnod
+null,null,null,null,eyebrow movement,UpDn,null
+null,null,null,//,eyebrow movement,+interlocutor1,null
+LEAN,null,cheek movement,//,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,null,null,+interlocutor1,TURN
+LEAN,null,cheek movement,SQ > //,eyebrow movement,side,TURN & Headnod
+null,null,null,//,eyebrow movement,+interlocutor1,Headnod
+null,null,null,WD,eyebrow movement,+interlocutor1,TILT
+TWIST,null,null,WD > //,eyebrow movement,side,TILT & TURN
+TWIST,CA,null,//,eyebrow movement,side,TURN
+LEAN,CA,null,//,eyebrow movement,+hands,TILT
+LEAN,null,null,null,eyebrow movement,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,null,side,PUSH
+null,null,null,null,null,side,PUSH
+null,null,null,null,null,side,PUSH
+null,null,cheek movement,null,null,side > +interlocutor1,PUSH > TURN
+null,null,cheek movement,null,null,+interlocutor1,TURN
+null,null,null,//,null,+interlocutor1,TURN > Headnod
+null,null,null,//,null,null,Headnod
+null,CA,null,//,null,+hands,TILT
+null,CA,null,//,null,side > UpDn > side,TURN > Headnod > TILT > TURN
+null,null,null,CLOSED,null,side,TILT
+null,null,null,//,eyebrow movement,side,Headnod
+null,null,null,//,null,side,Headnod
+null,null,null,null,null,side,TURN
+LEAN,null,null,//,null,side,TURN
+LEAN,null,null,//,null,+interlocutor1,TURN
+LEAN,CA,null,null,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,//,eyebrow movement,side > +interlocutor1,TURN
+LEAN,null,null,//,null,+interlocutor1 > side,Headnod > TILT
+LEAN,null,null,//,null,side,TILT
+TWIST,null,null,//,null,side,TILT
+null,null,null,//,null,+interlocutor1 > side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn > +interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN & TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+TWIST,null,null,SQ,eyebrow movement,+interlocutor1,TILT
+LEANTWIST,null,cheek movement,SQ,eyebrow movement,+interlocutor1,TILT
+LEAN,null,cheek movement,SQ > //,eyebrow movement,+interlocutor1,TILT
+null,null,null,null,eyebrow movement,+interlocutor1,TILT
+null,null,null,SQ,eyebrow movement,+interlocutor1,null
+null,null,null,SQ,eyebrow movement,+interlocutor1,null
+null,null,null,SQ,eyebrow movement,+interlocutor1,null
+null,null,null,SQ,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,null,null,CLOSED,null,+interlocutor1,TILT
+null,CA,null,CLOSED,null,side,TURN
+TWIST,null,null,//,null,side,TURN
+TWIST,null,null,// > CLOSED > //,eyebrow movement,side,TURN > TILT
+null,null,null,//,eyebrow movement,side,TILT & TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side,TURN
+null,CA,null,null,eyebrow movement,side,TURN
+null,CA,null,//,eyebrow movement,side,TURN > Headnod
+null,null,null,//,null,side,Headnod
+null,CA,null,null,eyebrow movement,side & UpDn,null
+null,CA,null,//,eyebrow movement,UpDn,null
+null,CA,null,//,eyebrow movement,side,PUSH
+null,CA,null,null,null,side,TURN
+null,CA,null,null,null,+interlocutor1,TURN
+LEAN,CA,null,null,null,side & UpDn > side,TURN
+LEAN,CA,null,//,null,+interlocutor1,TILT
+null,CA,null,//,eyebrow movement,+interlocutor1,Headnod
+LEAN,null,null,//,eyebrow movement,side > UpDn,TILT
+LEAN,null,null,//,eyebrow movement,UpDn,null
+LEAN,null,null,SQ,eyebrow movement,side,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TILT
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,TILT
+null,null,null,SQ,eyebrow movement,+interlocutor1,TURN & Headnod
+null,null,null,//,eyebrow movement,side & UpDn,Headnod > TILT
+LEAN,null,cheek movement,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+TWIST,null,null,SQ,eyebrow movement,+interlocutor1 > side > +interlocutor1,TURN > TILT
+TWIST,null,null,null,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,TILT > Headnod
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,//,null,side,null
+null,null,null,null,null,side > +interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,//,null,+interlocutor1,TURN > Headnod
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,SQ,eyebrow movement,+nd > +interlocutor1,TILT
+null,CA,null,SQ,eyebrow movement,+nd,TILT
+null,CA,null,null,eyebrow movement,+nd,TILT
+null,null,null,WD,eyebrow movement,+nd > +interlocutor1,TILT
+null,null,null,WD,eyebrow movement,+interlocutor1,TURN
+null,null,null,WD,eyebrow movement,+interlocutor1,TURN
+null,null,null,WD,null,+interlocutor1,TURN
+LEAN,CA,null,WD,null,+nd,TILT
+LEAN,CA,null,WD > //,null,+nd,TILT
+LEAN,null,null,//,null,+nd > +interlocutor1,null
+LEAN,null,null,//,null,+interlocutor1,null
+LEAN,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,//,null,UpDn,TILT
+null,null,null,null,null,+interlocutor1,TILT & Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,null
+null,null,null,CLOSED,null,+interlocutor1,Headnod
+null,null,null,CLOSED,eyebrow movement,null,null
+null,null,null,CLOSED > //,eyebrow movement,+interlocutor1,TILT
+null,null,null,//,eyebrow movement,+interlocutor1 > side,Headnod
+null,null,null,null,null,side > +interlocutor1,TURN
+null,null,null,//,null,+interlocutor1,TURN
+null,null,null,//,null,+interlocutor1,Headshake
+null,null,null,//,null,side,Headshake
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+hands > +interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+LEAN,null,null,null,null,UpDn > +interlocutor1,PUSH
+LEAN,null,null,null,null,+interlocutor1,PUSH
+null,null,null,null,null,+interlocutor1,PUSH > Headnod
+null,null,null,//,null,side,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,side & UpDn,Headshake
+null,null,null,//,null,+interlocutor1,Headshake
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1 > side,TILT
+null,null,null,//,null,side,TURN
+null,null,null,//,null,+interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1 > side,Headnod > TURN
+null,null,null,//,null,side > +interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1 > UpDn > +interlocutor1,PUSH
+null,null,null,null,null,+interlocutor1,PUSH
+null,null,null,null,null,+interlocutor1,PUSH & TURN
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+LEAN,null,null,//,eyebrow movement,side,TILT
+null,null,null,null,null,UpDn,TILT
+null,null,null,//,null,UpDn,TILT
+null,null,null,null,null,+camera,PUSH
+null,null,null,null,null,side & UpDn,PUSH
+SHOULDERS,null,null,//,null,side & UpDn,Headnod
+null,null,null,//,null,side,Headnod
+null,null,null,null,null,side & +camera,Headnod
+null,null,null,//,null,+camera,PUSH
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,+camera > side,TILT > PUSH
+LEAN,null,null,//,null,side & UpDn,PUSH
+null,null,null,//,null,UpDn,TURN
+null,null,null,null,null,+camera > side,null
+LEAN,null,null,//,null,side > UpDn,PUSH > TILT
+null,null,null,//,null,+camera,TILT > PUSH
+LEAN,null,null,//,null,side,TILT
+LEAN,null,null,//,null,side > +camera,TILT
+LEAN,null,null,//,null,+camera,TILT
+null,null,null,//,null,side,TURN
+null,null,null,//,eyebrow movement,side,TILT
+null,null,null,//,eyebrow movement,UpDn,TILT
+null,null,null,null,null,+camera,Headnod
+null,null,null,null,null,side & UpDn > side,PUSH
+null,null,null,null,null,side,PUSH
+null,null,null,//,null,side,null
+LEAN,null,null,//,null,+camera,PUSH
+null,null,null,null,null,+camera,TILT
+null,null,null,//,null,side,TILT
+null,null,null,//,null,side,TILT
+null,null,null,null,null,side > +camera,TILT
+null,null,null,//,null,+camera,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,null,null,+nd,TILT
+LEAN,null,null,null,null,+camera > +hands,TILT
+LEAN,null,null,null,eyebrow movement,+hands > +camera,PUSH
+LEAN,null,null,null,eyebrow movement,+camera > UpDn,PUSH
+null,null,null,//,eyebrow movement,side,TILT
+null,null,null,//,eyebrow movement,null,TILT
+null,null,null,// > SQ,eyebrow movement,side,TILT
+null,null,null,SQ,eyebrow movement,side > UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn > +camera,TILT
+LEAN,null,null,//,eyebrow movement,UpDn > +camera,TILT > PUSH
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+SHOULDERLEAN,null,null,null,null,side & UpDn,TILT
+SHOULDERLEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN > Headnod
+LEAN,null,null,//,null,null,Headnod
+null,null,null,//,eyebrow movement,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,//,eyebrow movement,+camera,TILT
+LEAN,null,null,// > SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+SHOULDERS,null,null,SQ > //,eyebrow movement,UpDn > +camera,TILT
+SHOULDERS,null,null,// > SQ > //,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,// > SQ > //,eyebrow movement,side & UpDn,TILT
+null,CD,null,SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERS,CD,null,SQ,eyebrow movement,side,TILT > TURN
+SHOULDERS,CD,null,SQ,eyebrow movement,side,TURN
+SHOULDERS,null,null,// > SQ,eyebrow movement,side,PUSH
+SHOULDERS,CA,null,SQ,eyebrow movement,side > UpDn,PUSH
+SHOULDERS,CA,null,SQ > //,eyebrow movement,UpDn,PUSH > TURN
+null,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+null,CA,null,SQ > //,eyebrow movement,side & UpDn,TURN
+null,CA,null,//,eyebrow movement,side > +camera > side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,PUSH
+SHOULDERS,CA,null,SQ,eyebrow movement,side,PUSH
+SHOULDERS,CA,null,SQ,eyebrow movement,side & UpDn,PUSH > TURN
+null,CA,null,SQ,null,UpDn,TURN
+null,null,null,// > SQ,null,side & UpDn,Headnod
+null,null,null,SQ,null,side & UpDn,Headnod
+null,null,null,SQ,eyebrow movement,side & UpDn,null
+null,null,null,null,eyebrow movement,side & UpDn,null
+null,null,null,null,eyebrow movement,side & UpDn,null
+null,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,//,eyebrow movement,side & UpDn,PUSH
+null,null,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,null,eyebrow movement,side & UpDn > +camera,PUSH > TURN
+TWIST,CA,null,//,null,side & UpDn,TURN
+TWIST,CA,null,//,null,side,TURN
+TWIST,CA,null,null,null,side & UpDn,TURN > TILT
+TWIST,CA,null,null,null,side & UpDn,TILT
+null,CA,null,//,null,side & UpDn,PUSH
+TWIST,CA,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn > +camera,PUSH
+LEAN,null,null,null,eyebrow movement,+camera > side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,+camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,+camera > UpDn,PUSH
+LEANTWIST,CA,null,SQ,eyebrow movement,UpDn,PUSH
+TWIST,CA,null,SQ,eyebrow movement,UpDn,null
+LEANTWIST,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,UpDn,TILT > TILT
+LEAN,CA,null,SQ,eyebrow movement,UpDn,TILT
+TWIST,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEANTWIST,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEANTWIST,CA,null,SQ > //,eyebrow movement,UpDn > +camera,TILT
+TWIST,CA,null,//,eyebrow movement,+camera > side & UpDn,TILT
+null,null,null,//,eyebrow movement,side & UpDn,TILT
+TWIST,CA,cheek movement,// > //,eyebrow movement,side,TURN
+LEAN,CA,cheek movement,//,null,side,TURN
+LEAN,null,cheek movement,//,eyebrow movement,side,TURN
+SHOULDERLEAN,CD,null,//,eyebrow movement,side > +camera > side & UpDn,Headnod
+LEAN,null,null,//,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,null,eyebrow movement,side & UpDn > +camera,TILT > Headnod
+TWIST,null,null,// > SQ,eyebrow movement,side & UpDn,Headnod
+SHOULDERS,null,null,SQ,null,side & UpDn,Headnod
+SHOULDERS,CA,null,SQ,null,side & UpDn,TURN
+SHOULDERS,CA,null,SQ,null,side & UpDn,TILT
+SHOULDERLEAN,CA,null,SQ > //,null,side & UpDn,TILT
+null,null,null,null,eyebrow movement,+nd,TILT
+null,null,null,//,eyebrow movement,+nd,TILT
+null,null,null,//,null,+nd,TILT
+null,null,null,//,null,+hands,TILT
+LEAN,null,null,null,null,+hands,TILT
+LEAN,null,null,//,null,+hands > side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,SQ,null,side & UpDn,TILT
+null,CA,null,SQ > //,null,side & UpDn,TILT
+null,null,null,//,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,side & UpDn,null
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,//,eyebrow movement,side & UpDn,TILT
+SHOULDERTWIST,CA,cheek movement,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,null,null,+camera > side,TILT
+LEAN,null,null,null,null,side > +camera,TILT
+LEAN,null,null,null,null,+camera,null
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+TWIST,null,null,null,null,+hands,TILT
+LEAN,null,null,null,null,+hands,TILT
+LEAN,null,null,null,null,+hands,TILT
+LEAN,null,null,null,null,+hands > side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+SHOULDERLEAN,CA,null,//,null,side & UpDn,TILT > PUSH
+LEAN,null,null,//,null,UpDn > side & UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ > // > SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,null
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,null
+SHOULDERS,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERS,CA,null,SQ > //,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,null,eyebrow movement,UpDn, TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT > PUSH
+LEAN,CA,null,SQ,eyebrow movement,UpDn,PUSH
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,null,null,+camera,TURN
+LEAN,null,null,null,null,+camera > side > UpDn,TURN
+LEAN,CA,cheek movement,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,CA,cheek movement,SQ,null,UpDn,TILT
+null,null,cheek movement,SQ,null,UpDn,TILT > TURN
+null,null,null,SQ,null,UpDn,TURN > TILT
+LEAN,null,null,SQ,null,UpDn > side,TILT
+LEAN,null,null,null,eyebrow movement,side,null
+LEAN,null,null,null,eyebrow movement,side,TURN
+TWIST,CA,null,SQ,eyebrow movement,side,TILT
+TWIST,null,null,null,eyebrow movement,side,TILT
+TWIST,null,null,null,eyebrow movement,side,TILT
+SHOULDERTWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN
+SHOULDERLEAN,null,null,//,eyebrow movement,side > +camera > side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+TWIST,CA,null,null,null,side & UpDn,TILT
+TWIST,CA,null,//,null,side & UpDn,TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+TWIST,null,null,//,null,+camera > UpDn,TILT
+TWIST,null,null,null,null,UpDn > +camera > UpDn,TILT
+null,null,null,null,null,UpDn > +camera,TILT
+null,null,null,//,null,side,TILT
+null,null,null,// > SQ > //,null,side,TILT
+null,null,null,//,eyebrow movement,side & UpDn,TILT
+null,null,null,null,eyebrow movement,UpDn > side,TILT > TURN
+null,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,null,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side,TURN
+LEAN,null,null,//,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn > side,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,null,null,side & UpDn,TURN
+TWIST,CA,null,//,eyebrow movement,side & UpDn,TURN > TILT
+TWIST,CA,null,// > SQ,eyebrow movement,side,TILT
+TWIST,CA,null,SQ,eyebrow movement,side,TILT
+TWIST,CD,null,SQ,eyebrow movement,side,TILT
+TWIST,CD,null,null,null,side > +camera > side,null
+null,CD,null,null,null,side & UpDn > side,TILT
+null,CD,null,null,null,side > +camera,TILT > TURN
+null,CD,null,//,null,+camera > side,TURN
+null,CD,null,null,null,side,PUSH
+TWIST,CD,null,null,null,side,PUSH
+TWIST,CD,null,SQ,null,side,TILT
+LEANTWIST,CD,null,SQ,null,side > +camera,TILT > PUSH
+LEAN,CD,null,//,null,+camera,PUSH
+LEAN,CD,null,// > SQ > //,null,side > +camera > side,PUSH
+TWIST,null,null,//,null,side,TURN
+TWIST,null,null,//,null,side > +camera,TURN
+null,CA,null,//,null,+camera > UpDn,TURN
+LEAN,null,null,null,null,+camera > side,TURN > Headnod
+LEAN,null,null,//,null,side,Headnod
+LEAN,null,null,//,null,+camera,Headnod & TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,//,null,+camera > side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn > +camera,TILT
+LEANTWIST,null,null,null,null,+camera > side & UpDn,TILT
+LEANTWIST,null,null,//,null,+camera > side & UpDn,PUSH
+TWIST,null,null,null,null,side,TURN
+TWIST,CA,null,CLOSED,null,side > +camera,TURN
+TWIST,null,null,null,null,+camera > side & UpDn,TURN > TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,+camera,null
+LEAN,null,null,//,null,side & UpDn,TURN
+null,null,null,//,null,side & UpDn > +interlocutor1,TURN
+null,null,null,null,null,side,TURN
+null,null,null,null,null,+hands,TILT & PUSH > TILT
+null,null,null,//,null,side & UpDn > +interlocutor1,TURN
+LEAN,null,null,null,null,UpDn,PUSH
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1 > UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,UpDn > side & UpDn > +interlocutor1 ,PUSH > TURN > PUSH
+LEAN,CA,null,SQ,eyebrow movement,UpDn,TURN & TILT
+LEAN,CA,null,SQ > //,eyebrow movement,UpDn > +interlocutor1 > side & UpDn,PUSH
+LEAN,null,null,null,null,side & UpDn > +interlocutor1,TILT
+null,null,null,null,null,+interlocutor1 > side & UpDn,TILT
+null,null,null,null,null,side,TILT
+null,null,null,null,null,+hands,PUSH
+null,null,null,null,null,+interlocutor1 > +hands,PUSH > TILT
+null,null,null,//,null,+hands > side,TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,CA,null,//,null,side,TILT > PUSH
+LEAN,null,null,null,null,+interlocutor1 > +dh,PUSH
+LEAN,CA,null,CLOSED > //,null,side & UpDn > +hands > +interlocutor1,TILT
+LEAN,null,null,null,null,+interlocutor1,TILT
+LEAN,null,null,//,null,+interlocutor1,TURN
+null,CA,null,//,null,side > +interlocutor1,TURN
+null,CA,null,//,null,side > +interlocutor1,TURN
+null,CA,null,null,null,+interlocutor1 > UpDn > +interlocutor1,PUSH
+null,CA,null,null,eyebrow movement,+interlocutor1 > side & UpDn > +interlocutor1,TURN
+null,CA,null,SQ,eyebrow movement,side,null
+null,CA,null,null,null,+interlocutor1,null
+null,CA,null,//,null,side > +interlocutor1,TURN
+null,CA,null,null,null,+interlocutor1 > UpDn,TILT
+null,CA,null,//,null,UpDn > +interlocutor1,TILT
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,null
+null,CA,null,SQ,eyebrow movement,side,TURN
+null,null,null,SQ > //,eyebrow movement,side,TURN
+null,null,null,null,eyebrow movement,side > +interlocutor1,TURN
+null,CA,null,SQ > // > SQ,eyebrow movement,side,PUSH > TURN
+null,CA,null,SQ > // > SQ > //,eyebrow movement,side & UpDn,TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TURN > TILT
+null,CA,null,CLOSED > SQ,eyebrow movement,side & UpDn,TILT
+null,CA,null,null,eyebrow movement,side & UpDn > +interlocutor1,TURN
+null,CD,null,//,null,side,TURN
+null,CD,null,null,null,+interlocutor1,TURN
+null,CA,null,null,null,side & UpDn,TILT > TURN
+null,CA,null,null,null,side & UpDn > +interlocutor1,TURN
+null,CA,null,null,null,side & UpDn > +interlocutor1,TILT
+null,CA,null,null,null,+interlocutor1 > side & UpDn,TILT > PUSH & TURN
+LEAN,CA,null,null,null,side & UpDn > +interlocutor1,TURN
+LEAN,CA,null,null,null,+interlocutor1 > +hands,TILT
+null,CA,null,null,null,+hands > +interlocutor1 > UpDn,TILT
+null,CA,null,null,eyebrow movement,UpDn,TILT > TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1 > +hands,TILT > TURN
+null,CA,null,SQ,eyebrow movement,side,TURN
+null,CA,null,//,eyebrow movement,UpDn > +interlocutor1,TURN
+null,CA,null,null,null,+interlocutor1,null
+null,CA,null,null,null,UpDn > +interlocutor1 > +dh,PUSH
+null,CA,null,SQ > // > SQ,eyebrow movement,+dh > +interlocutor1 > UpDn,PUSH > TILT
+null,CA,null,//,eyebrow movement,+interlocutor1 > side > +interlocutor1,TURN
+null,CA,null,null,null,+interlocutor1 > side,TURN
+null,CA,null,// > SQ,eyebrow movement,+interlocutor1,null
+null,CA,null,//,null,side > +interlocutor1,TURN
+null,CA,null,null,null,+interlocutor1 > side & UpDn > +interlocutor1,TURN
+null,CA,null,//,null,+interlocutor1 > side & UpDn,TILT
+null,null,null,null,eyebrow movement,+interlocutor1,TILT
+null,null,null,// > SQ > //,eyebrow movement,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn > +interlocutor1,TURN
+LEAN,null,null,null,null,+interlocutor1 > side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn > +interlocutor1,TURN
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TILT > Headnod
+LEAN,CA,null,//,eyebrow movement,side & UpDn > +interlocutor1,Headnod > TURN
+null,null,null,// > SQ,eyebrow movement,side,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,null,null,//,eyebrow movement,side > +interlocutor1,TURN & Headnod
+null,CA,null,//,eyebrow movement,side & UpDn,TILT
+null,CA,null,// > SQ,eyebrow movement,+interlocutor1,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn > +interlocutor1,TURN > TILT > TILT > TILT
+null,null,null,SQ,null,+hands > +interlocutor1,TILT
+null,CA,null,null,null,+interlocutor1,TILT
+null,null,null,null,null,+hands > +interlocutor1 > UpDn,TILT
+null,null,null,null,eyebrow movement,+interlocutor1,TILT
+null,null,null,null,eyebrow movement,+interlocutor1,PUSH
+null,null,null,null,null,+interlocutor1,PUSH
+null,null,null,//,null,+interlocutor1 > side,PUSH
+null,null,null,null,null,side > +interlocutor1,PUSH
+LEAN,CA,null,null,eyebrow movement,UpDn,PUSH
+LEAN,null,null,null,eyebrow movement,+interlocutor1,PUSH
+LEAN,null,null,SQ > WD,eyebrow movement,side > +interlocutor1,PUSH
+LEAN,CA,null,WD,eyebrow movement,+interlocutor1,PUSH
+LEAN,CA,null,CLOSED > SQ > CLOSED > SQ > //,eyebrow movement,side > +interlocutor1,TILT
+LEAN,CA,null,// > CLOSED,null,+hands,TILT
+LEAN,CA,null,CLOSED,eyebrow movement,+interlocutor1,TILT
+LEAN,null,null,null,null,UpDn,TILT
+null,null,null,null,null,UpDn,TILT
+null,CA,null,null,null,null,TILT
+TWIST,CA,null,//,null,side,TILT
+TWIST,CA,null,null,null,+interlocutor1 > side > +interlocutor1,TILT
+null,null,null,SQ,eyebrow movement,+interlocutor1 > +dh,null
+null,null,null,//,eyebrow movement,+interlocutor1,TILT
+null,null,null,SQ > //,eyebrow movement,+dh > +interlocutor1,null
+LEAN,CA,null,//,null,+interlocutor1 > UpDn > +interlocutor1,PUSH
+LEAN,null,null,null,null,+interlocutor1,PUSH
+null,CA,null,null,null,side > +interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,eyebrow movement,+interlocutor1 > UpDn,null
+null,null,null,null,eyebrow movement,UpDn > side,TURN
+null,null,null,SQ,eyebrow movement,side > +interlocutor1,TURN
+null,null,null,//,eyebrow movement,+dh > +interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,null,null,CLOSED,null,+interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,TILT
+null,CA,null,null,null,+interlocutor1,TILT
+null,null,null,//,null,+interlocutor1,TILT
+null,null,null,//,null,+interlocutor1,TILT
+null,CA,null,null,null,+interlocutor1,TILT
+LEAN,CA,null,CLOSED > SQ > //,eyebrow movement,side > +interlocutor1,TILT
+LEAN,CA,null,//,null,+interlocutor1 > side,null
+null,CA,null,null,null,null,null
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TILT
+LEAN,CA,null,SQ > CLOSED,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,null,PUSH
+LEAN,CA,null,SQ > CLOSED,eyebrow movement,+interlocutor1,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side > +interlocutor1,TURN
+null,CD,null,//,eyebrow movement,+interlocutor1 > side > +interlocutor1,TURN
+null,CA,null,//,null,+interlocutor1,null
+null,CA,null,//,null,+interlocutor1 > side > +interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,TURN
+null,CA,null,null,eyebrow movement,+interlocutor1 > side,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1 > side,null
+null,CA,null,null,null,side > +interlocutor1 > side > +interlocutor1,null
+null,CA,null,SQ,eyebrow movement,+interlocutor1 > side > +interlocutor1,TILT
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,TILT
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,TILT
+LEAN,CA,null,null,null,+interlocutor1 > side,TILT
+LEAN,null,null,null,null,+interlocutor1,TILT
+null,CA,null,// > SQ > //,eyebrow movement,side > +interlocutor1 ,null
+null,null,null,SQ,eyebrow movement,side,null
+null,CA,null,SQ,eyebrow movement,+interlocutor1 > side,null
+null,null,null,null,null,UpDn,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,side,TILT
+null,null,null,null,eyebrow movement,null,TILT
+null,CA,null,null,eyebrow movement,side,TILT
+null,null,null,//,eyebrow movement,side,TILT
+LEAN,CA,null,//,eyebrow movement,+interlocutor1,TILT
+LEAN,CA,null,//,eyebrow movement,UpDn > +interlocutor1 ,TILT > PUSH
+LEAN,CA,null,null,null,+interlocutor1,PUSH
+null,CA,null,//,eyebrow movement,+interlocutor1,TILT
+null,CA,null,null,eyebrow movement,null,PUSH & TURN
+LEAN,CA,null,null,eyebrow movement,+interlocutor1,TURN & PUSH
+LEAN,CA,null,//,null,+interlocutor1,TILT
+LEAN,CA,null,null,null,+interlocutor1 > UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1 > +dh > +interlocutor1 > UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,null
+LEAN,null,null,// > SQ,eyebrow movement,+interlocutor1,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn > +interlocutor1 ,TILT
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,null,null,+interlocutor1 > side & UpDn,TURN
+LEAN,CA,null,null,null,+interlocutor1 > side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn > +interlocutor1 ,TURN
+LEAN,CA,null,//,null,+interlocutor1 > side,TURN
+LEAN,CA,null,// > SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1 > side & UpDn,TURN
+null,CA,null,SQ,eyebrow movement,side & UpDn > +interlocutor1 ,TURN > PUSH
+null,null,null,null,null,null,PUSH
+LEAN,CA,null,null,null,UpDn > +interlocutor1,PUSH
+LEAN,CA,null,WD > //,eyebrow movement,UpDn > +interlocutor1,PUSH
+LEAN,CA,null,null,null,UpDn,PUSH
+LEAN,CA,null,null,null,side & UpDn > +interlocutor1 ,PUSH
+LEAN,CA,null,WD,eyebrow movement,+interlocutor1 > UpDn > +interlocutor1 > UpDn,PUSH
+LEAN,null,null,null,null,+interlocutor1,PUSH
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,//,null,+interlocutor1 > UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,CLOSED,null,+interlocutor1 > side,TILT
+LEAN,null,null,null,null,side > +interlocutor1,TILT
+LEAN,null,null,null,null,+interlocutor1,TILT
+LEAN,null,null,null,null,+dh > +interlocutor1,TILT
+LEAN,null,null,//,null,+interlocutor1 > side,TILT
+LEAN,null,null,//,null,+interlocutor1 > UpDn,TILT
+LEAN,null,null,null,null,+interlocutor1,null
+LEAN,CA,null,SQ,eyebrow movement,UpDn > +interlocutor1,TILT
+LEAN,CA,null,//,null,null,TURN
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,CA,null,WD,null,UpDn > +interlocutor1,TILT
+LEAN,null,null,null,null,+hands > +interlocutor1,TILT
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,eyebrow movement,+interlocutor1 > +hands,PUSH
+null,null,null,null,eyebrow movement,+hands > +interlocutor1,null
+LEAN,CA,null,//,null,+interlocutor1 > side & UpDn > +interlocutor1 > UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT > PUSH
+LEAN,null,null,null,null,UpDn,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1 > +hands,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,null,+interlocutor1,null
+LEAN,CA,null,null,null,+interlocutor1 > +hands,TILT
+LEAN,null,null,null,null,+hands,TILT
+LEAN,CA,null,null,null,+interlocutor1,TILT
+LEAN,CA,null,null,null,+hands,TILT
+LEAN,CA,null,null,null,side > +interlocutor1,TILT
+LEAN,CA,null,null,null,null,null
+LEAN,null,null,null,null,side > +interlocutor1 > side & UpDn,TILT
+LEAN,CA,null,null,null,+interlocutor1 > side & UpDn > +interlocutor1,TILT
+LEAN,null,null,null,null,+interlocutor1 > side & UpDn,null
+LEAN,null,null,null,null,+interlocutor1,null
+LEAN,null,null,null,null,+interlocutor1,null
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,+interlocutor1,TILT
+LEAN,null,null,//,null,side > +interlocutor1,TURN
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,eyebrow movement,+hands,TILT
+null,null,null,null,null,side > +interlocutor1,TILT
+LEAN,null,null,null,null,+interlocutor1,null
+LEAN,null,null,//,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,//,eyebrow movement,side,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,null
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,null
+null,null,null,CLOSED,null,+hands,TILT
+null,null,null,CLOSED,null,+hands,TILT
+null,null,null,CLOSED,null,+hands,TILT
+null,null,null,SQ > //,null,+camera,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+SHOULDERS,null,null,SQ,null,UpDn > +camera,PUSH
+null,null,null,//,null,+dh,TILT
+null,null,null,SQ > //,null,+dh,TILT
+null,null,null,SQ,null,+camera > +interlocutor1,TURN
+null,null,null,CLOSED,null,UpDn,Headnod
+SHOULDERS,null,null,CLOSED,null,UpDn,Headnod
+LEAN,null,null,WD,null,UpDn,PUSH
+SHOULDERLEAN,null,null,WD > SQ,null,UpDn,PUSH
+SHOULDERS,null,null,SQ,null,UpDn,Headnod
+null,null,null,SQ,null,+dh,null
+LEAN,null,null,SQ,null,+dh,null
+null,null,null,SQ,null,+dh > +interlocutor1,Headnod
+null,null,null,SQ > CLOSED,null,UpDn,null
+LEAN,null,null,CLOSED,null,+dh,TURN
+null,null,null,SQ,null,+dh,TURN > TILT
+null,null,null,CLOSED,null,+dh,TILT
+null,null,null,CLOSED,null,null,TILT
+LEAN,null,null,SQ,null,+camera,Headnod
+null,null,null,//,null,UpDn,Headnod
+null,null,null,//,null,+dh,Headnod
+LEAN,null,null,CLOSED,null,+dh > +camera,TILT > Headnod
+LEAN,null,null,CLOSED,null,UpDn,Headnod
+LEAN,null,null,CLOSED,null,UpDn > +dh,TILT
+null,null,null,null,null,+dh > UpDn,TURN
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+null,null,null,SQ,null,+dh,Headnod
+null,null,null,SQ,null,+dh,null
+null,null,null,SQ,null,+dh,TURN
+LEAN,null,null,SQ,null,+dh,TURN
+LEAN,null,null,//,null,null,Headnod
+LEAN,null,null,null,null,null,Headnod
+LEAN,null,null,CLOSED,null,null,PUSH
+null,null,null,CLOSED > SQ,null,+camera,Headnod
+null,null,null,CLOSED,eyebrow movement,+camera > UpDn,Headnod
+LEAN,null,null,SQ,eyebrow movement,UpDn,null
+LEAN,null,null,SQ,null,+camera,null
+LEAN,null,null,SQ,null,+camera,null
+LEAN,null,null,//,null,UpDn,TILT
+null,null,null,CLOSED,eyebrow movement,+camera,null
+null,null,null,CLOSED,null,null,TURN
+null,null,null,CLOSED,null,UpDn,TURN
+null,null,null,CLOSED,null,null,TURN
+null,null,null,CLOSED,null,UpDn,TURN
+LEAN,null,null,// > SQ,eyebrow movement,UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,CLOSED,null,UpDn,PUSH
+LEAN,null,null,CLOSED,null,UpDn,PUSH
+LEAN,null,null,null,null,side & UpDn,PUSH > TILT
+LEAN,CA,null,//,null,+nd,null
+LEAN,null,null,//,null,null,null
+null,null,null,null,null,null,TILT
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,//,eyebrow movement,+camera,Headnod
+LEAN,CA,null,CLOSED,null,+nd,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+null,null,null,//,eyebrow movement,+camera,null
+null,null,null,//,null,+camera,null
+LEAN,null,null,null,null,+camera,TILT
+LEAN,CA,null,null,null,+nd > UpDn,TILT > Headnod
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT > Headnod
+LEAN,null,null,SQ,eyebrow movement,side > UpDn,TURN
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,//,null,null,TILT
+LEAN,CA,null,CLOSED,null,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn,null
+null,null,null,SQ,eyebrow movement,UpDn,Headnod
+null,null,null,SQ > CLOSED,eyebrow movement,UpDn,Headnod
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,null,Headnod
+null,null,null,CLOSED,null,UpDn,Headnod
+null,null,null,null,null,UpDn,TILT
+null,null,null,CLOSED,null,+camera,null
+null,null,null,CLOSED > SQ,eyebrow movement,+camera > UpDn,null
+null,null,null,SQ,eyebrow movement,UpDn > +camera,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+LEAN,CA,null,CLOSED,null,null,TILT > Headnod
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD > //,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,null,UpDn,null
+LEAN,CA,null,WD,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side,TURN
+LEAN,CA,null,WD,null,side > UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,UpDn > side,null
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+SHOULDERLEAN,CA,null,WD > //,eyebrow movement,side > +camera,TURN
+SHOULDERS,null,null,// > WD,null,UpDn,null
+SHOULDERLEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD > SQ,eyebrow movement,+camera > side & UpDn,TURN
+LEAN,null,null,SQ > //,eyebrow movement,+interlocutor1,TURN > Headnod
+LEAN,null,null,null,eyebrow movement,UpDn > side,TILT
+LEAN,null,null,//,eyebrow movement,side > +camera,TILT
+null,null,null,//,null,UpDn,null
+null,CA,null,null,null,null,null
+LEAN,CA,null,CLOSED,null,UpDn,TILT
+LEAN,CA,null,CLOSED,null,null,TILT
+LEAN,CA,null,WD,null,null,TILT
+LEAN,CA,null,WD,null,UpDn,PUSH
+LEAN,CA,null,WD,null,UpDn,PUSH
+LEAN,CA,null,WD,null,UpDn,PUSH
+LEANTWIST,CA,null,WD,null,side & UpDn,TURN
+TWIST,null,null,WD,null,side & UpDn,TURN
+TWIST,null,null,WD,null,UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,//,eyebrow movement,side & UpDn,Headshake
+null,null,null,//,null,UpDn,null
+null,null,null,//,eyebrow movement,UpDn,null
+null,null,null,//,eyebrow movement,+camera,Headnod
+LEAN,null,null,//,eyebrow movement,+dh > UpDn,TILT
+LEAN,null,null,null,null,UpDn > +camera,TILT
+null,null,null,CLOSED,null,+camera,null
+LEAN,null,null,CLOSED,null,+camera,TURN
+LEAN,null,null,null,eyebrow movement,+camera > +dh,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,side > +camera,TURN
+LEAN,null,null,CLOSED,null,null,null
+LEAN,null,null,null,eyebrow movement,UpDn,null
+LEAN,CA,null,SQ,eyebrow movement,+nd > UpDn,TURN
+null,null,null,null,null,+camera,null
+null,null,null,CLOSED,null,null,Headshake
+LEAN,CA,null,WD,null,UpDn,TILT
+LEAN,CA,null,WD,null,+camera,TILT
+LEAN,CA,null,WD,null,+camera,TILT
+LEAN,CA,null,null,eyebrow movement,UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,UpDn > side,TILT
+LEAN,null,null,SQ,eyebrow movement,side > +interlocutor1 > +camera,null
+LEAN,null,null,SQ > //,null,UpDn > +camera > UpDn,Headnod
+LEAN,null,null,//,null,+camera,null
+null,null,null,// > CLOSED,null,UpDn,null
+TWIST,null,null,CLOSED > SQ > CLOSED,eyebrow movement,UpDn > +camera > UpDn,Headshake
+LEAN,null,null,CLOSED,null,UpDn,null
+LEAN,null,null,null,null,UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,UpDn,PUSH
+LEAN,null,null,//,eyebrow movement,+camera,TILT
+LEAN,null,null,//,null,UpDn,TILT
+null,null,null,//,null,+camera,null
+null,null,null,null,null,+camera > UpDn > side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,CLOSED,null,+camera,null
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEANTWIST,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,null,null,+camera,null
+LEAN,null,null,null,null,+camera,null
+TWIST,null,null,//,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,// > SQ,eyebrow movement,side & UpDn > side,TURN
+TWIST,null,null,SQ > //,eyebrow movement,side,TURN
+TWIST,null,null,CLOSED,null,+camera,TURN
+TWIST,null,null,//,null,+interlocutor1,TURN
+TWIST,null,null,SQ,eyebrow movement,+hands > +interlocutor1,TURN
+TWIST,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+TWIST,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,CA,null,SQ > // > SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ,eyebrow movement,null,PUSH
+LEAN,null,null,CLOSED,null,null,TURN
+LEAN,null,null,CLOSED > SQ,eyebrow movement,side & UpDn,TURN > Headshake
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,Headshake
+TWIST,null,null,SQ,eyebrow movement,side & UpDn > +interlocutor1,TURN
+TWIST,CA,null,SQ,eyebrow movement,+interlocutor1 > side & UpDn,TURN
+TWIST,null,null,SQ > WD,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,WD,eyebrow movement,+interlocutor1,TURN
+TWIST,null,null,WD,eyebrow movement,+interlocutor1,TURN
+TWIST,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,//,eyebrow movement,+interlocutor1,TURN
+null,null,null,null,eyebrow movement,+interlocutor1,TURN > TILT
+null,null,null,CLOSED,eyebrow movement,+interlocutor1,TILT
+null,null,null,//,null,+interlocutor1,TURN
+null,CA,null,//,null,+interlocutor1,TURN
+null,null,null,//,eyebrow movement,+interlocutor1,TURN
+null,null,null,null,eyebrow movement,UpDn,TILT
+TWIST,null,null,null,null,+interlocutor1,TURN
+LEAN,null,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,null,null,+interlocutor1,PUSH
+LEAN,null,null,//,null,+interlocutor1 > UpDn,PUSH
+null,null,null,WD,null,UpDn,null
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,//,null,side & UpDn,PUSH
+null,null,null,CLOSED,null,null,TURN
+null,CA,null,WD,eyebrow movement,side & UpDn,TURN
+null,null,null,//,eyebrow movement,side > UpDn,TURN
+null,null,null,CLOSED,null,side > UpDn > side > UpDn,null
+null,null,null,CLOSED,eyebrow movement,+interlocutor1,Headnod
+TWIST,null,null,CLOSED,eyebrow movement,+interlocutor1,Headnod
+TWIST,null,null,SQ,null,side > UpDn,TURN
+LEANTWIST,null,null,SQ,eyebrow movement,+interlocutor1,TURN > TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,null
+LEAN,null,null,SQ > //,eyebrow movement,+interlocutor1,Headshake & TILT
+LEAN,null,null,CLOSED,null,+interlocutor1,TURN
+LEAN,null,null,CLOSED > //,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1 > side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TURN
+TWIST,null,null,SQ > CLOSED,null,side & UpDn,TURN
+LEAN,null,null,null,null,null,TURN > TILT
+LEAN,null,null,null,null,null,TILT
+LEAN,null,null,null,null,null,TILT & TURN > Headnod
+LEAN,null,null,//,null,+interlocutor1,TILT
+null,null,null,null,eyebrow movement,+interlocutor1,TURN
+null,null,null,//,eyebrow movement,+interlocutor1,TURN
+null,null,null,SQ,eyebrow movement,+camera,TURN > TILT
+null,null,null,SQ,eyebrow movement,+hands,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > +interlocutor1 > side & UpDn,TURN > TILT
+LEAN,null,null,SQ,null,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,+interlocutor1 > side & UpDn,TURN > PUSH
+LEAN,null,null,null,eyebrow movement,+interlocutor1 > side & UpDn,PUSH > TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn > +interlocutor1 > side & UpDn,TILT > PUSH
+LEAN,null,null,null,eyebrow movement,side & UpDn > +interlocutor1,PUSH
+LEAN,null,null,null,eyebrow movement,+interlocutor1,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1 > +camera > UpDn,Headshake
+LEAN,null,null,SQ,eyebrow movement,UpDn > +camera,Headshake > TURN
+LEAN,CA,null,SQ,eyebrow movement,+camera > side & UpDn > +camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,+camera > UpDn,TURN > TILT
+LEAN,CA,null,SQ,eyebrow movement,UpDn > +interlocutor1,TILT & Headshake
+LEAN,null,null,SQ > CLOSED,eyebrow movement,+interlocutor1 > side & UpDn,TURN
+LEAN,null,null,CLOSED,null,+interlocutor1,TURN
+LEAN,null,null,//,null,+interlocutor1 > side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1 > UpDn > side & UpDn,TURN > TILT
+LEAN,null,null,SQ,null,+interlocutor1,TILT
+LEAN,null,null,SQ,null,+interlocutor1 > side & UpDn,null
+LEAN,null,null,SQ > CLOSED,null,side & UpDn > +interlocutor1,null
+LEAN,null,null,CLOSED > SQ,null,+interlocutor1,Headnod
+LEAN,null,null,SQ,null,+interlocutor1,Headnod > TILT
+LEAN,null,null,SQ,null,+interlocutor1 > side & UpDn > +interlocutor1,TILT & PUSH
+null,null,null,SQ,null,+interlocutor1,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,//,eyebrow movement,side,PUSH > TURN
+null,null,null,//,eyebrow movement,+interlocutor1,TURN
+null,null,null,//,eyebrow movement,side > UpDn,TURN
+null,null,null,// > SQ,null,UpDn > side & UpDn,TURN
+null,CA,null,WD > //,null,side & UpDn,TILT > TURN
+LEAN,null,null,CLOSED,null,side,TURN
+LEAN,null,null,WD,null,side > +interlocutor1,TURN
+LEAN,null,null,WD > CLOSED,null,+interlocutor1 > side,TILT
+TWIST,null,null,CLOSED,null,null,TILT > TURN
+LEANTWIST,null,null,CLOSED,null,null,TURN > TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,CLOSED,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,CLOSED,eyebrow movement,UpDn,TURN > TILT
+TWIST,CA,null,CLOSED,null,null,TILT
+TWIST,CA,null,CLOSED,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT > PUSH
+LEAN,CA,null,null,null,side & UpDn,PUSH
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,CLOSED,null,side & UpDn,TILT
+LEAN,CA,null,CLOSED,null,null,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn > +dh,TILT
+LEAN,CA,null,null,null,+dh > side & UpDn,TILT > Headnod
+LEAN,CA,null,// > CLOSED,null,side & UpDn,Headnod
+LEAN,CA,null,CLOSED,null,null,TURN
+LEAN,CA,null,CLOSED,null,side,TILT
+LEAN,CA,null,//,null,side & UpDn,TILT
+LEAN,CA,null,//,null,side & UpDn,TILT
+LEAN,CA,null,//,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn > +camera,TILT
+LEAN,null,null,//,null,+camera > side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,+camera,TURN
+null,null,null,//,null,null,TILT
+null,null,null,//,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,SQ > //,null,+camera,TILT
+null,null,null,SQ,null,+camera,TILT
+null,null,null,SQ,null,+camera,TILT
+SHOULDERS,null,null,SQ > CLOSED,eyebrow movement,+camera,TILT
+null,null,null,null,null,UpDn,null
+null,null,null,//,null,UpDn,null
+null,null,null,null,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,//,eyebrow movement,null,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TILT
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,//,eyebrow movement,side & UpDn,null
+null,null,null,// > SQ,eyebrow movement,side & UpDn,Headnod
+null,null,null,SQ,null,+camera,Headnod
+null,null,null,SQ,null,+camera,Headnod
+null,null,null,CLOSED,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,null
+null,null,null,//,null,null,null
+null,null,null,CLOSED,null,+camera,TILT
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,SQ,null,+camera,TILT
+null,null,null,SQ,null,UpDn,TILT
+null,null,null,SQ,null,+camera,TILT
+null,null,null,//,null,+camera,null
+LEAN,null,null,SQ,null,+camera,null
+LEAN,null,null,SQ,null,+camera,TILT
+null,null,null,null,null,+camera,TILT
+null,null,null,SQ,null,+camera,TILT
+null,null,null,//,null,null,Headnod
+null,null,null,SQ,null,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+null,null,null,null,null,+hands > +camera,TILT
+null,null,null,null,null,+camera,TILT
+null,null,null,SQ,null,+camera,null
+null,null,null,SQ,null,+camera,TURN
+SHOULDERS,null,null,SQ,null,+camera,TURN
+SHOULDERS,null,null,CLOSED,null,+camera,TURN > Headnod
+null,null,null,CLOSED,null,+camera,TURN
+null,null,null,SQ,null,+camera > UpDn,Headnod
+null,null,null,SQ > CLOSED,null,UpDn,Headnod > TURN
+null,null,null,CLOSED,null,+camera,TURN
+null,null,null,CLOSED,null,+camera,TURN
+null,null,null,CLOSED,null,null,TURN
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED > SQ,null,+camera,TILT
+null,null,null,SQ,null,+camera,TILT
+null,null,null,SQ > //,null,+camera,Headnod
+LEAN,null,null,// > SQ,eyebrow movement,side & UpDn > +camera,Headnod
+null,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,UpDn,null
+null,null,null,SQ,eyebrow movement,side,Headnod & TURN
+null,null,null,SQ > // > SQ,eyebrow movement,side,Headnod & TURN
+LEAN,null,null,SQ,null,side,TURN & TILT
+LEAN,null,null,SQ > //,null,side & UpDn,TILT
+SHOULDERLEAN,null,null,SQ,null,UpDn > +camera,PUSH
+SHOULDERS,null,null,SQ,null,+camera,PUSH
+SHOULDERS,null,null,SQ,null,+camera,null
+SHOULDERS,CA,null,SQ > //,null,UpDn,Headnod
+SHOULDERS,CA,null,//,null,UpDn,Headnod
+SHOULDERLEAN,CA,null,//,null,+camera > UpDn,TURN > TILT
+null,null,null,null,null,UpDn,TILT
+SHOULDERS,null,null,null,null,UpDn > side & UpDn,TURN
+SHOULDERS,CA,null,//,null,side & UpDn,TURN
+null,null,null,//,null,side & UpDn,TILT
+null,CA,null,null,null,side & UpDn,TILT
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,+camera,null
+null,null,null,//,null,+camera,TILT
+null,null,null,SQ,null,side & UpDn,TILT > TURN
+null,CA,null,SQ,null,side & UpDn,TURN
+null,CA,null,null,null,+camera,null
+null,CA,null,//,null,UpDn > +camera,TILT
+null,null,null,//,null,+camera,TILT
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,Headnod
+null,CA,null,// > SQ,null,side & UpDn,Headnod
+null,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera,null
+SHOULDERS,CA,null,SQ,eyebrow movement,+camera,null
+SHOULDERS,null,null,SQ,eyebrow movement,UpDn,TILT
+null,null,null,SQ,eyebrow movement,UpDn > side,TILT > TURN
+null,null,null,SQ > //,eyebrow movement,side,TURN
+null,null,null,// > SQ,eyebrow movement,side,TURN
+null,CA,null,SQ,eyebrow movement,side & UpDn,null
+TWIST,CA,null,SQ > //,eyebrow movement,side & UpDn,null
+TWIST,CA,null,// > SQ,eyebrow movement,side,TURN
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+null,null,null,SQ,eyebrow movement,side,TURN
+null,null,null,SQ,eyebrow movement,+camera,TILT
+SHOULDERS,null,null,SQ > //,eyebrow movement,+camera,TILT
+null,null,null,//,null,side & UpDn,null
+null,null,null,// > SQ,null,+camera,null
+null,null,null,SQ > //,null,+camera,null
+null,null,null,// > SQ > //,eyebrow movement,+camera,null
+null,null,null,// > SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,+camera > side & UpDn,TILT > TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,UpDn,TURN
+SHOULDERLEAN,CA,null,SQ > //,eyebrow movement,+camera > UpDn,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,CLOSED,null,+camera,TILT
+LEAN,null,null,CLOSED > WD,eyebrow movement,+camera > +hands,TILT
+LEAN,null,null,WD > //,eyebrow movement,+hands > +camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,Headshake
+LEANTWIST,null,null,null,eyebrow movement,side & UpDn,PUSH
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,null
+SHOULDERS,null,null,SQ > // > SQ,eyebrow movement,UpDn,TILT
+SHOULDERLEAN,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,CA,null,SQ > // > SQ > // > SQ > //,eyebrow movement,UpDn > side,Headnod > TILT > TURN
+LEAN,null,null,SQ,null,UpDn,Headnod
+null,CA,null,// > SQ,null,+camera,Headnod & TURN
+LEAN,CA,null,SQ > //,eyebrow movement,+camera > side,TURN > TURN > TILT
+LEAN,null,null,//,null,null,null
+LEAN,null,null,//,eyebrow movement,+camera,null
+null,null,null,null,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ > // > SQ,eyebrow movement,UpDn,null
+null,null,null,WD > //,eyebrow movement,+camera,null
+null,null,null,// > SQ,eyebrow movement,+camera,TILT
+null,null,null,SQ > // > SQ,null,+camera,null
+null,null,null,//,null,+camera,Headnod
+null,null,null,//,null,+camera,Headnod
+null,CA,null,SQ,eyebrow movement,+camera,Headnod
+null,null,null,// > SQ,eyebrow movement,+camera > side & UpDn,Headnod
+null,CA,null,SQ,eyebrow movement,side & UpDn,Headnod
+null,null,null,//,null,+camera,TILT
+null,null,null,null,null,+camera,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,//,null,+camera,TILT
+null,CA,null,// > WD,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,UpDn,TILT
+null,null,null,WD,eyebrow movement,UpDn,TILT
+null,null,null,WD,eyebrow movement,UpDn,TILT
+null,null,null,//,null,UpDn > side,TILT > Headnod
+null,CA,null,null,null,side,null
+LEAN,null,null,WD,eyebrow movement,side,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,//,eyebrow movement,+camera,TILT
+null,null,null,//,eyebrow movement,+camera,null
+null,null,null,// > SQ,null,+camera,Headnod
+null,null,null,//,eyebrow movement,+camera,TILT
+SHOULDERS,CA,null,// > SQ > // > SQ,eyebrow movement,+camera,TILT > Headnod > Headnod > Headnod
+null,CA,null,// > SQ,eyebrow movement,+camera,Headnod
+null,CA,null,SQ > // > SQ,eyebrow movement,+camera > side,TURN
+null,CA,null,SQ > WD,eyebrow movement,side,TURN
+null,null,null,//,eyebrow movement,+camera > +nd > +camera,Headnod
+null,null,null,null,eyebrow movement,side,TILT
+null,null,null,//,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,+camera > side,TILT
+null,null,null,// > SQ,eyebrow movement,side > +camera,TILT
+null,null,null,SQ > //,eyebrow movement,+camera,Headnod > Headnod > Headnod
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,// > SQ,null,side > +camera,TURN
+null,null,null,SQ > //,null,+camera,TILT
+LEAN,null,null,// > SQ,null,+camera,TILT
+LEAN,null,null,SQ,null,UpDn,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,CA,null,SQ > //,eyebrow movement,side,Headnod > TURN
+LEAN,null,null,WD > //,eyebrow movement,+camera,TURN > TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,WD,eyebrow movement,+camera,null
+LEAN,null,null,CLOSED,eyebrow movement,+camera,null
+LEAN,null,null,CLOSED > WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,null
+null,null,null,WD,eyebrow movement,+camera,null
+null,CA,null,WD > SQ > WD,eyebrow movement,+camera > side,TURN
+null,CA,null,WD,eyebrow movement,side > +camera,TURN
+null,null,null,WD,eyebrow movement,+camera,Headshake
+null,null,null,SQ > //,eyebrow movement,+camera,Headshake
+null,null,null,// > SQ,eyebrow movement,+camera,null
+null,null,null,SQ > //,eyebrow movement,+camera,null
+null,null,null,//,eyebrow movement,+camera,PUSH
+null,null,null,SQ,eyebrow movement,+camera,PUSH
+LEAN,null,null,SQ > //,eyebrow movement,+camera,null
+LEAN,null,null,// > SQ,eyebrow movement,side,PUSH
+LEAN,null,null,SQ,eyebrow movement,side,TURN > Headshake > TURN
+null,null,null,SQ,eyebrow movement,side > +camera,Headnod
+null,null,null,SQ > //,eyebrow movement,+camera,null
+null,CA,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ > //,eyebrow movement,+camera,Headnod > Headnod > Headnod
+null,null,null,SQ,eyebrow movement,+camera,null
+null,CA,null,SQ > // > SQ > // > SQ,eyebrow movement,+camera,Headnod > Headnod > TURN
+null,null,null,SQ,eyebrow movement,+camera,null
+null,CA,null,SQ,eyebrow movement,+camera > side,Headnod > Headnod > Headnod
+null,CA,null,SQ > //,eyebrow movement,side,Headnod
+null,CA,null,// > SQ > // > WD,eyebrow movement,side > +camera,Headnod > Headnod > TILT
+LEAN,null,null,WD > //,eyebrow movement,+camera > UpDn,TILT
+LEAN,null,null,//,eyebrow movement,UpDn,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEAN,null,null,//,null,UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+null,null,null,//,null,side & UpDn,null
+LEAN,null,null,SQ > //,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ > // > SQ,eyebrow movement,side > +camera,TURN
+null,null,null,SQ,eyebrow movement,+camera,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+camera,TILT
+SHOULDERS,CA,null,SQ > //,eyebrow movement,+camera,TURN
+null,null,null,//,eyebrow movement,side & UpDn > +camera,TURN
+LEAN,null,null,WD > SQ,eyebrow movement,+camera,null
+LEAN,null,null,SQ,eyebrow movement,side,null
+null,null,null,SQ,eyebrow movement,side,null
+null,null,null,//,eyebrow movement,side > +camera,null
+null,null,null,SQ > //,eyebrow movement,+camera,null
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+LEAN,CA,null,SQ > // > SQ > //,eyebrow movement,side & UpDn > +camera,TURN
+null,CA,null,SQ > //,eyebrow movement,side & UpDn,Headnod
+null,CA,null,// > SQ > //,eyebrow movement,side & UpDn > side,null
+LEAN,null,null,WD,eyebrow movement,UpDn,PUSH
+LEAN,null,null,//,eyebrow movement,UpDn,PUSH
+LEAN,null,null,null,null,UpDn,PUSH
+LEAN,CA,null,//,null,UpDn > +camera > side,PUSH > Headnod
+null,null,null,//,eyebrow movement,side > +camera,null
+LEAN,CA,null,//,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ > //,eyebrow movement,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEANTWIST,CA,null,SQ > // > SQ,eyebrow movement,side,TURN > TILT
+TWIST,CA,null,SQ,null,side,TILT
+TWIST,CA,null,WD > // > WD > //,null,side,TILT
+null,null,null,null,null,side,null
+null,null,null,null,null,side,null
+null,null,null,//,null,side > +camera,Headshake
+null,null,null,//,null,+camera,Headshake
+null,null,null,//,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,//,null,+camera,null
+null,null,null,//,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ,eyebrow movement,+camera > UpDn,null
+null,null,null,SQ,eyebrow movement,+camera,null
+TWIST,null,null,SQ > // > SQ > //,eyebrow movement,+camera > UpDn > +camera,null
+TWIST,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,Headshake
+null,null,null,//,null,+camera > side,Headshake > TURN
+null,null,null,null,null,side,TURN
+LEAN,CA,null,//,null,side > +camera,TURN
+TWIST,CA,null,WD > //,null,+camera > side,PUSH > TURN > Headshake
+LEAN,CD,null,null,null,+interlocutor2,PUSH
+LEAN,CA,null,//,null,+interlocutor2,PUSH
+LEAN,null,null,//,null,+interlocutor1,PUSH
+SHOULDERS,CA,null,//,null,+interlocutor1,TILT
+TWIST,CA,null,null,null,+interlocutor1,Headshake
+TWIST,CA,null,null,null,+interlocutor1,Headshake
+TWIST,CA,null,null,null,+interlocutor1,Headshake & PUSH
+TWIST,CA,null,null,null,+interlocutor1,PUSH
+TWIST,CA,null,//,null,+interlocutor1,PUSH
+TWIST,CA,null,WD,null,+interlocutor2,TURN
+TWIST,CA,null,WD,null,+interlocutor2,TURN
+TWIST,CA,null,WD,null,+interlocutor2,Headshake
+TWIST,CA,null,//,null,+interlocutor2 > +camera > +interlocutor2,Headnod > Headnod
+TWIST,CA,null,null,null,+interlocutor2,Headnod
+TWIST,null,null,null,null,+interlocutor2 > side,Headnod
+TWIST,null,null,// > SQ,null,side & UpDn,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn > side,TURN
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+TWIST,null,null,SQ,eyebrow movement,side,TURN
+LEANTWIST,null,null,SQ > //,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,null
+LEAN,null,null,// > SQ,eyebrow movement,side,TURN > TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > side,TILT
+TWIST,null,null,SQ,eyebrow movement,side & UpDn > side,TURN
+TWIST,null,null,SQ > // > SQ,eyebrow movement,side > +camera,TURN > Headnod
+TWIST,CA,null,SQ > // > SQ,eyebrow movement,+camera > side & UpDn,Headnod > Headnod > Headnod > Headnod
+TWIST,CA,cheek movement,SQ > //,eyebrow movement,side & UpDn,Headnod
+SHOULDERTWIST,CA,null,SQ,eyebrow movement,+camera,Headnod
+SHOULDERS,null,null,SQ,eyebrow movement,+camera > UpDn,null
+SHOULDERS,null,null,SQ,eyebrow movement,+camera,null
+SHOULDERS,CA,null,SQ,eyebrow movement,+camera > side & UpDn > +camera,null
+null,CA,null,SQ > //,eyebrow movement,+camera > side & UpDn,null
+null,CA,null,//,eyebrow movement,side & UpDn,null
+TWIST,null,null,null,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,//,eyebrow movement,side & UpDn > +camera,null
+null,CA,null,//,eyebrow movement,+camera > side & UpDn > +camera,PUSH
+null,null,null,//,eyebrow movement,+camera,PUSH
+TWIST,null,null,// > SQ > //,eyebrow movement,UpDn > +camera,null
+TWIST,null,null,//,eyebrow movement,+camera,TURN
+TWIST,CA,null,// > SQ,eyebrow movement,side & UpDn > +camera,TILT > Headnod > TURN
+null,CA,null,SQ,eyebrow movement,+camera,null
+null,CA,null,SQ > //,eyebrow movement,+camera,PUSH
+null,null,null,// > SQ,null,+camera,PUSH
+LEAN,null,null,SQ > //,null,+camera,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,SQ > //,null,UpDn > side & UpDn > +camera > side,TILT > TURN
+LEAN,null,null,WD,null,side,TURN
+LEAN,null,null,WD > //,null,side,TURN
+LEAN,null,null,//,null,side,TURN
+LEAN,null,null,// > WD,null,side & UpDn,TURN
+null,null,null,WD,null,side & UpDn,null
+null,CA,null,WD,null,side & UpDn,Headnod > TURN
+null,null,null,WD,null,side & UpDn,TURN
+null,null,null,// > WD,null,side & UpDn,TURN
+null,null,null,WD > //,null,side & UpDn > side,TURN
+null,null,null,SQ,eyebrow movement,side,null
+null,null,null,SQ > //,eyebrow movement,side,PUSH
+null,null,null,//,eyebrow movement,+camera > side,PUSH
+LEAN,null,null,// > CLOSED,null,side,Headnod
+null,null,null,CLOSED,null,null,Headnod
+null,null,null,CLOSED,null,+camera,Headnod
+null,null,null,WD,null,+camera,Headnod
+null,null,null,WD > //,null,+camera,null
+null,null,null,//,null,+camera,null
+null,null,null,CLOSED,null,+camera,null
+null,null,null,WD,null,+camera,null
+LEAN,null,null,WD,null,+camera,null
+LEAN,null,null,WD,null,side,TURN
+LEAN,null,null,WD,null,side,TURN
+TWIST,null,null,WD > //,null,side,TURN
+TWIST,null,null,WD,null,+camera,TURN
+TWIST,null,null,WD,null,+camera,null
+null,null,null,WD > //,null,+camera,null
+null,null,null,CLOSED,null,UpDn > side,Headnod
+null,null,null,CLOSED,eyebrow movement,side,TILT
+null,null,null,null,eyebrow movement,side > +camera,null
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,+camera,null
+SHOULDERS,null,null,//,null,+camera,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > +nd,TURN > TILT
+null,CA,null,SQ,eyebrow movement,+nd,TURN
+null,CA,null,SQ,eyebrow movement,+nd > +camera,TURN
+null,CA,null,SQ,eyebrow movement,+camera > side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > side,TURN
+null,null,null,SQ,eyebrow movement,UpDn,null
+null,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+null,null,null,SQ > //,eyebrow movement,+hands,TURN
+null,null,null,null,null,+hands,TURN
+null,null,null,null,null,+hands,TURN
+null,null,null,null,null,UpDn,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,TURN
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,null,eyebrow movement,side & UpDn,TURN
+null,null,null,//,eyebrow movement,side & UpDn > +camera,PUSH
+null,null,null,// > SQ,eyebrow movement,side & UpDn > +camera,null
+null,null,null,null,null,+hands,TILT
+TWIST,CA,null,null,null,+hands,TILT
+TWIST,null,null,//,null,+camera,null
+null,null,null,//,null,+camera,null
+null,null,null,//,null,+camera,TURN
+null,null,null,null,null,+camera,TURN > TILT
+null,null,null,//,null,side & UpDn,TILT
+null,null,null,// > CLOSED,null,side & UpDn,TILT
+null,null,null,CLOSED,eyebrow movement,side & UpDn,TILT
+SHOULDERS,CA,null,CLOSED,eyebrow movement,side & UpDn,Headshake
+LEAN,null,null,CLOSED,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,null,eyebrow movement,side & UpDn,PUSH
+null,null,null,//,null,side > +camera,Headnod
+null,null,null,//,null,null,null
+null,null,null,CLOSED,null,side,null
+null,null,null,CLOSED,null,null,TILT
+null,null,null,CLOSED,null,side & UpDn,TILT
+TWIST,null,null,SQ > //,null,+camera,TILT & TURN
+TWIST,null,null,//,null,+camera,TURN
+TWIST,null,null,SQ,eyebrow movement,null,TURN
+TWIST,null,null,SQ,eyebrow movement,null,TURN
+TWIST,null,null,SQ,eyebrow movement,null,Headshake
+TWIST,null,null,CLOSED,null,null,Headshake
+TWIST,null,null,//,null,+interlocutor2,Headshake
+TWIST,null,null,null,null,+interlocutor2,Headshake
+TWIST,null,null,null,null,+interlocutor2,Headshake
+TWIST,null,null,null,null,+interlocutor2,Headshake > Headnod
+TWIST,null,null,//,null,+interlocutor2,Headnod
+TWIST,null,null,null,null,+interlocutor2,null
+TWIST,null,null,//,null,+interlocutor2,TILT
+TWIST,null,null,//,null,+interlocutor2,Headshake
+TWIST,null,null,//,null,+interlocutor2,Headshake > Headnod
+TWIST,null,null,//,null,+interlocutor2,Headnod
+null,null,null,// > CLOSED,null,+interlocutor2,null
+null,null,null,CLOSED,eyebrow movement,null,null
+null,null,null,CLOSED > SQ,eyebrow movement,+camera > side & UpDn,null
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > +interlocutor1,TURN
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1 > side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > +interlocutor1,TURN
+LEAN,CA,null,SQ > // > SQ,eyebrow movement,+interlocutor1,null
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,PUSH
+LEAN,null,null,SQ,eyebrow movement,+interlocutor1,PUSH
+LEAN,null,null,SQ,eyebrow movement,side,Headnod
+LEAN,null,null,SQ > //,eyebrow movement,side,Headnod
+null,null,null,//,null,UpDn,PUSH
+null,null,null,null,null,UpDn,Headnod
+null,null,null,//,null,side,Headnod
+null,null,null,//,eyebrow movement,side,null
+null,null,null,//,eyebrow movement,side,null
+null,null,null,//,null,side > +camera,PUSH
+LEAN,CA,null,// > SQ,eyebrow movement,+camera > side & UpDn,PUSH > Headshake & TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,null
+LEAN,CA,null,SQ,eyebrow movement,side,null
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+null,CA,null,SQ,eyebrow movement,+interlocutor1,TURN
+LEAN,CA,null,SQ > //,eyebrow movement,+interlocutor1,TURN > PUSH
+LEAN,null,null,//,null,+interlocutor2,PUSH
+null,null,null,null,null,+interlocutor2,PUSH
+null,null,null,//,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2 > UpDn,null
+SHOULDERS,null,null,//,eyebrow movement,UpDn > side,null
+SHOULDERS,null,null,null,eyebrow movement,side,Headshake
+SHOULDERS,null,null,//,eyebrow movement,side,Headshake
+SHOULDERS,null,null,null,eyebrow movement,+hands > +interlocutor2,null
+SHOULDERS,null,null,null,eyebrow movement,+interlocutor2 > +hands,null
+null,null,null,null,null,+hands > +interlocutor2,null
+LEAN,null,null,null,null,+interlocutor2,PUSH > Headnod > TILT
+null,null,null,SQ > //,eyebrow movement,+interlocutor2,TILT
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,//,null,side & UpDn > +interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,eyebrow movement,side & UpDn,Headnod
+LEAN,null,null,// > SQ,eyebrow movement,UpDn > +interlocutor2,Headnod
+LEAN,null,null,SQ > // > //,eyebrow movement,+interlocutor2 > +camera > side & UpDn,Headnod
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,Headshake
+null,null,null,null,null,side & UpDn,null
+null,null,null,//,eyebrow movement,side & UpDn,TILT
+null,null,null,//,null,side,null
+null,null,null,//,null,+camera,null
+SHOULDERS,null,null,SQ,null,+camera,Headnod
+SHOULDERS,null,null,SQ > //,null,+camera > UpDn,Headnod
+null,null,null,null,null,UpDn > +camera,Headnod
+null,null,null,//,null,+camera > side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT > TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,Headnod
+LEAN,null,null,//,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side,Headnod
+null,null,null,//,null,side & UpDn,Headnod
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,//,null,side,TILT
+null,null,null,//,null,side,TILT
+LEAN,null,null,null,null,side,TILT
+LEAN,CA,null,//,null,side & UpDn,TILT > TURN
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT > PUSH
+null,null,null,null,null,UpDn,TILT
+SHOULDERS,null,null,null,null,UpDn,TILT
+SHOULDERS,null,null,null,null,UpDn,TILT
+null,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+TWIST,CA,null,null,null,UpDn,TILT
+TWIST,null,null,null,null,UpDn,Headnod
+LEAN,CA,null,//,null,UpDn,TILT
+LEAN,null,null,// > CLOSED,null,side,TURN
+LEAN,null,null,CLOSED,null,UpDn,TILT
+null,null,null,CLOSED,null,UpDn,TILT
+LEAN,null,null,//,null,UpDn,Headnod
+null,null,null,//,null,UpDn > side & UpDn,TURN
+LEAN,null,null,CLOSED,null,side & UpDn,TURN
+LEAN,CA,null,CLOSED,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+null,null,null,null,null,UpDn,TILT
+TWIST,CA,null,WD,eyebrow movement,UpDn > side,TILT > TURN
+TWIST,CA,null,WD,eyebrow movement,side,TURN
+SHOULDERTWIST,CA,null,WD,eyebrow movement,UpDn,TURN
+SHOULDERS,CA,cheek movement,//,null,UpDn,TILT
+null,null,cheek movement,//,null,UpDn,TILT
+null,null,cheek movement,null,null,UpDn,TILT
+null,null,cheek movement,null,null,UpDn,TILT
+LEAN,null,cheek movement,null,null,UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,side,TILT > TURN > TILT
+LEAN,null,null,WD,eyebrow movement,side,TILT
+LEAN,null,null,null,null,side,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,side > UpDn,TILT > TURN
+LEAN,null,null,//,null,side > UpDn,TURN
+null,null,null,//,null,UpDn,TURN
+SHOULDERS,null,null,//,null,UpDn,TURN
+SHOULDERS,null,null,//,null,UpDn,TURN
+SHOULDERS,null,null,//,null,UpDn > side,TURN
+LEAN,CA,null,// > WD,eyebrow movement,side & UpDn,TURN > TILT > TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEANTWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN & PUSH
+LEANTWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN & PUSH
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN & PUSH
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TURN & PUSH
+LEAN,null,null,WD,eyebrow movement,side & UpDn,Headnod & TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,WD,null,side & UpDn,PUSH > TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEANTWIST,CA,null,WD,null,side & UpDn,TILT & PUSH > TURN
+TWIST,null,null,WD,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,WD,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+TWIST,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+TWIST,null,null,WD,eyebrow movement,side & UpDn,PUSH > TURN
+TWIST,CA,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,side,TURN
+LEAN,CA,null,WD,eyebrow movement,side > UpDn,TURN > Headshake
+LEAN,CA,null,WD,eyebrow movement,UpDn > side & UpDn,Headshake > TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,cheek movement,null,eyebrow movement,side & UpDn,PUSH
+null,CA,cheek movement,null,eyebrow movement,side & UpDn,TURN
+null,null,null,//,eyebrow movement,side & UpDn,Headshake
+LEAN,CA,null,//,eyebrow movement,side & UpDn,null
+LEAN,CA,null,//,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side,Headshake
+LEAN,CA,null,SQ,eyebrow movement,side,TILT
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEANTWIST,CA,null,SQ,eyebrow movement,side & UpDn,TURN > Headshake
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side > UpDn,TURN > TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT > PUSH
+LEAN,CA,null,WD,eyebrow movement,UpDn > side & UpDn,PUSH > TURN
+LEAN,CA,null,WD > SQ,eyebrow movement,side & UpDn > side,TURN > TILT
+LEAN,CA,null,SQ > //,eyebrow movement,UpDn,TILT
+LEAN,null,null,//,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+null,null,null,null,null,UpDn,null
+LEAN,null,null,//,eyebrow movement,UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN > TILT
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+LEANTWIST,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+TWIST,null,cheek movement,null,null,side & UpDn,TURN
+LEANTWIST,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERLEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+SHOULDERS,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+TWIST,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEANTWIST,null,null,null,null,side & UpDn,TURN
+TWIST,CA,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN & TILT
+TWIST,null,null,null,null,side & UpDn,TURN & TILT
+SHOULDERS,null,null,null,null,side & UpDn,TURN & TILT
+LEAN,null,null,null,null,side & UpDn,TURN & TILT
+LEAN,null,null,null,null,side & UpDn,TURN & TILT
+LEAN,null,null,null,null,side & UpDn,TURN & TILT
+LEAN,null,cheek movement,null,null,side & UpDn,TILT > Headshake
+LEAN,null,cheek movement,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,Headshake
+LEAN,null,null,null,null,UpDn > side,Headshake
+TWIST,CA,null,null,eyebrow movement,side,TURN
+SHOULDERS,null,null,CLOSED,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TILT
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,Headnod > TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TWIST
+TWIST,null,null,null,eyebrow movement,side & UpDn,TWIST
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+TWIST,null,null,null,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+SHOULDERS,CA,null,SQ,eyebrow movement,UpDn,null
+SHOULDERLEAN,CA,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+SHOULDERS,null,null,null,eyebrow movement,+hands,TILT
+SHOULDERS,null,null,SQ,eyebrow movement,+hands,TILT
+LEAN,CA,null,SQ,eyebrow movement,+hands,PUSH
+LEAN,CA,null,SQ,eyebrow movement,+hands,PUSH
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,PUSH
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN > Headnod
+LEAN,null,null,null,null,side & UpDn,Headnod
+LEANTWIST,null,null,null,null,side & UpDn,Headnod > TURN
+TWIST,null,null,null,null,side & UpDn > +camera,TURN
+LEAN,null,null,WD,eyebrow movement,+camera > side,TILT
+LEAN,null,null,WD,eyebrow movement,side,TILT
+null,null,null,WD,eyebrow movement,side,TILT
+LEAN,null,null,WD,null,side,TILT
+LEAN,null,null,WD,null,side,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT > TURN
+LEAN,null,null,WD,null,side & UpDn,TURN > TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT > TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+SHOULDERLEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn > side,TURN
+LEAN,null,null,null,eyebrow movement,side,null
+null,CA,null,null,eyebrow movement,side,null
+null,CA,null,null,eyebrow movement,side,null
+null,CA,null,null,eyebrow movement,side,null
+null,null,null,null,eyebrow movement,side > UpDn,TURN
+null,CA,null,null,eyebrow movement,UpDn > side,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,SQ,eyebrow movement,side & UpDn,TURN > TILT > TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN
+null,null,null,SQ,eyebrow movement,side & UpDn,TURN > TILT
+null,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > Headnod
+LEAN,null,null,null,null,side & UpDn,null
+TWIST,null,null,null,null,side & UpDn,Headnod
+TWIST,null,null,null,null,side & UpDn > side,Headnod
+TWIST,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+null,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,CA,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,SQ,eyebrow movement,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,//,eyebrow movement,UpDn,TILT
+LEAN,CA,null,null,null,UpDn > side & UpDn,PUSH & TILT
+SHOULDERLEAN,null,null,null,null,side & UpDn,PUSH > TURN
+SHOULDERS,null,null,null,null,side & UpDn,TURN
+null,null,null,null,eyebrow movement,UpDn,TURN
+LEAN,CA,cheek movement,null,eyebrow movement,UpDn > side & UpDn > side,TURN > TILT > Headnod
+null,null,null,null,null,side,Headnod
+SHOULDERS,null,null,null,null,side,TURN
+SHOULDERS,null,null,null,eyebrow movement,side,TURN & Headshake
+SHOULDERS,CA,null,//,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT & TURN
+LEAN,null,null,null,null,side & UpDn > +hands,TURN > TILT
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN > PUSH
+LEAN,null,null,null,null,side,PUSH
+LEAN,CA,null,null,null,UpDn,PUSH
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn > side & UpDn,TILT > TURN
+null,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT & TURN
+LEAN,CA,null,null,null,side & UpDn,TURN > PUSH
+LEAN,CA,null,null,null,UpDn,PUSH
+LEAN,null,null,null,null,UpDn > side & UpDn,PUSH & Headnod > TILT
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,null,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,null,eyebrow movement,side & UpDn > side,TILT > TURN
+TWIST,CA,null,null,eyebrow movement,side > UpDn,TURN > TILT
+LEANTWIST,CA,null,null,eyebrow movement,UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,UpDn > side,TURN
+LEAN,CA,null,null,eyebrow movement,side,TURN
+LEAN,CA,null,null,eyebrow movement,side > UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,UpDn,TURN
+LEAN,CA,null,null,eyebrow movement,UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,UpDn > side,PUSH
+LEAN,CA,null,null,eyebrow movement,side,PUSH & TILT
+LEAN,CA,null,null,eyebrow movement,side,TILT
+LEANTWIST,CA,null,null,eyebrow movement,side,TURN > TILT
+TWIST,null,null,null,eyebrow movement,side,TILT & TURN
+TWIST,null,null,null,eyebrow movement,side,TILT & TURN
+TWIST,CA,null,null,eyebrow movement,side,TURN
+TWIST,CA,null,null,eyebrow movement,side > UpDn,TURN
+TWIST,CA,null,null,eyebrow movement,side & UpDn,TURN
+TWIST,CA,cheek movement,null,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,cheek movement,null,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,cheek movement,null,eyebrow movement,side & UpDn,TURN
+SHOULDERTWIST,null,cheek movement,null,eyebrow movement,side & UpDn,TURN
+TWIST,null,null,null,eyebrow movement,side & UpDn,TURN
+LEANTWIST,CA,null,null,eyebrow movement,side & UpDn,TURN > TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,SQ,null,side & UpDn,TILT
+LEAN,null,cheek movement,SQ,null,side & UpDn,TILT
+LEAN,CA,cheek movement,SQ,null,side & UpDn,TILT
+LEAN,CA,cheek movement,SQ > //,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,null,null,side & UpDn,PUSH
+LEANTWIST,null,null,null,null,side & UpDn,PUSH > TURN
+LEANTWIST,CA,null,null,null,side & UpDn,TURN & TILT
+LEAN,CA,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side,TILT
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN > TILT > TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN > Headnod
+LEAN,CA,null,null,null,side & UpDn,Headnod > TURN
+LEAN,CA,null,//,null,side & UpDn,Headnod > TURN > Headnod
+null,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,//,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN > Headnod > TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+SHOULDERLEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+SHOULDERS,null,null,null,eyebrow movement,side & UpDn,TURN
+SHOULDERLEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,null,null,side & UpDn,Headnod
+LEAN,CA,null,null,null,side & UpDn,Headnod
+LEAN,CA,null,null,null,side & UpDn,Headnod
+LEAN,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+TWIST,CA,null,//,null,side & UpDn,TURN
+TWIST,null,null,//,null,side & UpDn > side,TURN
+TWIST,null,null,//,null,side > +camera,TURN
+null,null,null,//,null,+camera,Headnod > TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,null,eyebrow movement,+camera,TILT
+null,null,null,null,null,+camera,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN > TILT
+LEAN,null,null,SQ > //,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,// > SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,null,+camera,TILT
+LEAN,null,null,null,null,+camera,TILT
+null,null,null,WD,eyebrow movement,+camera,TILT
+null,null,null,WD,null,+camera,null
+null,null,null,WD,null,+camera,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,SQ,null,UpDn,TILT
+LEAN,null,null,SQ,null,UpDn > +camera,TILT
+LEAN,null,null,SQ,null,+camera > UpDn,TILT
+LEAN,CA,null,SQ,null,UpDn,TILT
+LEAN,CA,null,CLOSED,null,UpDn,TILT > TILT
+LEAN,null,null,CLOSED,null,UpDn,TILT
+LEAN,CA,null,CLOSED,null,null,TILT
+LEAN,null,null,CLOSED,null,+camera,TILT
+LEAN,CA,cheek movement,CLOSED,null,+camera,TILT
+LEAN,CA,cheek movement,CLOSED,null,null,TILT
+null,null,cheek movement,CLOSED,eyebrow movement,side & UpDn,TILT
+LEAN,null,cheek movement,CLOSED,eyebrow movement,side & UpDn,TURN & PUSH
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN & PUSH
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,null,null,null,null,+camera,TILT
+LEAN,null,null,WD,null,+camera > side & UpDn,TILT
+LEANTWIST,CA,cheek movement,WD > //,null,side & UpDn,TURN > TURN > TILT
+SHOULDERS,null,null,//,null,side,TILT
+LEAN,null,null,WD,null,+camera > UpDn,TILT
+LEANTWIST,null,null,WD,null,UpDn > side & UpDn,TILT > TURN
+LEAN,null,cheek movement,WD,null,UpDn > side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn,TURN > TILT
+LEAN,null,null,WD,null,+camera,TILT
+LEAN,null,null,WD,null,+camera,TILT
+LEAN,null,null,WD,null,+camera,null
+LEAN,CA,null,WD,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn > side & UpDn,TILT > TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,null,eyebrow movement,side & UpDn > side,TURN
+LEAN,null,null,null,eyebrow movement,side > +camera,Headnod
+LEAN,null,null,null,eyebrow movement,+camera,Headnod
+LEAN,null,null,null,eyebrow movement,+camera,TILT
+LEAN,CA,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,null,eyebrow movement,UpDn,TILT
+LEAN,null,null,//,eyebrow movement,UpDn,Headshake
+LEAN,null,null,//,null,UpDn,Headshake
+LEAN,null,null,//,null,UpDn,TURN
+LEAN,null,null,//,null,+camera,TURN > TILT
+LEAN,null,null,//,null,side & UpDn > +camera,TILT > TURN
+LEAN,null,null,null,null,+camera > side & UpDn,TILT > TURN
+SHOULDERS,CA,null,null,null,side & UpDn,TURN > TILT
+SHOULDERLEAN,CA,null,null,null,+camera,TILT > PUSH
+LEAN,CA,null,null,null,+camera,TILT
+LEANTWIST,CA,null,null,null,+camera > side & UpDn,TURN
+LEANTWIST,CA,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,null,side & UpDn > +camera,TILT > TURN > TILT > TURN
+null,null,null,WD,null,+camera,TURN
+null,null,null,WD > //,null,+camera > side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TURN
+null,CA,null,null,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,+camera > side & UpDn,TURN > TILT > TURN
+LEAN,CA,null,WD,null,side & UpDn > +camera,TURN
+LEANTWIST,CA,null,WD,null,+camera > side & UpDn > side,TURN > TILT > TURN
+LEANTWIST,CD,null,WD > SQ,null,side & UpDn,TURN
+LEAN,CD,null,SQ,null,side,TURN
+LEAN,CA,null,SQ,null,side,TURN > TILT > TURN
+LEAN,CA,null,SQ,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,null,null,null,null,+camera,TURN
+LEAN,null,null,null,null,+camera > UpDn > +camera,TILT > PUSH
+LEANTWIST,null,null,SQ,eyebrow movement,side > UpDn,PUSH > TURN
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn > +camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,null,+camera > side & UpDn,TILT
+LEAN,null,null,SQ,null,side & UpDn,TILT > TURN
+LEAN,CA,null,SQ,null,side & UpDn,TURN
+LEAN,CA,null,SQ,null,side & UpDn > +nd,TURN
+LEANTWIST,CA,null,SQ,null,+nd,TURN
+LEANTWIST,null,null,SQ,null,+nd > side & UpDn,TURN
+LEAN,CA,cheek movement,WD,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn > side,TURN
+LEAN,CA,null,//,null,side,TILT > TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,null,null,side,TURN
+LEAN,CA,null,//,null,side & UpDn,TURN
+LEAN,null,cheek movement,null,null,side & UpDn,TILT
+LEAN,null,cheek movement,null,null,side & UpDn,TURN
+LEAN,CA,cheek movement,null,null,side & UpDn,TURN
+LEANTWIST,CA,cheek movement,SQ,null,side & UpDn > side,TURN > TILT > TURN
+LEANTWIST,CA,cheek movement,SQ,null,side > UpDn,TURN > TILT
+LEAN,CD,null,SQ,null,side & UpDn,TURN
+LEAN,CD,null,SQ,null,side & UpDn,TURN
+LEAN,CA,null,SQ,null,side & UpDn,TURN
+LEAN,CA,null,SQ > // > SQ,null,side & UpDn > side,TURN
+LEAN,CA,null,SQ,null,UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TURN > TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT > TURN
+LEANTWIST,null,cheek movement,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,SQ,null,side & UpDn > +camera,TURN
+TWIST,null,null,SQ,null,+camera,TILT
+LEAN,null,null,SQ,null,+camera,TILT
+LEAN,null,null,SQ,null,side & UpDn > +camera > side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN > TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEANTWIST,null,null,null,eyebrow movement,side & UpDn,TILT
+TWIST,CA,null,SQ,eyebrow movement,side & UpDn,TILT > PUSH
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn > +camera,null
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+LEAN,null,null,SQ,eyebrow movement,+camera,null
+LEAN,null,null,SQ,eyebrow movement,+camera > side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TURN
+TWIST,CA,null,SQ,eyebrow movement,+hands > +camera,TURN
+LEANTWIST,null,null,WD,eyebrow movement,+camera > side & UpDn,TURN > TILT
+LEAN,CA,null,WD,null,side & UpDn > side,TILT
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,null,null,side,TILT
+LEAN,CA,null,null,null,side,TILT
+LEAN,CA,null,null,null,side,TILT
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,WD,null,side > +camera,TURN
+LEAN,null,null,WD,null,+dh > side & UpDn,TURN > TILT
+LEAN,null,null,SQ,null,side & UpDn,TILT
+LEAN,null,null,SQ,null,side & UpDn > +camera,TILT
+LEAN,null,null,SQ,null,+camera,TILT
+LEAN,null,null,SQ,null,+camera,TILT
+LEAN,CA,null,SQ,null,+camera > side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TURN > TILT > PUSH
+LEAN,CD,null,SQ > //,eyebrow movement,side & UpDn,PUSH
+LEAN,CD,null,// > WD,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn > +camera,TILT
+LEAN,null,null,null,eyebrow movement,+camera > side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,cheek movement,SQ > WD,eyebrow movement,side & UpDn,TILT > TURN
+LEAN,null,cheek movement,WD,null,side & UpDn,TURN
+LEAN,null,cheek movement,null,null,side & UpDn,TURN > PUSH
+LEAN,CA,null,//,null,side & UpDn,TURN
+LEAN,CA,null,null,null,side & UpDn,TURN & PUSH
+LEAN,null,null,null,null,side & UpDn,PUSH > TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+TWIST,null,null,null,null,side & UpDn > +camera > side & UpDn,TILT > TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+LEANTWIST,null,null,SQ,null,side & UpDn > +camera,TURN & TILT
+LEAN,null,null,SQ,null,+camera,null
+LEAN,null,null,SQ,null,+camera,null
+LEAN,null,null,SQ > WD,eyebrow movement,+camera,null
+LEAN,CA,null,WD,eyebrow movement,+camera > side & UpDn > +camera,TURN > TILT
+LEAN,null,null,WD > SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TURN > PUSH
+LEAN,null,null,//,null,UpDn > +hands,PUSH
+LEAN,null,null,WD,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn > +camera,TURN > TILT
+LEAN,null,null,WD > SQ,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn > +camera,TILT
+LEAN,null,null,//,null,+camera > side & UpDn,TILT
+LEAN,null,null,WD,null,side & UpDn,TILT > TURN
+LEAN,null,null,WD > // > SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,SQ > //,eyebrow movement,UpDn > side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,SQ,null,side & UpDn,TILT
+LEAN,CA,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,PUSH
+LEAN,CA,null,WD,eyebrow movement,+camera,PUSH > TILT
+LEAN,CA,null,WD  > //,eyebrow movement,+camera > side & UpDn,TILT
+LEAN,CA,null,//,eyebrow movement,side & UpDn,TILT
+LEAN,CA,null,//,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,+camera,TILT
+LEANTWIST,null,null,//,null,side,TURN
+TWIST,null,null,SQ,null,side > +camera,TURN > TILT
+LEAN,null,null,SQ,null,+camera > side,TILT > TURN
+TWIST,null,null,null,null,side & UpDn,TURN
+LEAN,CA,null,SQ,null,side & UpDn,TILT
+LEAN,CA,null,SQ,null,side & UpDn,TILT > PUSH
+LEAN,CA,null,WD,null,side & UpDn,PUSH
+LEAN,CA,null,WD,eyebrow movement,UpDn > +camera,PUSH > TILT
+LEAN,CA,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,PUSH
+LEAN,null,null,WD,eyebrow movement,+camera,PUSH
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,UpDn,TURN > TILT
+LEAN,null,null,WD > //,eyebrow movement,UpDn,TILT
+LEAN,null,null,// > WD,eyebrow movement,UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,UpDn,TILT
+LEAN,null,null,WD,eyebrow movement,UpDn > side,TILT
+LEANTWIST,null,null,WD,eyebrow movement,side,TURN
+TWIST,null,null,SQ,eyebrow movement,side > +camera,TURN > TILT
+null,null,null,SQ,eyebrow movement,+camera,TILT
+TWIST,null,null,SQ,eyebrow movement,+camera,TILT
+LEANTWIST,CA,null,SQ,eyebrow movement,+camera,TILT > TURN
+LEAN,null,null,null,null,side & UpDn,TURN
+LEAN,CA,null,WD,null,side & UpDn,TURN
+LEAN,null,null,WD,null,side & UpDn,TILT
+LEAN,CA,null,WD,eyebrow movement,side & UpDn,TILT > TURN
+LEAN,CA,null,WD > SQ,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ > // > WD,null,side & UpDn > +camera > +hands,TILT
+LEAN,null,null,WD,null,+hands > +camera,TILT
+LEAN,null,null,WD,null,+camera > side & UpDn,TILT > TURN
+LEAN,null,null,WD,null,side & UpDn > +camera,TURN
+LEAN,null,null,WD,null,+camera > +dh,TURN > TILT
+LEAN,null,null,WD,null,+camera,TILT
+LEAN,null,null,WD,null,+camera,TILT & TURN
+LEAN,CA,null,WD > //,null,+camera > side & UpDn,TURN
+LEAN,CA,null,//,null,side & UpDn,TURN
+null,null,null,null,null,side & UpDn,TILT
+LEAN,null,null,//,null,side & UpDn,TILT
+LEAN,CA,cheek movement,//,null,side & UpDn,TILT
+LEAN,null,null,null,null,UpDn,TILT
+LEAN,CA,null,null,null,UpDn,TILT
+TWIST,CA,null,null,null,+nd,TURN
+TWIST,CA,null,null,eyebrow movement,+nd,TURN
+LEANTWIST,CA,null,WD,eyebrow movement,UpDn > side,TURN
+LEAN,CA,null,WD,null,side,TURN
+LEAN,null,null,WD,null,side,TURN
+LEAN,null,null,WD > //,null,side,TURN
+LEAN,null,null,//,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,null,null,null,null,side,TURN
+LEAN,CA,null,//,null,side,TURN
+LEAN,CA,null,// > SQ,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD > //,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD,eyebrow movement,+camera,TURN
+LEAN,null,null,WD,eyebrow movement,+camera,null
+LEAN,null,null,WD,eyebrow movement,+camera,Headshake
+LEAN,null,null,WD > // > WD,eyebrow movement,+camera,TILT
+LEAN,null,null,//,eyebrow movement,+camera,TILT
+LEAN,null,null,// > WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,+camera > +nd,TURN
+LEAN,null,null,WD,eyebrow movement,+nd > +dh,TILT
+LEAN,null,null,// > WD,eyebrow movement,+dh > side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn > +camera,TURN
+LEAN,null,null,WD,eyebrow movement,+camera,TURN > TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,+camera,TILT
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,null,null,WD,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,WD > //,eyebrow movement,side & UpDn,TURN
+LEAN,CA,null,// > SQ,eyebrow movement,UpDn > side & UpDn,Headnod > TURN
+LEAN,CA,null,SQ > //,eyebrow movement,side & UpDn,TURN > Headnod
+LEAN,null,null,// > SQ,null,UpDn,Headnod > TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,UpDn,TILT
+LEAN,null,null,SQ > //,eyebrow movement,side & UpDn,TURN & Headnod
+LEAN,null,null,//,null,side & UpDn,TILT > TURN
+LEAN,null,null,null,null,+camera,TURN
+TWIST,null,null,null,null,+camera,TILT
+TWIST,null,null,null,null,+camera,TILT
+TWIST,null,null,null,null,side & UpDn,TILT
+LEANTWIST,null,null,SQ,null,side & UpDn > side,TILT > TURN
+LEAN,CA,null,SQ,null,side & UpDn,TURN > TILT
+LEAN,CA,null,SQ > //,null,side & UpDn > side,TILT > TURN
+LEAN,CA,null,//,null,side,TURN > Headshake > TILT
+LEAN,CA,null,null,null,side,TILT
+LEAN,null,null,// > SQ,null,side & UpDn,TILT > TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > +camera,TURN > TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera > side & UpDn > +camera,TILT > TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn,TILT
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > +camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,+camera > +dh,TILT
+LEAN,null,null,SQ,eyebrow movement,+dh,TILT
+LEAN,null,null,SQ,eyebrow movement,+dh,TILT > TURN
+LEAN,null,null,SQ,null,+dh,TURN
+LEAN,null,null,SQ,null,+dh > +hands,TURN
+LEAN,null,null,SQ,null,+hands,TURN
+LEAN,null,null,SQ,null,+hands,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,null,side & UpDn,TURN
+LEAN,null,null,SQ,eyebrow movement,side & UpDn > side,TURN
+LEAN,null,null,SQ,eyebrow movement,side > +camera,TURN
+LEAN,null,null,SQ,eyebrow movement,+camera,TILT
+LEAN,null,null,SQ,eyebrow movement,side,TILT > TURN
+LEAN,null,null,SQ,eyebrow movement,side > +camera,TURN

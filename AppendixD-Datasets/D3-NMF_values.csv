@@ -1,0 +1,2991 @@
+﻿Body_Movement,CA,Cheeks,Eye_Aperture,Eyebrows,Eyegaze,Head_Movement
+null,CA:WOMAN,2 x Sucked,SQ,Raised > Furrowed,+sr > +sl,TURN+sr > TILT+forward > TURN+sl
+null,null,null,// > SQ+,Raised > Furrowed,+sr > +camera,TILT+sr
+TWIST+sr,null,null,SQ,Raised > Furrowed,+sr > +camera,TURN+sr > TILT+forward
+LEAN+sr,null,null,SQ+,Raised > Furrowed,+sr,null
+SHOULDERS+hunched,null,null,null,Raised > Furrowed,+sl > +sr,TURN+sr > PUSH+forward
+TWIST+sl,CA:BOY,null,WD,Raised > Furrowed,+sl & +dn,PUSH+forward
+LEAN+sr,null,null,null,Raised > Furrowed,+sl,TURN+sl
+null,CD:FRIEND,null,null,Raised > Furrowed,+sl,TURN+sl
+null,CA:WOMAN,null,SQ > // > SQ > // > SQ+,Raised > Furrowed,+camera,Headnod > Headnod > TURN+sr
+null,CA:WOMAN,null,CLOSED,Raised,null,TILT+sr
+null,CA:WOMAN,null,CLOSED,Raised,null,TILT+sr
+null,CA:WOMAN,null,CLOSED,Raised,null,Headnod
+SHOULDERS+hunched > LEAN+sr,CA:WOMAN,null,CLOSED,Raised,null,TILT+sr > TURN+sr
+null,null,null,null,Raised,null,null
+null,null,null,null,Raised,null,TURN+sl
+null,null,null,null,Raised,null,TURN+sl
+null,null,null,SQ,Raised,null,TILT+forward
+null,null,null,//,Raised,null,TURN+sr
+null,null,null,//,Raised,null,Headnod
+null,null,null,CLOSED,Raised,null,Headnod
+null,null,null,null,Raised,null,null
+SHOULDERS+hunched,null,null,SQ,Raised,null,TILT+forward
+null,null,null,CLOSED,Raised,null,null
+null,null,null,//,Raised,null,TILT+forward & TILT+sl
+null,null,null,//,Raised,null,TILT+forward
+LEAN+backward,null,null,null,Raised,+up > +sr,TILT+backward
+LEAN+forward,CA:DOG ,null,SQ,Raised,+up > +sr,TILT+backward
+LEAN+backward,CA:MAN,null,WD,Raised,+up > +sl,null
+LEAN+sl,null,null,SQ,Raised,+up > +interlocutor1 > +up,PUSH+forward > TURN+sr
+null,null,2 x Puffed,SQ+,Raised,+up > +interlocutor1,TURN+sr > Headnod
+LEAN+forward,null,null,//,Raised,+up > +dn,PUSH+forward
+LEAN+sl > TWIST+sr,CA:HELEN,null,SQ+ > //,Raised,+up > +camera,TILT+sr > TILT+sl
+LEAN+backward,null,null,SQ+,Raised,+up > +camera,Headshake > TURN+sl
+LEAN+backward,null,null,WD,Raised,+up,TILT+sl
+null,null,null,//,Raised,+up,TURN+sr
+LEAN+sl & TWIST+sr,CA:HELEN,null,SQ+,Raised,+up,PUSH+forward
+TWIST+sr,CA:HELEN,null,SQ+,Raised,+up,null
+TWIST+sr > LEAN+sr,CA:HELEN,null,SQ+,Raised,+up,TILT+sr > TILT+sl
+LEAN+forward,CA:HELEN,null,SQ+,Raised,+up,TILT+sl
+TWIST+sr,CA:HELEN,null,SQ+,Raised,+up,TILT+sl
+TWIST+sr > LEAN+sl,CA:HELEN,null,SQ+,Raised,+up,TILT+sl > TILT+sr
+LEAN+forward,CA:DOG ,null,null,Raised,+up,TILT+backward
+TWIST+sr,null,null,null,Raised,+up,TILT+backward
+null,null,null,null,Raised,+up,TILT+backward
+null,null,null,WD,Raised,+up,TILT+backward
+null,null,null,WD,Raised,+up,TILT+backward
+null,null,null,WD,Raised,+up,TILT+backward
+LEAN+forward,null,null,//,Raised,+up,TILT+forward
+LEAN+forward,null,null,WD,Raised,+up,PUSH+backward > PUSH+forward
+LEAN+sl,null,null,SQ,Raised,+sr > +up,TURN+sr
+TWIST+sr > LEAN+forward,null,null,WD,Raised,+sr > +sr & +up > +camera,TURN+sr > TILT+backward
+null,null,null,//,Raised,+sr > +sl & +dn,TURN+sr > TILT+forward
+LEAN+sr,CA:WOMAN,null,null,Raised,+sr > +sl & +dn,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,Raised,+sr > +sl,TURN+sr
+LEAN+sr,CA:WOMAN ,null,WD,Raised,+sr > +sl,TURN+sr
+TWIST+sr,CA:FATHER,2 x Puffed,// > // > //,Raised,+sr > +sl,TURN+sr
+LEAN+forward,null,null,SQ,Raised,+sr > +interlocutor1 > +camera,null
+TWIST+sr,null,null,SQ,Raised,+sr > +interlocutor1,TURN+sr > TILT+forward
+null,CA:MAN,null,//,Raised,+sr > +dn > +sr,TURN+sr
+LEAN+sl,null,2 x Puffed,WD,Raised,+sr > +dn,TURN+sr > TILT+sr
+null,null,null,//,Raised,+sr > +dn,TURN+sl
+SHOULDERS+hunched,CA:FROG   ,null,WD,Raised,+sr > +camera,TURN+sr
+LEAN+forward,CA:BOY,null,WD,Raised,+sr > +camera,PUSH+forward
+LEAN+forward,CA:DOG ,null,WD,Raised,+sr > +camera,TURN+sr
+LEAN+forward,null,2 x Puffed,//,Raised,+sr > +camera,TURN+sr > PUSH+forward
+LEAN+sl > SHOULDERS+hunched,CA:DOG        ,null,WD > //,Raised,+sr > +camera,TURN+sr
+LEAN+backward,null,null,//,Raised,+sr > +camera,TILT+backward
+null,CA:WOMAN,null,WD,Raised,+sr > +camera,TURN+sr
+LEAN+forward,null,null,SQ > // > SQ+,Raised,+sr > +camera,TURN+sr
+null,null,null,// > //,Raised,+sr > +camera,null
+null,null,null,null,Raised,+sr > +camera,null
+TWIST+sr,null,null,// > SQ,Raised,+sr & +up > +sr,TURN+sr
+TWIST+sr,CA:WOMAN,null,WD > //,Raised,+sr & +up > +sl,TILT+forward
+LEAN+sl,null,null,WD > //,Raised,+sr & +up > +dn,TILT+sl
+LEAN+forward,null,null,WD+,Raised,+sr & +up > +camera,TILT+backward
+TWIST+sr,CA:BOY ,null,WD,Raised,+sr & +up,TURN+sr
+LEAN+sr,CA:BOY ,null,null,Raised,+sr & +up,TILT+backward & PUSH+forward
+LEAN+sl,CA:WOMAN,2 x Puffed,//,Raised,+sr & +up,TILT+sl > TURN+sr
+null,CA:WOMAN,null,WD,Raised,+sr & +up,TURN+sr
+null,CA:WOMAN,2 x Puffed,WD,Raised,+sr & +up,TURN+sr
+null,CA:WOMAN,2 x Puffed,WD > //,Raised,+sr & +up,Headnod
+SHOULDERS+hunched & LEAN+sl,CA:FROG,null,WD,Raised,+sr & +up,TURN+sr
+TWIST+sr,null,null,//,Raised,+sr & +up,TURN+sr
+null,null,null,//,Raised,+sr & +up,null
+LEAN+forward,null,null,CLOSED,Raised,+sr & +up,PUSH+backward
+LEAN+forward,null,null,null,Raised,+sr & +up,PUSH+backward
+null,null,null,SQ,Raised,+sr & +up,TURN+sr
+null,null,null,SQ,Raised,+sr & +up,TURN+sr
+LEAN+forward,null,null,WD+,Raised,+sr & +up,TILT+backward
+TWIST+sl,CA:HELEN,null,//,Raised,+sr & +dn > +sl > +sl & +dn,PUSH+forward
+TWIST+sr & TWIST+sl,CA:DOG,null,null,Raised,+sr & +dn > +sl & +dn,Headshake > TURN+sl
+LEAN+forward,CA:BOY,null,SQ,Raised,+sr & +dn > +interlocutor1 > +sr & +up,TURN+sr > TILT+backward
+LEAN+forward,CA:BOY,null,null,Raised,+sr & +dn > +interlocutor1 > +sr & +dn,TILT+forward > PUSH+forward
+LEAN+forward,null,null,null,Raised,+sr & +dn > +interlocutor1,PUSH+forward
+LEAN+sr,null,null,//,Raised,+sr & +dn > +dn > +sr & +dn,Headshake
+LEAN+forward > LEAN+sr,CA:BOY,null,SQ > //,Raised,+sr & +dn > +dn,TURN+sr > Headnod
+TWIST+sl,CA:MAN,null,null,Raised,+sr & +dn > +camera > +sr & +dn > +dn,TILT+forward
+LEAN+sr > LEAN+sl,CA:DOG,null,WD,Raised,+sr & +dn > +camera > +dn,TILT+sl
+LEAN+backward,CA:BOY,null,WD,Raised,+sr & +dn > +camera,PUSH+backward
+null,null,null,//,Raised,+sr & +dn > +camera,TURN+sr
+TWIST+sr,CA:WOMAN,null,//,Raised,+sr & +dn > +camera,null
+LEAN+sr,null,null,WD+,Raised,+sr & +dn > +camera,TURN+sr
+LEAN+sr,null,null,null,Raised,+sr & +dn,TILT+sl
+LEAN+forward,CA:BOY ,null,null,Raised,+sr & +dn,PUSH+forward
+LEAN+sr,CA:DOG,null,null,Raised,+sr & +dn,TURN+sl & PUSH+forward
+LEAN+sl,null,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+forward,null,null,null,Raised,+sr & +dn,PUSH+forward
+LEAN+sl,CA:WOMAN ,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+sl,CA:WOMAN ,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+sl,CA:WOMAN ,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+sl,CA:WOMAN ,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+sl,CA:WOMAN ,null,null,Raised,+sr & +dn,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,Raised,+sr & +dn,TURN+sr
+null,null,null,null,Raised,+sr & +dn,TILT+forward
+null,null,null,// > SQ+,Raised,+sr & +dn,TILT+forward > TILT+backward
+null,null,null,SQ > //,Raised,+sr & +dn,TURN+sr > Headnod
+TWIST+sr & SHOULDERS+hunched,CA:FATHER,null,WD,Raised,+sr & +dn,TURN+sr
+LEAN+forward,null,null,SQ,Raised,+sr & +dn,TILT+forward
+null,null,null,SQ,Raised,+sr & +dn,TILT+forward
+null,null,null,SQ,Raised,+sr & +dn,TILT+forward
+LEAN+forward > TWIST+sr,null,null,null,Raised,+sr & +dn,PUSH+forward
+SHOULDERS+hunched,null,null,SQ+,Raised,+sr & +dn,null
+TWIST+sr,null,null,null,Raised,+sr & +dn,TILT+backward
+LEAN+backward,null,null,null,Raised,+sr & +dn,TILT+backward
+LEAN+sl,null,null,SQ > //,Raised,+sr & +dn,TILT+forward & TILT+sl
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+forward > LEAN+sl,CA:DEER,null,WD+,Raised,+sr & +dn,TILT+forward > TURN+sr
+LEAN+sl,CA:DEER,null,WD+ > SQ,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,WD+,Raised,+sr & +dn,TURN+sr
+LEAN+sr > LEAN+forward,CA:BOY,null,WD+ > //,Raised,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ > //,Raised,+sr & +dn,TURN+sr & Headnod
+LEAN+forward,CA:BOY ,null,WD,Raised,+sr,TURN+sr
+TWIST+sr,CA:DOG ,null,WD,Raised,+sr,TURN+sr
+LEAN+sl,CD:MAN,null,null,Raised,+sr,TURN+sr
+LEAN+sl,CD:MAN,null,null,Raised,+sr,TURN+sr
+LEAN+sl,CD:MAN,null,null,Raised,+sr,TURN+sr
+LEAN+sl,CD:MAN,null,null,Raised,+sr,TURN+sr
+null,null,null,null,Raised,+sr,TURN+sr
+null,null,null,null,Raised,+sr,TURN+sr
+null,CD:MAN,null,null,Raised,+sr,PUSH+forward
+null,CD:MAN,null,WD,Raised,+sr,PUSH+forward
+null,CD:MAN,null,WD,Raised,+sr,PUSH+forward
+LEAN+sl,null,null,WD > // > WD,Raised,+sr,PUSH+backward
+LEAN+sl,null,null,WD,Raised,+sr,PUSH+backward
+LEAN+sl,null,null,WD,Raised,+sr,PUSH+backward
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sr,TURN+sr
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sr,TURN+sr
+LEAN+forward,CA:WOMAN ,null,WD,Raised,+sr,PUSH+forward
+null,CA:WOMAN ,null,WD,Raised,+sr,PUSH+forward
+null,CA:WOMAN ,null,WD,Raised,+sr,PUSH+forward
+null,CA:WOMAN ,null,WD,Raised,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,CLOSED,Raised,+sr,PUSH+forward
+null,CA:WOMAN,null,CLOSED,Raised,+sr,Headnod
+LEAN+sr,CA:WOMAN,null,null,Raised,+sr,TURN+sr
+LEAN+sr,null,null,SQ,Raised,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,Raised,+sr,TURN+sr
+null,null,null,WD,Raised,+sr,TURN+sr
+LEAN+sr,null,null,//,Raised,+sr,TURN+sr
+null,null,null,null,Raised,+sr,TURN+sr
+null,null,null,null,Raised,+sr,TURN+sr
+LEAN+sr,null,null,SQ+,Raised,+sr,TURN+sr > Headnod
+LEAN+sl,null,null,null,Raised,+sr,TURN+sr
+LEAN+sl,null,null,null,Raised,+sr,TURN+sr
+LEAN+forward,null,null,SQ+,Raised,+sr,null
+LEAN+forward,CA:FRIEND,null,SQ+,Raised,+sr,TURN+sr
+null,null,null,WD+,Raised,+sr,TURN+sr
+TWIST+sr,null,null,WD > //,Raised,+sr,TILT+forward & TURN+sr
+TWIST+sr,null,null,// > // > CLOSED > //,Raised,+sr,TURN+sr > TILT+sl
+null,CA:POLICE,null,null,Raised,+sr,TURN+sr
+null,CA:POLICE,null,//,Raised,+sr,TURN+sr > Headnod
+null,null,null,null,Raised,+sr,TURN+sr
+LEAN+sl,null,null,null,Raised,+sr,TURN+sr
+LEAN+sl,null,null,//,Raised,+sr,TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,Raised,+sr,TURN+sr
+TWIST+sr,null,null,SQ > //,Raised,+sr,TURN+sr
+LEAN+sr,null,null,WD,Raised,+sr,TILT+sr > TILT+forward
+null,null,null,null,Raised,+sr,TILT+backward
+LEAN+forward,CA:WOMAN,null,SQ > //,Raised,+sr,Headnod > TURN+sr
+LEAN+forward,null,null,// > SQ,Raised,+sr,PUSH+forward
+LEAN+backward,null,null,SQ,Raised,+sr,TURN+sr > Headshake > TURN+sr
+null,null,null,SQ+,Raised,+sr,null
+null,null,null,SQ+ > //,Raised,+sr,PUSH+forward
+null,null,null,CLOSED,Raised,+sr,TILT+backward
+null,null,null,//,Raised,+sr,null
+null,null,null,//,Raised,+sr,null
+LEAN+sl,null,null,WD,Raised,+sr,TILT+forward > TURN+sr > TILT+sl
+LEAN+sl,null,null,WD,Raised,+sr,TILT+sl
+LEAN+sl > TWIST+sr,null,null,WD,Raised,+sr,TURN+sr
+LEAN+sl > LEAN+sr > LEAN+sl,CA:WOMAN,null,null,Raised,+sl > +sr > +sl,TURN+sl > TURN+sr > TILT+sl > TURN+sl
+TWIST+sr,null,null,WD,Raised,+sl > +sr & +up,PUSH+backward
+null,null,null,WD,Raised,+sl > +sr & +dn,PUSH+forward
+null,null,null,null,Raised,+sl > +sr,TURN+sl > TURN+sr
+null,null,null,//,Raised,+sl > +sr,TURN+sr
+LEAN+forward,null,null,//,Raised,+sl > +sr,Headnod
+null,null,null,WD+,Raised,+sl > +sr,TURN+sr
+null,CA:MAN,null,SQ+ > CLOSED,Raised,+sl > +sr,TILT+forward > TURN+sr
+LEAN+forward,null,null,//,Raised,+sl > +interlocutor1,null
+LEAN+sl,null,null,//,Raised,+sl > +dn,TILT+forward
+null,CD:MAN,null,null,Raised,+sl > +dn,Headnod
+LEAN+backward,CA:MAN,2 x Puffed,CLOSED > //,Raised,+sl > +dn,TILT+forward > TURN+sr > Headshake
+LEAN+sr,null,null,//,Raised,+sl > +dn,TILT+backward
+SHOULDERS+hunched > LEAN+forward,null,null,//,Raised,+sl > +camera > +sr & +dn,TURN+sr
+SHOULDERS+hunched > LEAN+forward,CD:FATHER,null,// > //,Raised,+sl > +camera > +sl & +dn,Headnod
+null,null,null,WD,Raised,+sl & +up > +camera > +sl & +up,TURN+sl
+TWIST+sl,CA:DOG,null,SQ,Raised,+sl & +up > +camera,TURN+sl
+LEAN+backward,CA:DOG,null,SQ,Raised,+sl & +up > +camera,null
+LEAN+sr,CA:DOG,null,// > WD,Raised,+sl & +up,TURN+sl & TILT+backward
+null,null,null,WD,Raised,+sl & +up,TURN+sl
+TWIST+sl,null,2 x Puffed,WD,Raised,+sl & +up,TURN+sl
+TWIST+sl,null,2 x Puffed,WD,Raised,+sl & +up,TILT+backward
+TWIST+sl,CA:DOG,null,SQ,Raised,+sl & +up,TURN+sl
+TWIST+sl,CA:DOG,null,SQ,Raised,+sl & +up,TURN+sl
+LEAN+sr,null,null,SQ > //,Raised,+sl & +up,TURN+sl > PUSH+backward
+SHOULDERS+hunched,CA:WOMAN ,null,WD,Raised,+sl & +up,null
+null,null,null,SQ,Raised,+sl & +up,TURN+sl > TURN+sr
+null,null,null,//,Raised,+sl & +up,Headnod > TILT+forward
+null,null,null,SQ,Raised,+sl & +up,null
+null,null,null,null,Raised,+sl & +up,null
+null,null,null,null,Raised,+sl & +up,null
+null,null,null,null,Raised,+sl & +up,TURN+sr
+LEAN+forward,CA:HELEN,null,null,Raised,+sl & +up,TURN+sr
+LEAN+forward,CA:HELEN,null,null,Raised,+sl & +up,TURN+sr
+TWIST+sl,null,null,// > SQ+,Raised,+sl & +up,Headnod
+null,null,null,//,Raised,+sl & +up,TILT+forward
+null,null,null,null,Raised,+sl & +up,null
+SHOULDERS+hunched,null,null,null,Raised,+sl & +up,TILT+forward
+LEAN+sl,null,null,//,Raised,+sl & +up,TURN+sr > TURN+sl
+null,CA:DOG,null,WD,Raised,+sl & +up,TURN+sl
+LEAN+sr,null,null,SQ,Raised,+sl & +up,null
+null,null,null,//,Raised,+sl & +up,TILT+backward
+LEAN+sr > TWIST+sr,null,null,null,Raised,+sl & +up,TILT+forward
+TWIST+sr > TWIST+sr > TWIST+sl,CA:DOG,null,SQ,Raised,+sl & +up,TILT+forward > PUSH+forward > PUSH+forward
+LEAN+sr,null,null,SQ,Raised,+sl & +up,TURN+sl
+LEAN+sl > LEAN+forward,CA:BOY,null,WD,Raised,+sl & +dn > +sr & +dn,TURN+sl > TURN+sr
+null,CA:WOMAN,null,null,Raised,+sl & +dn > +sr,TURN+sr
+LEAN+forward,null,null,WD > //,Raised,+sl & +dn > +sl,PUSH+forward > TILT+backward
+SHOULDERS+hunched & LEAN+forward,null,2 x Puffed,null,Raised,+sl & +dn > +interlocutor1,TILT+forward
+null,null,null,null,Raised,+sl & +dn > +dn,Headnod
+null,null,null,// > //,Raised,+sl & +dn > +dn,TILT+backward
+LEAN+forward,null,null,null,Raised,+sl & +dn > +dn,TURN+sl & PUSH+forward
+LEAN+forward,CA:DAD ,null,null,Raised,+sl & +dn > +camera,PUSH+forward
+TWIST+sl,null,null,null,Raised,+sl & +dn > +camera,TILT+forward > Headnod
+LEAN+sl,CA:BOY ,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,null,null,WD,Raised,+sl & +dn,TILT+forward
+LEAN+backward,null,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,null,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,null,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,null,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,null,null,WD > SQ,Raised,+sl & +dn,TURN+sl
+LEAN+sl,null,null,WD,Raised,+sl & +dn,null
+LEAN+sl,null,null,WD,Raised,+sl & +dn,TURN+sr
+null,null,null,null,Raised,+sl & +dn,null
+LEAN+forward,null,null,null,Raised,+sl & +dn,null
+LEAN+forward,null,2 x Puffed,SQ,Raised,+sl & +dn,TILT+backward > TURN+sl
+null,null,null,//,Raised,+sl & +dn,TURN+sr
+LEAN+sl,CA:MAN ,null,CLOSED,Raised,+sl & +dn,TURN+sl > PUSH+forward
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sl & +dn,PUSH+forward
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sl & +dn,PUSH+forward
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sl & +dn,PUSH+forward
+LEAN+forward,CD:WOMAN ,null,WD+,Raised,+sl & +dn,PUSH+forward
+LEAN+forward,CD:WOMAN ,null,WD+ > //,Raised,+sl & +dn,TURN+sr
+LEAN+forward,CD:WOMAN ,null,//,Raised,+sl & +dn,Headnod
+null,CD:WOMAN ,null,null,Raised,+sl & +dn,Headnod
+null,CD:WOMAN ,null,null,Raised,+sl & +dn,Headnod
+TWIST+sr,CD:WOMAN ,null,null,Raised,+sl & +dn,Headnod
+null,null,null,null,Raised,+sl & +dn,TILT+forward > Headshake
+null,null,null,null,Raised,+sl & +dn,Headshake
+null,null,null,null,Raised,+sl & +dn,Headshake
+LEAN+forward,null,null,//,Raised,+sl & +dn,TURN+sl
+LEAN+forward,CA:WOMAN,null,null,Raised,+sl & +dn,TURN+sl
+LEAN+forward > LEAN+sl,null,null,SQ,Raised,+sl & +dn,PUSH+forward
+LEAN+sl,null,null,SQ,Raised,+sl & +dn,PUSH+forward
+LEAN+sl,null,null,SQ,Raised,+sl & +dn,PUSH+forward
+LEAN+sl,null,null,SQ > //,Raised,+sl & +dn,PUSH+forward
+SHOULDERS+hunched,null,null,null,Raised,+sl & +dn,null
+null,null,null,null,Raised,+sl & +dn,null
+null,null,null,null,Raised,+sl & +dn,null
+LEAN+sr,null,null,SQ,Raised,+sl & +dn,TILT+forward
+LEAN+sr,null,null,SQ,Raised,+sl & +dn,TILT+forward
+LEAN+sr,null,null,SQ,Raised,+sl & +dn,TILT+forward
+null,null,null,null,Raised,+sl & +dn,TILT+forward
+null,null,null,null,Raised,+sl & +dn,TILT+forward
+null,null,null,null,Raised,+sl & +dn,TILT+forward
+null,null,null,null,Raised,+sl & +dn,TILT+forward
+null,null,null,WD,Raised,+sl & +dn,TILT+forward
+LEAN+forward,CA:FRIEND,null,WD,Raised,+sl & +dn,PUSH+forward
+LEAN+forward,CA:FRIEND,null,WD,Raised,+sl & +dn,PUSH+forward
+null,null,null,WD,Raised,+sl & +dn,null
+LEAN+backward,null,null,WD,Raised,+sl & +dn,null
+LEAN+sr,null,null,null,Raised,+sl & +dn,TILT+sr
+null,null,null,SQ+,Raised,+sl & +dn,TILT+forward
+LEAN+forward,null,null,null,Raised,+sl & +dn,TILT+backward
+null,null,null,// > //,Raised,+sl & +dn,TILT+sl
+LEAN+forward,null,null,//,Raised,+sl & +dn,TILT+forward
+SHOULDERS+hunched,null,null,//,Raised,+sl & +dn,TILT+forward
+LEAN+forward,CA:HELEN,null,SQ+,Raised,+sl & +dn,TILT+sl
+null,null,null,SQ+,Raised,+sl & +dn,TILT+sl
+null,null,null,SQ+ > // > SQ+,Raised,+sl & +dn,TILT+sl
+SHOULDERS+hunched,null,null,SQ+,Raised,+sl & +dn,null
+SHOULDERS+hunched,null,null,SQ+,Raised,+sl & +dn,null
+SHOULDERS+hunched,CA:HELEN,null,SQ+,Raised,+sl & +dn,TILT+backward
+SHOULDERS+hunched,CA:HELEN,null,SQ+ > //,Raised,+sl & +dn,TILT+sl > TILT+forward
+null,null,null,//,Raised,+sl & +dn,TILT+sl
+null,null,null,SQ+,Raised,+sl & +dn,TURN+sl
+TWIST+sl,null,null,WD,Raised,+sl & +dn,TURN+sl
+TWIST+sl,null,null,WD,Raised,+sl & +dn,TURN+sl
+LEAN+backward,CA:DOG,null,//,Raised,+sl & +dn,null
+LEAN+forward,CA:DOG,null,//,Raised,+sl & +dn,TILT+forward
+SHOULDERS+hunched,null,null,CLOSED,Raised,+sl & +dn,TURN+sl
+LEAN+sl > SHOULDERS+hunched,null,null,null,Raised,+sl & +dn,TURN+sl
+SHOULDERS+hunched,null,null,null,Raised,+sl & +dn,TURN+sl
+SHOULDERS+hunched & LEAN+sl,CA:BOY ,null,null,Raised,+sl & +dn,PUSH+forward
+LEAN+sl,CA:BOY ,null,null,Raised,+sl & +dn,PUSH+forward
+null,null,2 x Puffed,CLOSED,Raised,+sl & +dn,TILT+sl
+LEAN+forward,null,2 x Puffed,CLOSED,Raised,+sl & +dn,TURN+sl & PUSH+forward
+LEAN+sr > LEAN+sl,null,null,WD+ > SQ,Raised,+sl & +dn,TILT+backward > TILT+forward
+LEAN+sl,null,null,SQ,Raised,+sl & +dn,TILT+forward
+LEAN+sl,CA:BOY,null,// > SQ,Raised,+sl & +dn,TURN+sr > TURN+sl
+LEAN+sl,CA:BOY,null,WD > //,Raised,+sl & +dn,TURN+sl
+LEAN+forward,null,null,WD,Raised,+sl,TILT+backward
+null,null,null,null,Raised,+sl,TURN+sr
+LEAN+sl,null,null,null,Raised,+sl,TURN+sr
+LEAN+sl,CD:MAN,null,null,Raised,+sl,TURN+sr
+SHOULDERS+hunched,CA:WOMAN,null,null,Raised,+sl,PUSH+forward & TILT+sl
+LEAN+sl,CA:WOMAN ,null,WD,Raised,+sl,PUSH+forward
+SHOULDERS+hunched,null,null,//,Raised,+sl,TILT+backward
+SHOULDERS+hunched,CA:MAN ,null,// > CLOSED,Raised,+sl,TILT+backward > Headnod > TURN+sl
+null,CA:WOMAN ,null,SQ,Raised,+sl,TURN+sr
+null,CA:WOMAN ,null,SQ > //,Raised,+sl,TURN+sr > TILT+forward
+LEAN+sl,null,null,null,Raised,+sl,PUSH+backward > TILT+backward
+LEAN+sl,null,null,null,Raised,+sl,TILT+backward
+LEAN+sl,null,null,null,Raised,+sl,TILT+sr > TURN+sr
+null,null,null,WD,Raised,+sl,null
+LEAN+sl,null,null,null,Raised,+sl,TURN+sl
+LEAN+sl,null,null,null,Raised,+sl,TURN+sl
+LEAN+sr,null,null,null,Raised,+sl,TILT+sl
+null,CA:WOMAN,null,null,Raised,+sl,TILT+sl
+LEAN+backward,CA:WOMAN,null,null,Raised,+sl,TURN+sl
+LEAN+backward,null,null,null,Raised,+sl,TURN+sl
+LEAN+sr,CA:WOMAN,null,CLOSED,Raised,+sl,PUSH+forward
+null,null,null,SQ,Raised,+sl,null
+LEAN+backward,CA:WOMAN,null,CLOSED,Raised,+sl,TILT+sl
+null,CA:PERSON,null,null,Raised,+sl,TILT+sl
+null,null,2 x Puffed,null,Raised,+sl,Headnod
+null,CA:WOMAN,2 x Puffed,CLOSED,Raised,+sl,Headnod
+null,CA:WOMAN,null,null,Raised,+sl,Headnod
+null,CA:WOMAN,null,null,Raised,+sl,TILT+sl
+null,null,null,//,Raised,+sl,TILT+sl
+null,null,null,null,Raised,+sl,TURN+sl
+null,null,null,null,Raised,+sl,TURN+sl
+TWIST+sl,null,null,null,Raised,+sl,TURN+sl
+LEAN+sl,CA:WOMAN,null,null,Raised,+sl,TURN+sl
+LEAN+sl,CA:WOMAN,null,//,Raised,+sl,TURN+sl
+LEAN+sl,CA:WOMAN,null,//,Raised,+sl,TURN+sl
+LEAN+sl,CD:WOMAN,null,null,Raised,+sl,TURN+sl
+LEAN+sl,CD:WOMAN,null,null,Raised,+sl,TURN+sl
+null,null,null,null,Raised,+sl,null
+null,null,null,null,Raised,+sl,null
+LEAN+backward,CA:WOMAN  ,null,null,Raised,+sl,Headnod
+LEAN+backward,CA:WOMAN  ,null,//,Raised,+sl,Headnod
+null,CA:WOMAN  ,null,//,Raised,+sl,Headnod
+null,CA:WOMAN  ,null,null,Raised,+sl,TURN+sl
+null,CA:WOMAN  ,null,null,Raised,+sl,Headnod
+LEAN+sl,null,null,//,Raised,+sl,Headnod
+LEAN+sl,null,null,null,Raised,+sl,Headnod
+TWIST+sl,CA:WOMAN,null,WD,Raised,+sl,TURN+sr
+null,CA:WOMAN,null,WD > //,Raised,+sl,TURN+sr
+null,null,null,WD,Raised,+sl,null
+null,null,null,WD,Raised,+sl,null
+null,null,null,//,Raised,+sl,TURN+sr
+null,null,null,null,Raised,+sl,TURN+sr > TILT+sr
+SHOULDERS+hunched,CA:WOMAN,null,//,Raised,+sl,TILT+sr
+SHOULDERS+hunched,CA:WOMAN,null,CLOSED,Raised,+sl,TILT+sr
+LEAN+sr,null,null,//,Raised,+sl,Headnod
+LEAN+sl,CA:WOMAN,null,WD,Raised,+sl,TILT+backward
+LEAN+sl > LEAN+sr,CA:WOMAN,null,WD > //,Raised,+sl,TURN+sl
+null,null,null,null,Raised,+sl,PUSH+backward
+null,null,null,null,Raised,+sl,PUSH+backward
+null,null,null,WD,Raised,+sl,TILT+forward
+null,null,null,WD,Raised,+sl,TILT+forward
+null,null,null,WD,Raised,+sl,TILT+forward
+LEAN+forward,null,null,WD,Raised,+sl,TILT+forward
+LEAN+forward,CA:WOMAN,null,WD,Raised,+sl,TURN+sl
+LEAN+forward,null,null,null,Raised,+sl,TILT+backward
+LEAN+forward,null,null,null,Raised,+sl,TILT+backward
+null,null,null,null,Raised,+sl,TURN+sl
+null,null,null,null,Raised,+sl,PUSH+forward
+null,CD:FRIEND,null,null,Raised,+sl,PUSH+forward
+null,CD:FRIEND,null,null,Raised,+sl,TURN+sl
+null,CD:MAN,null,null,Raised,+sl,Headnod
+null,null,null,WD,Raised,+sl,TURN+sl > Headnod
+null,CA:MAN,null,null,Raised,+sl,TILT+backward
+null,null,null,null,Raised,+sl,TILT+backward > TURN+sl
+null,null,null,null,Raised,+sl,TURN+sl
+null,null,null,null,Raised,+sl,TURN+sl
+LEAN+backward,CA:MAN,null,null,Raised,+sl,null
+null,CA:MAN,null,WD,Raised,+sl,PUSH+forward
+null,CA:MAN,null,WD,Raised,+sl,PUSH+forward
+null,CA:MAN,null,null,Raised,+sl,TURN+sl
+null,CA:MAN,null,null,Raised,+sl,TURN+sl
+LEAN+sl,null,null,null,Raised,+sl,null
+null,CA:MOTHER ,null,null,Raised,+sl,null
+null,CA:MOTHER,null,WD+,Raised,+sl,null
+null,CA:MOTHER,null,WD+,Raised,+sl,TURN+sl
+null,CA:MOTHER,null,WD+,Raised,+sl,TURN+sl
+LEAN+sl,CA:MOTHER,null,WD+,Raised,+sl,TURN+sl
+LEAN+sl,CA:MOTHER,null,WD,Raised,+sl,TURN+sl
+LEAN+sl,CA:MOTHER,null,WD,Raised,+sl,TURN+sl
+null,CA:MOTHER,null,WD,Raised,+sl,TURN+sl
+null,CA:MOTHER,null,WD,Raised,+sl,TURN+sl
+null,null,null,//,Raised,+sl,TILT+forward
+LEAN+sr,null,2 x Puffed,SQ > //,Raised,+sl,TURN+sl & Headnod
+null,null,null,//,Raised,+sl,Headnod
+LEAN+sr,null,null,SQ,Raised,+sl,TILT+sl
+LEAN+sr,null,null,SQ,Raised,+sl,TILT+sl > TILT+sr
+LEAN+forward,null,null,//,Raised,+sl,TILT+sl
+null,null,null,//,Raised,+sl,TILT+forward
+LEAN+forward,null,2 x Puffed,// > //,Raised,+sl,TURN+sl
+LEAN+sl,null,null,null,Raised,+sl,null
+LEAN+sl,null,null,null,Raised,+sl,TURN+sl
+TWIST+sl,CA:BROTHER,null,SQ,Raised,+sl,TILT+forward
+TWIST+sl,null,null,null,Raised,+sl,TILT+forward
+TWIST+sl,null,null,null,Raised,+sl,TILT+forward
+LEAN+sr,CA:MAN,null,//,Raised,+sl,TURN+sl
+LEAN+sr,CA:MAN,null,SQ,Raised,+sl,TURN+sl
+LEAN+sr,CA:MAN,null,SQ > //,Raised,+sl,TURN+sl
+SHOULDERS+hunched,null,null,null,Raised,+sl,Headshake
+SHOULDERS+hunched,null,null,//,Raised,+sl,Headshake
+TWIST+sl,CA:FROG ,null,WD,Raised,+sl,TURN+sl
+TWIST+sl,CA:RAT,null,null,Raised,+sl,TURN+sl
+LEAN+backward,null,null,WD+,Raised,+sl,TILT+backward
+null,null,null,WD+,Raised,+sl,TILT+backward
+null,null,null,WD,Raised,+nd > +dh > +camera,TILT+forward
+LEAN+sr,null,null,WD,Raised,+nd > +dh,TILT+forward
+SHOULDERS+hunched,null,null,//,Raised,+nd,TILT+backward
+null,null,null,null,Raised,+nd,TILT+forward
+null,null,null,//,Raised,+nd,TILT+forward
+SHOULDERS+hunched,null,null,null,Raised,+interlocutor2 > +hands,null
+LEAN+backward,null,null,SQ > // > // > //,Raised,+interlocutor2 > +camera > +sl & +up,Headnod
+null,null,null,SQ+ > //,Raised,+interlocutor2,TILT+forward
+LEAN+forward,null,null,SQ,Raised,+interlocutor1 > +up > +sr & +dn,TURN+sr > TILT+forward
+LEAN+forward,null,null,WD,Raised,+interlocutor1 > +sr & +up,TURN+sr > PUSH+forward
+LEAN+forward,null,null,null,Raised,+interlocutor1 > +sr & +dn,PUSH+forward > TILT+forward
+LEAN+forward,null,null,SQ > CLOSED,Raised,+interlocutor1 > +sr & +dn,TURN+sr
+TWIST+sl,null,null,SQ,Raised,+interlocutor1 > +sl > +interlocutor1,TURN+sr > TILT+forward
+null,null,null,//,Raised,+interlocutor1 > +sl,Headnod
+TWIST+sl > SHOULDERS+hunched,null,2 x Puffed,null,Raised,+interlocutor1 > +nd > +interlocutor1,TILT+forward
+LEAN+sr > LEAN+sl,null,null,SQ > //,Raised,+interlocutor1 > +hands,TILT+backward
+LEAN+forward,CA:DOG,null,WD,Raised,+interlocutor1 > +dn > +interlocutor1 > +dn,PUSH+forward
+LEAN+forward,null,null,WD > //,Raised,+interlocutor1 > +dh,TURN+sr > TILT+forward
+LEAN+backward,CA:DEER,null,SQ+,Raised,+interlocutor1 > +camera > +up,Headshake
+null,null,null,//,Raised,+interlocutor1,null
+null,null,null,WD,Raised,+interlocutor1,TILT+sr
+null,null,null,WD > //,Raised,+interlocutor1,Headnod
+null,null,null,SQ+,Raised,+interlocutor1,TURN+sr
+LEAN+forward,null,null,null,Raised,+interlocutor1,TURN+sr
+LEAN+forward,null,null,CLOSED,Raised,+interlocutor1,TURN+sr
+SHOULDERS+hunched,null,null,// > SQ,Raised,+interlocutor1,null
+SHOULDERS+hunched,null,null,SQ,Raised,+interlocutor1,TURN+sr
+SHOULDERS+hunched,null,null,SQ,Raised,+interlocutor1,TURN+sr
+SHOULDERS+hunched,null,null,SQ > //,Raised,+interlocutor1,TURN+sr
+LEAN+sl,null,null,SQ > //,Raised,+interlocutor1,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Raised,+interlocutor1,TILT+forward
+SHOULDERS+hunched,null,null,//,Raised,+interlocutor1,TILT+backward
+SHOULDERS+hunched,null,2 x Puffed,null,Raised,+interlocutor1,TILT+forward
+LEAN+forward,null,null,//,Raised,+interlocutor1,TILT+forward
+SHOULDERS+hunched,null,null,SQ > //,Raised,+interlocutor1,TURN+sr
+null,null,null,//,Raised,+interlocutor1,null
+LEAN+sr,null,2 x Puffed,//,Raised,+interlocutor1,TURN+sr
+null,null,null,//,Raised,+interlocutor1,Headnod
+null,null,null,WD,Raised,+interlocutor1,TILT+forward
+TWIST+sr,null,null,SQ,Raised,+interlocutor1,TILT+forward
+TWIST+sr & LEAN+sr,null,1 x Puffed,SQ,Raised,+interlocutor1,TILT+forward > TILT+sl
+LEAN+sr,null,1 x Puffed,SQ > //,Raised,+interlocutor1,TILT+sl
+null,null,null,null,Raised,+interlocutor1,TILT+sl
+null,null,null,SQ,Raised,+interlocutor1,null
+null,CA:POLICE,null,//,Raised,+interlocutor1,Headnod
+LEAN+sr,null,null,SQ,Raised,+interlocutor1,TILT+sr > TILT+backward
+null,null,null,SQ,Raised,+interlocutor1,TURN+sr & Headnod
+LEAN+sl,null,2 x Puffed,SQ,Raised,+interlocutor1,TURN+sr
+LEAN+sl,null,null,SQ,Raised,+interlocutor1,TURN+sr
+null,null,null,CLOSED > //,Raised,+interlocutor1,TILT+sr
+null,null,null,null,Raised,+interlocutor1,TILT+backward
+null,null,null,//,Raised,+interlocutor1,TILT+sl
+LEAN+forward,CA:BOY,null,SQ,Raised,+interlocutor1,PUSH+forward
+LEAN+sl,null,null,SQ > //,Raised,+interlocutor1,TURN+sr > Headnod
+TWIST+sr,null,null,SQ,Raised,+interlocutor1,TURN+sr
+TWIST+sr,null,null,WD,Raised,+interlocutor1,TURN+sr
+TWIST+sr,null,null,WD,Raised,+interlocutor1,TURN+sr
+null,null,null,//,Raised,+interlocutor1,TURN+sr
+null,null,null,null,Raised,+interlocutor1,TURN+sr > TILT+sl
+null,null,null,CLOSED,Raised,+interlocutor1,TILT+sl
+null,null,null,//,Raised,+interlocutor1,TURN+sr
+TWIST+sr > LEAN+sr,null,null,SQ,Raised,+interlocutor1,TURN+sr > TILT+forward
+LEAN+sr > LEAN+forward,null,null,SQ > //,Raised,+interlocutor1,Headshake & TILT+forward
+LEAN+forward,null,null,null,Raised,+interlocutor1,PUSH+forward
+LEAN+forward,null,null,SQ,Raised,+interlocutor1,TURN+sr
+SHOULDERS+hunched,null,null,null,Raised,+hands > +interlocutor2,null
+TWIST+sr,null,null,SQ,Raised,+hands > +interlocutor1,TURN+sr
+LEAN+forward,null,null,WD,Raised,+hands > +camera,TURN+sr & TILT+forward
+LEAN+sl,null,null,null,Raised,+hands > +camera,PUSH+forward
+LEAN+sr,null,null,WD > //,Raised,+hands > +camera,TILT+sl
+SHOULDERS+hunched,null,null,// > SQ,Raised,+hands,TURN+sr > PUSH+forward
+null,null,null,SQ+ > //,Raised,+hands,TURN+sr
+LEAN+forward,CA:HELEN,null,SQ+,Raised,+dn > +up,TILT+forward > TILT+sr > TILT+sl
+null,null,null,//,Raised,+dn > +sr & +up,TURN+sr
+LEAN+forward,CA:BOY,null,// > SQ,Raised,+dn > +sr & +dn,Headnod > TURN+sr
+null,null,null,null,Raised,+dn > +sr,TILT+forward > TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,Raised,+dn > +sr,null
+LEAN+sl,null,null,WD,Raised,+dn > +sr,TILT+sl
+LEAN+forward > LEAN+sl,CA:BOY,null,WD,Raised,+dn > +sl & +dn,TILT+forward > PUSH+forward > TURN+sl
+null,null,null,null,Raised,+dn > +sl & +dn,TILT+forward > TURN+sl
+null,CD:WOMAN ,null,//,Raised,+dn > +sl,Headshake > TURN+sl > Headshake
+LEAN+sr,null,null,null,Raised,+dn > +sl,TURN+sl
+LEAN+sr,CA:MAN,null,// > SQ,Raised,+dn > +sl,TILT+forward > PUSH+forward
+SHOULDERS+hunched,null,null,//,Raised,+dn > +sl,null
+TWIST+sl,CA:FROG ,null,WD,Raised,+dn > +sl,TILT+sr > TURN+sl
+LEAN+backward,null,null,// > SQ,Raised,+dn > +interlocutor2,Headnod
+SHOULDERS+hunched & LEAN+sl,null,null,SQ,Raised,+dn > +interlocutor1,TILT+forward > TURN+sr
+LEAN+forward,CA:DOG,null,WD > //,Raised,+dn > +interlocutor1,PUSH+forward
+LEAN+sr,CA:DEER,null,SQ,Raised,+dn > +interlocutor1,TILT+forward & Headshake
+LEAN+backward,CA:BOY  ,null,SQ,Raised,+dn > +camera > +sr,TILT+backward
+TWIST+sl,null,null,CLOSED > SQ > CLOSED,Raised,+dn > +camera > +dn,Headshake
+LEAN+forward,null,null,WD,Raised,+dn > +camera,null
+null,null,null,null,Raised,+dn > +camera,TILT+forward
+LEAN+forward,null,null,//,Raised,+dn > +camera,TILT+forward > PUSH+forward
+TWIST+sl,CA:FROG   ,null,WD,Raised,+dn,TURN+sl
+LEAN+forward,null,null,null,Raised,+dn,TILT+forward > TILT+backward
+null,null,null,CLOSED,Raised,+dn,TILT+forward
+null,null,null,null,Raised,+dn,TURN+sr
+null,null,null,null,Raised,+dn,TILT+forward
+LEAN+sr,null,null,null,Raised,+dn,TILT+forward
+LEAN+sr,null,null,null,Raised,+dn,TILT+forward
+null,null,null,null,Raised,+dn,null
+LEAN+sr,null,null,//,Raised,+dn,null
+null,null,null,//,Raised,+dn,TILT+backward
+LEAN+sl,null,null,SQ+,Raised,+dn,null
+LEAN+forward,null,null,// > SQ,Raised,+dn,TURN+sl
+LEAN+forward,null,null,SQ,Raised,+dn,TURN+sl
+LEAN+forward,null,null,SQ,Raised,+dn,TILT+forward
+null,null,null,SQ,Raised,+dn,null
+null,null,null,SQ,Raised,+dn,Headnod
+null,null,null,SQ > CLOSED,Raised,+dn,Headnod
+null,null,null,//,Raised,+dn,null
+LEAN+forward,null,null,null,Raised,+dn,TILT+forward
+null,null,null,SQ+,Raised,+dn,TURN+sl
+null,null,null,SQ > // > SQ,Raised,+dn,null
+TWIST+sl > SHOULDERS+hunched,CA:FROG ,null,WD,Raised,+dn,TURN+sl
+LEAN+backward,null,null,null,Raised,+dn,Headshake
+LEAN+sr > LEAN+forward,null,null,WD,Raised,+dn,TURN+sr > TILT+forward
+LEAN+forward,null,null,WD > //,Raised,+dn,TILT+forward
+LEAN+forward,null,null,// > WD,Raised,+dn,TILT+forward
+LEAN+forward > LEAN+sl,null,null,WD,Raised,+dn,TILT+forward > TILT+sl
+LEAN+sl,null,null,WD,Raised,+dn,TILT+sl
+LEAN+sr,null,null,SQ,Raised,+dn,TILT+sl
+LEAN+sr,null,null,SQ,Raised,+dn,TILT+sl
+LEAN+forward,null,null,null,Raised,+dh > +sr & +up,TILT+backward
+LEAN+sr,null,null,// > WD+,Raised,+dh > +sr & +dn,TURN+sr
+TWIST+sl,null,2 x Puffed,SQ > // > //,Raised,+dh > +hands,TURN+sl > TURN+sr
+LEAN+forward,null,null,//,Raised,+dh > +dn,TILT+forward
+LEAN+forward,null,null,WD,Raised,+dh > +camera > +dn,TILT+forward > PUSH+forward
+LEAN+backward > LEAN+forward > TWIST+sr,CA:BOY ,null,SQ+,Raised,+dh > +camera > +dh > +camera > +dh,TURN+sr > TILT+forward
+LEAN+forward > LEAN+backward,CA:BOY,2 x Puffed,WD,Raised,+dh > +camera,PUSH+forward > PUSH+backward
+null,null,null,WD,Raised,+dh > +camera,TILT+sr
+LEAN+forward,CA:BOY,null,WD,Raised,+dh > +camera,PUSH+forward
+null,null,null,WD,Raised,+dh,PUSH+backward
+null,null,null,WD,Raised,+dh,PUSH+backward
+SHOULDERS+hunched,null,null,null,Raised,+dh,TURN+sl
+SHOULDERS+hunched,null,null,null,Raised,+dh,null
+LEAN+forward,null,null,WD,Raised,+camera > +up > +dn,PUSH+forward
+LEAN+sl,CA:HELEN,null,SQ+,Raised,+camera > +up,PUSH+forward
+LEAN+forward,null,null,WD > //,Raised,+camera > +up,TILT+backward > TILT+forward
+LEAN+sr,CA:WOMAN ,null,SQ+ > //,Raised,+camera > +sr > +sl > +sr,TURN+sl > TURN+sr > TURN+sl > TILT+sr
+SHOULDERS+hunched,CA:FROG   ,null,WD,Raised,+camera > +sr > +camera > +sr,TILT+forward > PUSH+forward
+LEAN+forward,null,null,null,Raised,+camera > +sr & +up,TURN+sl
+null,CA:WOMAN,null,//,Raised,+camera > +sr & +dn > +camera,PUSH+forward > PUSH+backward
+LEAN+sl,null,null,WD > SQ,Raised,+camera > +sr & +dn,TURN+sr
+null,null,null,null,Raised,+camera > +sr,TILT+forward & TILT+sr
+null,CA:WOMAN,null,WD > SQ > WD,Raised,+camera > +sr,TURN+sr
+null,null,null,//,Raised,+camera > +sr,PUSH+forward
+LEAN+sr,CA:MOTHER,null,WD+,Raised,+camera > +sl > +camera,TURN+sl
+LEAN+backward,CA:DEER,null,SQ+ > SQ,Raised,+camera > +sl & +up > +camera,TURN+sl
+LEAN+sl > LEAN+sr,CA:DOG,null,WD+,Raised,+camera > +sl & +up > +camera,TURN+sl > TILT+backward
+LEAN+backward > LEAN+sr,null,null,SQ,Raised,+camera > +sl & +up,TURN+sl
+LEAN+forward > LEAN+sl,CA:BOY ,null,null,Raised,+camera > +sl & +dn,PUSH+forward > TURN+sl
+LEAN+forward,CA:BOY  ,null,WD,Raised,+camera > +sl & +dn,TILT+backward > PUSH+forward
+null,null,null,null,Raised,+camera > +sl & +dn,TILT+forward
+TWIST+sr,CA:HELEN,null,// > //,Raised,+camera > +sl & +dn,TILT+sl
+null,null,null,SQ+,Raised,+camera > +sl & +dn,TILT+backward > TURN+sl
+LEAN+backward,null,null,WD+,Raised,+camera > +sl,TILT+backward
+null,null,null,//,Raised,+camera > +nd > +camera,Headnod
+LEAN+sr,null,null,WD+ > WD,Raised,+camera > +nd,TURN+sr > TURN+sl
+null,null,null,WD,Raised,+camera > +hands,TURN+sl
+LEAN+sr,null,null,CLOSED > WD,Raised,+camera > +hands,TILT+sl
+LEAN+forward,CA:MOTHER,null,WD+,Raised,+camera > +dn > +sl,TILT+forward
+LEAN+forward,null,null,WD,Raised,+camera > +dn > +camera,PUSH+forward
+TWIST+sr,null,null,SQ > // > SQ > //,Raised,+camera > +dn > +camera,null
+LEAN+sl,CA:DOG,null,WD > // > SQ,Raised,+camera > +dn,TURN+sl
+LEAN+forward,null,null,WD,Raised,+camera > +dn,PUSH+forward > Headnod
+LEAN+sr,null,null,WD,Raised,+camera > +dn,TILT+forward
+LEAN+sl,null,null,null,Raised,+camera > +dn,PUSH+forward
+null,null,null,CLOSED,Raised,+camera > +dn,Headnod
+LEAN+backward > LEAN+sr,CA:DEER,null,SQ,Raised,+camera > +dn,TURN+sl > TILT+forward
+null,null,null,SQ,Raised,+camera > +dn,null
+LEAN+backward,null,null,null,Raised,+camera,TILT+backward
+LEAN+backward,null,null,null,Raised,+camera,TILT+backward
+LEAN+sl,null,null,null,Raised,+camera,null
+LEAN+forward,null,null,null,Raised,+camera,TURN+sr
+LEAN+sl,null,null,WD,Raised,+camera,TILT+forward
+SHOULDERS+hunched,CA:FROG   ,null,WD,Raised,+camera,TURN+sl
+TWIST+sl,null,null,CLOSED,Raised,+camera,TURN+sl
+null,null,null,null,Raised,+camera,TILT+forward
+TWIST+sr,null,null,null,Raised,+camera,null
+TWIST+sr,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,TURN+sl
+null,null,null,WD > //,Raised,+camera,TURN+sr
+LEAN+sr,null,null,null,Raised,+camera,TURN+sr
+LEAN+sl,null,null,null,Raised,+camera,TILT+backward
+LEAN+sl,CA:DOG ,null,SQ,Raised,+camera,TILT+backward & TILT+sl
+LEAN+sr,null,null,null,Raised,+camera,TILT+forward
+LEAN+sr,null,null,null,Raised,+camera,TILT+forward
+null,CA:BOY ,null,null,Raised,+camera,TURN+sr
+LEAN+forward,null,null,WD,Raised,+camera,PUSH+forward
+null,null,null,//,Raised,+camera,TURN+sl
+TWIST+sr,null,null,WD,Raised,+camera,TURN+sr
+LEAN+forward,null,null,WD,Raised,+camera,TILT+forward
+LEAN+forward,null,null,null,Raised,+camera,TILT+backward > PUSH+forward
+null,null,null,WD,Raised,+camera,TILT+backward
+null,null,null,WD,Raised,+camera,TILT+forward
+null,null,null,WD,Raised,+camera,TILT+forward
+LEAN+forward,CA:DEER,null,SQ,Raised,+camera,TILT+forward
+null,null,null,SQ,Raised,+camera,TILT+forward
+null,null,null,null,Raised,+camera,TILT+forward
+LEAN+forward,null,null,null,Raised,+camera,TILT+forward
+LEAN+forward,CA:BOY,2 x Puffed,WD,Raised,+camera,PUSH+backward
+null,null,2 x Puffed,WD,Raised,+camera,PUSH+backward
+LEAN+sl,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,Headnod
+null,null,null,WD,Raised,+camera,TILT+backward
+LEAN+forward,null,null,null,Raised,+camera,null
+null,null,null,null,Raised,+camera,TILT+sr
+null,null,null,null,Raised,+camera,TILT+sr
+null,null,null,null,Raised,+camera,TILT+sr
+null,CA:MOTHER,null,WD,Raised,+camera,TURN+sl
+LEAN+sl,CA:HELEN,null,SQ+,Raised,+camera,TURN+sl
+null,null,null,CLOSED,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,TILT+backward
+null,null,null,//,Raised,+camera,Headnod
+null,null,null,//,Raised,+camera,null
+LEAN+sl,null,null,WD,Raised,+camera,TILT+backward
+null,null,null,//,Raised,+camera,Headnod
+null,null,null,SQ+,Raised,+camera,TILT+sl
+null,null,null,null,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,TILT+forward
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,null
+LEAN+forward,null,null,SQ,Raised,+camera,TILT+forward
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,Headnod
+null,null,null,SQ+,Raised,+camera,TILT+sr
+SHOULDERS+hunched,null,null,SQ+ > //,Raised,+camera,TILT+sr
+LEAN+forward,null,null,WD,Raised,+camera,Headshake
+LEAN+backward,null,null,//,Raised,+camera,null
+null,null,null,null,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,null
+null,null,null,WD > //,Raised,+camera,null
+null,null,null,// > SQ,Raised,+camera,TILT+backward
+null,CA:WOMAN,null,SQ,Raised,+camera,Headnod
+null,CA:WOMAN,null,// > WD,Raised,+camera,TILT+forward > TILT+backward
+LEAN+sr,null,null,null,Raised,+camera,TILT+backward
+LEAN+sr,null,null,//,Raised,+camera,TILT+backward
+null,null,null,//,Raised,+camera,null
+null,null,null,//,Raised,+camera,TILT+backward > TILT+forward
+LEAN+forward,null,null,WD > //,Raised,+camera,TURN+sr > TILT+backward
+LEAN+forward,null,null,WD,Raised,+camera,TILT+backward
+null,null,null,WD,Raised,+camera,null
+LEAN+sr,null,null,CLOSED,Raised,+camera,null
+LEAN+sr,null,null,CLOSED > WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,null
+null,null,null,WD,Raised,+camera,Headshake
+null,null,null,SQ > //,Raised,+camera,Headshake
+null,null,null,// > SQ,Raised,+camera,null
+null,null,null,SQ > //,Raised,+camera,null
+null,null,null,//,Raised,+camera,PUSH+backward
+null,null,null,SQ,Raised,+camera,PUSH+backward
+LEAN+forward,null,null,SQ > //,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,null
+LEAN+forward,null,null,SQ > //,Raised,+camera,TILT+forward
+null,null,null,SQ+,Raised,+camera,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Raised,+camera,TILT+backward > TILT+forward
+SHOULDERS+hunched,CA:WOMAN,null,SQ+ > //,Raised,+camera,TURN+sr
+LEAN+sr > LEAN+sl > LEAN+sr,null,null,WD > SQ,Raised,+camera,null
+null,null,null,//,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,null
+null,null,null,SQ,Raised,+camera,null
+LEAN+backward,null,null,SQ+,Raised,+camera,null
+LEAN+backward,null,null,SQ+,Raised,+camera,null
+LEAN+sl,null,null,null,Raised,+camera,TILT+backward
+LEAN+sl,null,null,null,Raised,+camera,TILT+backward > TILT+sr
+null,null,null,null,Raised,+camera,TILT+backward
+LEAN+sl,null,null,// > SQ,Raised,+camera,TILT+sl
+LEAN+sl,null,null,SQ,Raised,+camera,TILT+sl
+null,null,null,WD,Raised,+camera,TILT+forward
+LEAN+backward,null,null,SQ,Raised,+camera,null
+LEAN+backward,null,null,SQ,Raised,+camera,null
+LEAN+sr,null,null,SQ,Raised,+camera,TURN+sl
+LEAN+sr,null,null,SQ+,Raised,+camera,TURN+sl
+LEAN+forward,null,null,WD+,Raised,+camera,TILT+backward
+LEAN+sl,null,null,SQ > WD+,Raised,+camera,null
+LEAN+forward,null,null,WD+,Raised,+camera,PUSH+forward
+LEAN+sl,CA:BOY,null,WD,Raised,+camera,TURN+sl
+LEAN+sl,null,null,WD,Raised,+camera,null
+LEAN+sl,null,null,WD,Raised,+camera,Headshake
+LEAN+sl > LEAN+sr,null,null,WD > // > WD,Raised,+camera,TILT+backward & TILT+sl
+LEAN+sr,null,null,//,Raised,+camera,TILT+forward
+LEAN+sr,null,null,// > WD+,Raised,+camera,TILT+forward
+LEAN+sr,null,null,WD+,Raised,+camera,TURN+sr > TILT+backward
+LEAN+sr,null,null,WD+,Raised,+camera,TILT+backward
+LEAN+sr,null,null,WD+,Raised,+camera,TILT+backward
+null,CA:BOY,null,CLOSED,null,null,TILT+backward
+LEAN+sl,null,null,CLOSED > //,null,null,null
+null,null,null,null,null,null,null
+null,null,null,null,null,null,TILT+forward
+null,null,null,null,null,null,TILT+forward
+null,null,null,null,null,null,TILT+forward
+null,null,null,null,null,null,TILT+forward
+LEAN+backward,null,null,//,null,null,null
+SHOULDERS+hunched,null,null,//,null,null,TILT+forward
+null,null,null,//,null,null,TURN+sl
+null,null,null,//,null,null,Headnod
+LEAN+forward,null,null,// > //,null,null,Headnod
+null,CA:DOG,null,null,null,null,TILT+forward
+null,CA:BOY,null,null,null,null,null
+null,null,null,null,null,null,PUSH+forward
+LEAN+forward,CA:DOG,null,//,null,null,TURN+sr
+LEAN+sl,CA:DOG,null,null,null,null,null
+null,null,null,CLOSED,null,null,TILT+forward
+LEAN+forward,null,null,//,null,null,Headnod
+LEAN+forward,null,null,null,null,null,Headnod
+LEAN+forward,null,null,CLOSED,null,null,PUSH+backward
+null,null,null,CLOSED,null,null,TURN+sl
+null,null,null,CLOSED,null,null,TURN+sl
+LEAN+sl,null,null,//,null,null,null
+null,null,null,null,null,null,TILT+backward
+LEAN+backward,null,null,//,null,null,TILT+backward
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,null,Headnod
+LEAN+backward,CA:BOY,null,CLOSED,null,null,TILT+backward > Headnod
+null,CA:BOY,null,null,null,null,null
+LEAN+forward,CA:BOY,null,CLOSED,null,null,TILT+forward
+LEAN+forward,CA:BOY,null,WD,null,null,TILT+forward
+LEAN+forward,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,null,Headshake
+LEAN+sr,null,null,CLOSED,null,null,TURN+sr
+null,null,null,CLOSED,null,null,TURN+sr
+LEAN+sl > LEAN+forward,null,null,null,null,null,TURN+sl > TILT+forward
+LEAN+forward,null,null,null,null,null,TILT+forward
+LEAN+sr,null,null,null,null,null,TILT+forward & TURN+sr > Headnod
+TWIST+sl,null,null,CLOSED,null,null,TILT+backward > TURN+sl
+TWIST+sl > LEAN+forward,null,null,CLOSED,null,null,TURN+sl > TILT+sl
+TWIST+sr,CA:BOY  ,null,CLOSED,null,null,TILT+backward > TILT+forward
+LEAN+forward,CA:BOY  ,null,CLOSED,null,null,TILT+forward
+LEAN+forward,CA:BOY  ,null,CLOSED,null,null,TURN+sr
+null,null,null,//,null,null,TILT+backward
+null,null,null,//,null,null,null
+null,null,null,//,null,null,Headnod
+null,null,null,CLOSED,null,null,TURN+sl
+null,null,null,CLOSED,null,null,null
+null,null,null,CLOSED,null,null,null
+LEAN+backward,null,null,//,null,null,null
+null,null,null,CLOSED,null,null,Headnod
+null,null,null,CLOSED,null,null,null
+null,null,null,//,null,null,null
+null,null,null,CLOSED,null,null,TILT+sr
+TWIST+sr,null,null,CLOSED,null,null,Headshake
+LEAN+backward,CA:BOY,null,CLOSED,null,null,TILT+sr > TILT+backward
+LEAN+sl,CA:BOY,2 x Puffed,CLOSED,null,null,TILT+sl
+LEAN+forward,null,null,//,null,+up > +sr & +dn,TILT+backward > TURN+sr
+null,null,null,CLOSED,null,+up > +sr,Headnod
+LEAN+sr,null,null,//,null,+up > +hands,PUSH+backward
+null,null,null,null,null,+up > +camera,TILT+forward
+TWIST+sr,null,null,//,null,+up,TILT+backward
+null,null,null,WD,null,+up,null
+null,null,null,null,null,+up,null
+null,null,null,//,null,+up,null
+LEAN+forward,null,null,SQ,null,+up,TILT+forward
+LEAN+sl > LEAN+forward,CA:BOY,null,SQ+,null,+up,TILT+backward
+LEAN+sr,null,null,SQ > //,null,+sr > +sr & +dn,TILT+forward
+TWIST+sr,null,null,// > SQ,null,+sr > +sr & +dn,TURN+sr
+TWIST+sl,CA:DAD ,null,null,null,+sr > +sl & +dn,TURN+sr > TILT+forward
+null,null,null,null,null,+sr > +sl,TURN+sr > TURN+sl
+LEAN+backward,null,null,null,null,+sr > +sl,TURN+sr
+null,null,null,null,null,+sr > +sl,Headnod
+LEAN+sl > LEAN+sr > LEAN+sl,CA:BOY,null,SQ,null,+sr > +sl,TURN+sl > TILT+backward > TURN+sr > TURN+sl
+LEAN+sr > TWIST+sl,null,null,//,null,+sr > +sl,TURN+sr > TURN+sl
+null,CA:BOY,null,null,null,+sr > +interlocutor1 > +sr > +interlocutor1,null
+null,CA:FROG,null,//,null,+sr > +interlocutor1,TURN+sr
+null,CA:FROG,null,//,null,+sr > +interlocutor1,TURN+sr > TURN+sl
+null,CA:BOY,null,//,null,+sr > +interlocutor1,TURN+sr
+null,null,null,null,null,+sr > +interlocutor1,PUSH+forward
+LEAN+forward,CA:BOY,null,null,null,+sr > +interlocutor1,TILT+backward
+null,null,null,null,null,+sr > +interlocutor1,TILT+forward
+LEAN+sl,null,null,WD,null,+sr > +interlocutor1,TURN+sr
+null,null,null,null,null,+sr > +hands,TURN+sr
+null,null,null,CLOSED,null,+sr > +dn > +sr > +dn,null
+null,CA:MAN & CA:POLICE,null,//,null,+sr > +dn > +sl,TURN+sr > Headnod > TILT+forward > TURN+sr
+LEAN+backward,null,null,null,null,+sr > +dn,TURN+sr > TILT+sr
+LEAN+sl,CA:DOG        ,null,WD,null,+sr > +dn,TURN+sr
+TWIST+sr,null,null,SQ,null,+sr > +dn,TURN+sr
+null,CA:MAN,null,//,null,+sr > +camera,Headshake
+null,CA:MAN,null,null,null,+sr > +camera,null
+LEAN+sl,CA:WOMAN,null,// > SQ,null,+sr > +camera,TURN+sr
+null,null,null,//,null,+sr > +camera,Headshake
+LEAN+forward,CA:WOMAN,null,//,null,+sr > +camera,TURN+sr
+null,null,null,// > //,null,+sr > +camera,Headnod
+null,null,null,//,null,+sr > +camera,PUSH+forward
+TWIST+sr,null,null,//,null,+sr > +camera,TURN+sr
+LEAN+sr > LEAN+sl,null,null,WD,null,+sr > +camera,TURN+sr
+LEAN+backward,CA:BOY,null,//,null,+sr & +up > +sr & +dn,PUSH+backward
+null,null,null,null,null,+sr & +up > +sl & +up,TURN+sr > TURN+sl
+null,null,null,// > WD,null,+sr & +up > +sl & +up,TURN+sl
+LEAN+sl,CD:BOY,null,SQ,null,+sr & +up > +sl & +up,TURN+sr > TURN+sl
+null,null,null,//,null,+sr & +up > +sl,TILT+backward > TURN+sl
+LEAN+backward,null,null,//,null,+sr & +up > +sl,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +up > +sl,TURN+sl
+LEAN+sr > LEAN+sl,CA:BOY,null,SQ > // > SQ+,null,+sr & +up > +sl,TURN+sr > TURN+sl
+null,null,null,//,null,+sr & +up > +interlocutor2,null
+LEAN+sl,null,null,null,null,+sr & +up > +interlocutor1,TURN+sr
+LEAN+sl,null,null,//,null,+sr & +up > +interlocutor1,TURN+sr
+LEAN+sr,CA:BOY,null,CLOSED > //,null,+sr & +up > +hands > +interlocutor1,TILT+sr > TILT+forward
+null,null,null,//,null,+sr & +up > +dn,TILT+forward
+null,CA:MAN,null,null,null,+sr & +up > +camera > +sr,null
+LEAN+backward,CA:BOY,null,WD,null,+sr & +up > +camera,TILT+forward > TURN+sr > TILT+backward > TURN+sl > TURN+sr
+LEAN+sl > LEAN+sr,null,null,SQ,null,+sr & +up > +camera,TILT+backward > TILT+sr
+LEAN+sl,CA:WOMAN,2 x Puffed,//,null,+sr & +up,TURN+sr
+TWIST+sr,null,null,null,null,+sr & +up,TURN+sr > TILT+backward
+LEAN+backward,null,null,null,null,+sr & +up,TURN+sr
+LEAN+backward,null,null,//,null,+sr & +up,TURN+sr
+null,null,null,null,null,+sr & +up,TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,null,+sr & +up,TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,null,+sr & +up,TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,null,+sr & +up,TURN+sr
+LEAN+sl,CA:DOG        ,null,WD,null,+sr & +up,TURN+sr
+null,null,null,//,null,+sr & +up,TURN+sr
+LEAN+forward,null,null,SQ,null,+sr & +up,TILT+backward
+null,null,null,CLOSED,null,+sr & +up,TILT+sl
+null,null,null,null,null,+sr & +up,null
+null,CA:WOMAN,null,// > SQ,null,+sr & +up,Headnod
+null,CA:WOMAN,null,WD,null,+sr & +up,Headnod > TURN+sr
+null,null,null,WD,null,+sr & +up,TURN+sr
+TWIST+sr & LEAN+backward,CA:FROG,null,null,null,+sr & +up,TURN+sr & TILT+backward
+LEAN+backward,CA:FROG,null,null,null,+sr & +up,TILT+backward
+LEAN+sl,CA:BABY-FROGS,null,null,null,+sr & +up,TURN+sr
+LEAN+backward > LEAN+sr,CA:DOG,2 x Puffed,WD,null,+sr & +up,TURN+sl
+LEAN+forward > LEAN+sr,CD:BOY,null,SQ,null,+sr & +up,TURN+sr
+LEAN+sl,null,null,SQ,null,+sr & +up,TILT+backward
+LEAN+sl,CA:BOY,null,SQ,null,+sr & +up,TILT+backward
+TWIST+sr,null,null,null,null,+sr & +dn > +sr,Headnod
+TWIST+sr,null,null,null,null,+sr & +dn > +sl & +up,TURN+sr > TURN+sl
+LEAN+ls > LEAN+sr,CA:DOG,null,WD+,null,+sr & +dn > +sl & +up,TURN+sr > TURN+sl
+LEAN+sl,null,null,null,null,+sr & +dn > +sl & +dn > +sr & +up,TURN+sr > TILT+sr > TURN+sr
+LEAN+backward,null,null,null,null,+sr & +dn > +sl & +dn,TURN+sr > Headnod
+LEAN+forward > TWIST+sl,null,null,null,null,+sr & +dn > +sl & +dn,Headnod > TURN+sl
+LEAN+backward > LEAN+sr,null,null,WD,null,+sr & +dn > +sl & +dn,TILT+backward > TURN+sr
+LEAN+forward,CA:WOMAN,null,null,null,+sr & +dn > +sl,TURN+sr > TURN+sl
+null,null,null,null,null,+sr & +dn > +sl,TURN+sl
+TWIST+sr > LEAN+forward,null,null,SQ,null,+sr & +dn > +sl,TILT+forward > TURN+sl
+LEAN+forward,CA:BOY,null,SQ > //,null,+sr & +dn > +sl,TILT+forward > TURN+sl
+LEAN+sl > LEAN+forward,CA:BOY,null,SQ,null,+sr & +dn > +nd,TURN+sr > TURN+sl
+null,CA:BOY,null,null,null,+sr & +dn > +interlocutor1,TILT+forward
+LEAN+sr,CA:BOY,null,null,null,+sr & +dn > +interlocutor1,TURN+sr
+LEAN+sl,null,null,null,null,+sr & +dn > +interlocutor1,TURN+sr
+LEAN+forward,CA:DOG,null,null,null,+sr & +dn > +interlocutor1,PUSH+forward
+LEAN+sr,null,null,SQ > CLOSED,null,+sr & +dn > +interlocutor1,null
+LEAN+forward,CA:BOY,null,WD,null,+sr & +dn > +hands,PUSH+forward
+SHOULDERS+hunched,null,null,null,null,+sr & +dn > +hands,TURN+sr
+LEAN+sr,CA:BOY,null,WD,null,+sr & +dn > +dn,PUSH+forward
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn > +dh,TILT+forward
+LEAN+sl,null,null,SQ > // > WD,null,+sr & +dn > +camera > +hands,TILT+sl
+LEAN+sl,null,null,//,null,+sr & +dn > +camera,TILT+sr
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn > +camera,TILT+sr
+LEAN+sr,null,null,WD,null,+sr & +dn > +camera,TURN+sr
+LEAN+sr & TWIST+sr,CA:DOG,null,null,null,+sr & +dn,PUSH+forward & Headshake
+LEAN+forward,CA:BOY,null,null,null,+sr & +dn,PUSH+forward
+TWIST+sr,null,2 x Puffed,WD,null,+sr & +dn,TURN+sr
+null,CD:WOMAN ,null,//,null,+sr & +dn,TURN+sr
+null,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+sl,CA:WOMAN ,null,CLOSED,null,+sr & +dn,TURN+sr > Headshake
+LEAN+forward,CA:WOMAN,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,CA:WOMAN,null,null,null,+sr & +dn,TURN+sr
+null,null,null,null,null,+sr & +dn,Headnod
+null,null,null,null,null,+sr & +dn,TURN+sl
+null,null,null,null,null,+sr & +dn,TILT+forward
+null,CA:MAN,null,null,null,+sr & +dn,TURN+sr
+null,CA:MAN,null,null,null,+sr & +dn,TURN+sr
+null,CA:MAN,null,null,null,+sr & +dn,TURN+sr
+null,CA:MAN,null,null,null,+sr & +dn,TURN+sr
+null,CA:MAN,null,null,null,+sr & +dn,null
+LEAN+forward,CA:FATHER,null,null,null,+sr & +dn,TILT+sr
+TWIST+sr,CA:FATHER,null,null,null,+sr & +dn,TILT+sr
+LEAN+backward,null,null,//,null,+sr & +dn,TURN+sr
+null,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,//,null,+sr & +dn,TILT+forward
+LEAN+forward,null,null,//,null,+sr & +dn,TILT+forward > TILT+sr
+TWIST+sr,CA:FATHER,null,null,null,+sr & +dn,TILT+forward
+TWIST+sr,CA:FATHER,null,//,null,+sr & +dn,TILT+forward
+TWIST+sr,null,null,null,null,+sr & +dn,TILT+forward
+LEAN+sl,null,null,//,null,+sr & +dn,TURN+sr
+LEAN+sl,null,null,null,null,+sr & +dn,TILT+forward
+null,null,null,//,null,+sr & +dn,TILT+backward
+LEAN+forward > TWIST+sr,CA:BOY,null,WD,null,+sr & +dn,TURN+sr
+TWIST+sr,null,null,WD,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY ,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY ,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,null,null,+sr & +dn,PUSH+forward
+LEAN+forward,CA:BOY ,null,null,null,+sr & +dn,PUSH+forward
+LEAN+forward,null,null,null,null,+sr & +dn,PUSH+forward
+LEAN+forward,null,null,CLOSED > //,null,+sr & +dn,TILT+forward
+TWIST+sl,null,null,SQ > CLOSED,null,+sr & +dn,TURN+sr > TURN+sl
+null,CA:BOY ,null,WD > //,null,+sr & +dn,TILT+sr > TURN+sr
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,PUSH+forward
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,CLOSED,null,+sr & +dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,// > CLOSED,null,+sr & +dn,Headnod
+LEAN+forward,CA:BOY  ,null,//,null,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY  ,null,//,null,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY  ,null,//,null,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY  ,null,null,null,+sr & +dn,TILT+sr
+null,null,null,SQ,null,+sr & +dn,TILT+backward
+SHOULDERS+hunched,CA:WOMAN,null,//,null,+sr & +dn,TURN+sr
+null,null,null,//,null,+sr & +dn,null
+LEAN+backward,null,null,//,null,+sr & +dn,TILT+backward
+null,null,null,//,null,+sr & +dn,null
+null,null,null,null,null,+sr & +dn,TURN+sr
+null,null,null,//,null,+sr & +dn,TILT+forward
+null,null,null,// > CLOSED,null,+sr & +dn,TILT+forward
+null,null,null,CLOSED,null,+sr & +dn,TILT+sr
+LEAN+forward,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,//,null,+sr & +dn,Headnod
+null,null,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,null,null,// > //,null,+sr & +dn,TILT+forward
+LEAN+forward,null,null,//,null,+sr & +dn,TILT+forward
+null,null,null,//,null,+sr & +dn,Headnod
+null,null,null,null,null,+sr & +dn,TILT+forward
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sr
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sr
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+sl,null,null,null,null,+sr & +dn,TURN+sl
+LEAN+sl > TWIST+sr,null,null,null,null,+sr & +dn,TURN+sl > TURN+sr
+TWIST+sr,CA:BOY,null,null,null,+sr & +dn,TURN+sr
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+SHOULDERS+hunched,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+LEAN+sr,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+LEAN+sr,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+LEAN+sr,null,null,null,null,+sr & +dn,TURN+sr & TILT+forward
+LEAN+sr,null,2 x Puffed,null,null,+sr & +dn,TILT+forward > Headshake
+LEAN+sr > LEAN+backward,null,2 x Puffed,null,null,+sr & +dn,TILT+forward
+LEAN+backward,null,null,null,null,+sr & +dn,TILT+forward
+LEAN+forward,null,null,null,null,+sr & +dn,Headnod
+TWIST+sr,null,null,null,null,+sr & +dn,Headnod
+LEAN+forward > SHOULDERS+hunched,null,null,null,null,+sr & +dn,PUSH+forward > TURN+sr
+SHOULDERS+hunched,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+sr > LEAN+forward,null,null,null,null,+sr & +dn,TURN+sr > PUSH+forward
+null,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,null,null,+sr & +dn,TILT+forward & TURN+sr
+LEAN+sr,CA:DOG,null,null,null,+sr & +dn,TURN+sr > PUSH+forward
+LEAN+sl,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,SQ,null,+sr & +dn,TILT+forward > TURN+sr
+LEAN+forward > LEAN+sl,CA:BOY,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+backward,CA:BOY,null,//,null,+sr & +dn,TILT+backward
+LEAN+backward,null,null,//,null,+sr & +dn,TILT+backward
+LEAN+backward,null,null,null,null,+sr & +dn,TILT+backward > TILT+forward
+TWIST+sr,null,null,null,null,+sr & +dn,TURN+sl > TURN+sr
+LEAN+sl,CA:BOY,null,SQ,null,+sr & +dn,TILT+backward
+LEAN+sl > LEAN+sr,CA:BOY,null,SQ,null,+sr & +dn,TILT+backward > PUSH+forward
+LEAN+sl,null,null,null,null,+sr & +dn,TURN+sr
+LEAN+forward,null,null,WD+,null,+sr & +dn,TILT+forward
+LEAN+sl,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,//,null,+sr & +dn,TILT+backward > TURN+sl
+TWIST+sr,null,null,null,null,+sr & +dn,TILT+backward > TILT+forward
+LEAN+forward,CA:BOY,null,SQ,null,+sr & +dn,TURN+sl > TILT+forward
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,null,+sr & +dn,TURN+sr
+TWIST+sl,CA:DOG,null,CLOSED,null,+sr,TILT+sl
+LEAN+sr,null,null,null,null,+sr,TILT+forward
+TWIST+sr,CD:WOMAN ,null,null,null,+sr,TURN+sr
+TWIST+sr,CD:WOMAN ,null,null,null,+sr,TURN+sr
+null,CA:WOMAN ,null,null,null,+sr,TURN+sr
+LEAN+sl,null,null,null,null,+sr,null
+LEAN+sl,null,null,//,null,+sr,null
+LEAN+sl,null,null,null,null,+sr,null
+LEAN+sl,null,null,null,null,+sr,null
+LEAN+sl,null,null,null,null,+sr,null
+LEAN+forward,CA:WOMAN ,null,//,null,+sr,TILT+forward
+LEAN+forward,CA:WOMAN ,null,null,null,+sr,TILT+forward
+LEAN+forward,CA:WOMAN ,null,null,null,+sr,TURN+sr
+LEAN+forward,CA:WOMAN ,null,null,null,+sr,TURN+sr
+null,null,null,null,null,+sr,TURN+sr
+LEAN+backward,null,null,null,null,+sr,TURN+sr
+LEAN+backward,null,null,null,null,+sr,TILT+sr
+null,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr & PUSH+forward
+LEAN+sl,null,null,null,null,+sr,TURN+sr
+null,null,null,null,null,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,null,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,null,+sr,TURN+sr
+TWIST+sr,CA:FRIEND,null,null,null,+sr,TURN+sr
+TWIST+sr,CA:FRIEND,null,//,null,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,null,+sr,TURN+sr
+null,null,null,//,null,+sr,null
+null,null,null,null,null,+sr,TURN+sr
+null,null,null,//,null,+sr,TURN+sr
+LEAN+forward,null,null,null,null,+sr,TURN+sr
+LEAN+forward,null,null,null,null,+sr,TURN+sr
+null,CA:MAN ,null,null,null,+sr,TURN+sr
+null,CA:MAN ,null,null,null,+sr,TURN+sr
+null,CA:MAN ,null,null,null,+sr,TURN+sr
+null,CA:MAN ,null,null,null,+sr,TURN+sr
+null,null,null,null,null,+sr,TURN+sr
+null,CA:MAN,null,null,null,+sr,TURN+sr
+LEAN+sr,CA:MAN,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr > LEAN+forward > LEAN+sl,CA:GROUP OF FRIENDS,null,null,null,+sr,TURN+sr > PUSH+forward
+LEAN+sl,null,null,//,null,+sr,TURN+sr
+LEAN+sr,null,null,//,null,+sr,TURN+sr
+LEAN+sr,null,null,//,null,+sr,TILT+sr
+TWIST+sr,null,null,//,null,+sr,TILT+sr
+null,CA:POLICE,null,CLOSED,null,+sr,TURN+sr
+TWIST+sr,null,null,// > //,null,+sr,TURN+sr
+null,null,null,//,null,+sr,Headnod
+null,CA:ENGLISH MAN,null,null,null,+sr,TURN+sr
+null,null,null,//,null,+sr,null
+null,null,null,//,null,+sr,TURN+sr
+TWIST+sr,CA:DAD ,null,//,null,+sr,TURN+sr
+null,null,null,null,null,+sr,TURN+sr
+null,null,null,null,null,+sr,TILT+forward
+null,CA:BOY,null,//,null,+sr,TILT+forward > PUSH+forward
+null,CD:BOY,null,//,null,+sr,TURN+sr
+TWIST+sr,CA:BOY,null,//,null,+sr,TILT+sr
+null,null,null,null,null,+sr,TILT+forward
+LEAN+sl,null,null,CLOSED,null,+sr,TURN+sr
+LEAN+forward,CA:BOY  ,null,CLOSED,null,+sr,TILT+sr
+LEAN+sr,null,null,SQ,null,+sr,TURN+sr & TILT+forward
+null,CA:WOMAN,null,null,null,+sr,null
+TWIST+sr,CA:WOMAN,null,SQ,null,+sr,TILT+sr
+TWIST+sr,CA:WOMAN,null,WD > // > WD > //,null,+sr,TILT+sr
+null,null,null,null,null,+sr,null
+null,null,null,null,null,+sr,null
+null,null,null,null,null,+sr,TURN+sr
+LEAN+forward,null,null,// > CLOSED,null,+sr,Headnod
+LEAN+forward,null,null,WD,null,+sr,TURN+sr
+LEAN+forward,null,null,WD,null,+sr,TURN+sr
+TWIST+sr,null,null,WD > //,null,+sr,TURN+sr
+null,null,null,CLOSED,null,+sr,null
+null,null,null,//,null,+sr,Headnod
+LEAN+backward,null,null,// > CLOSED,null,+sr,TURN+sr
+LEAN+sl,null,null,null,null,+sr,TILT+sl > TILT+forward
+TWIST+sr,null,null,null,null,+sr,TURN+sr
+LEAN+backward,null,null,null,null,+sr,TURN+sr
+LEAN+sl,CA:BOY,null,null,null,+sr,TURN+sl
+LEAN+sr,CA:BOY,null,null,null,+sr,TILT+forward
+LEAN+sr,CA:BOY,null,null,null,+sr,TILT+forward
+LEAN+sr,CA:BOY,null,null,null,+sr,TILT+forward
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,null,null,null,null,+sr,TURN+sr
+LEAN+sr,CA:DOG,null,//,null,+sr,TURN+sr
+LEAN+sr > LEAN+forward,CA:DOG,null,//,null,+sr,TURN+sr
+LEAN+forward,CA:BOY,null,//,null,+sr,TURN+sr
+LEAN+sr,CA:BOY,null,WD,null,+sr,TURN+sr
+LEAN+sr,null,null,WD,null,+sr,TURN+sr
+LEAN+sr > LEAN+sl,null,null,WD > //,null,+sr,TURN+sr
+LEAN+sl,null,null,//,null,+sr,TURN+sr
+LEAN+sl,null,null,null,null,+sr,TURN+sr
+TWIST+sl > LEAN+forward,CA:BOY ,2 x Puffed,SQ,null,+sl > +up,TURN+sl > TILT+backward
+null,null,null,null,null,+sl > +sr & +dn,Headnod
+LEAN+sl > LEAN+sr,null,null,// > SQ,null,+sl > +sr & +dn,TILT+sl > TURN+sl
+null,null,null,//,null,+sl > +sr,TURN+sl > TURN+sr
+LEAN+sr,CA:WOMAN ,null,//,null,+sl > +sr,TURN+sr
+null,null,null,//,null,+sl > +sr,null
+LEAN+sl,CA:MAN ,null,null,null,+sl > +sr,TURN+sl > TURN+sr
+null,null,null,null,null,+sl > +sr,TURN+sr
+LEAN+sr,CA:BOY,null,//,null,+sl > +sr,TURN+sl > TURN+sr
+LEAN+sl > LEAN+sr,CA:BOY,null,//,null,+sl > +sr,TURN+sr
+LEAN+sl,CA:BOY,null,//,null,+sl > +sr,TURN+sr
+TWIST+sl > LEAN+backward,CD:BOY,null,WD > SQ,null,+sl > +sl & +up,TURN+sl
+LEAN+sr,CA:BOY,null,//,null,+sl > +sl & +dn,TILT+sr > TURN+sl
+SHOULDERS+hunched,CA:MAN,null,SQ > // > SQ,null,+sl > +nd,TURN+sl > TILT+forward
+LEAN+sl,null,null,null,null,+sl > +interlocutor1 > +sl & +dn,TILT+backward
+null,null,2 x Puffed,null,null,+sl > +interlocutor1,PUSH+forward > TURN+sr
+null,null,null,null,null,+sl > +interlocutor1,TURN+sr
+null,null,null,null,null,+sl > +interlocutor1,TURN+sl
+null,null,null,//,null,+sl > +interlocutor1,TURN+sl
+null,CA:FROG,null,// > //,null,+sl > +interlocutor1,TURN+sl
+null,CA:BOY,null,null,null,+sl > +interlocutor1,null
+LEAN+forward,null,null,null,null,+sl > +interlocutor1,TILT+forward
+LEAN+sl,null,null,//,null,+sl > +interlocutor1,TURN+sl
+LEAN+backward,null,null,//,null,+sl > +dn,Headnod
+LEAN+forward,null,null,//,null,+sl > +dn,PUSH+forward > TILT+backward
+LEAN+backward,null,null,null,null,+sl > +dn,TILT+forward > TURN+sr
+LEAN+backward,null,null,//,null,+sl > +dn,TURN+sr > TURN+sl
+null,null,null,//,null,+sl > +dh,TURN+sl
+TWIST+sl,CD:HELEN,null,null,null,+sl > +camera > +sl,null
+LEAN+forward,CD:HELEN,null,// > SQ > //,null,+sl > +camera > +sl,PUSH+forward
+null,CA:MOTHER,null,WD,null,+sl > +camera,null
+LEAN+forward,null,null,//,null,+sl > +camera,TILT+backward > TILT+forward
+null,null,null,null,null,+sl > +camera,TILT+forward
+LEAN+sl,null,null,null,null,+sl > +camera,TILT+sr
+null,CD:HELEN,null,null,null,+sl > +camera,TILT+sl > TURN+sr
+TWIST+sl > LEAN+forward,CD:HELEN,null,SQ,null,+sl > +camera,TILT+sr > PUSH+forward
+TWIST+sl,null,null,//,null,+sl > +camera,TURN+sl > TURN+sr
+TWIST+sl,CA:SIGNER,null,CLOSED,null,+sl > +camera,TURN+sl
+TWIST+sl,null,null,SQ,null,+sl > +camera,TURN+sl > TILT+backward
+LEAN+sr > TWIST+sl,CA:BOY ,2 x Puffed,SQ,null,+sl & +up > +up > +sl,TURN+sl > TILT+backward > TURN+sl
+LEAN+sl > LEAN+sr,null,2 x Puffed,null,null,+sl & +up > +up,TILT+backward
+LEAN+sr,CA:ENGLISH MAN,null,null,null,+sl & +up > +sr,TURN+sl > TURN+sr
+null,null,null,WD > //,null,+sl & +up > +sr,TURN+sl > TURN+sr
+TWIST+sl > TWIST+sr,null,null,//,null,+sl & +up > +sr,TURN+sl > TURN+sr
+LEAN+backward,CA:FROG & CA:FROG-GIRLFRIEND,2 x Puffed,SQ > //,null,+sl & +up > +sl & +dn,TILT+backward
+LEAN+sl > LEAN+forward,null,null,null,null,+sl & +up > +hands,TURN+sl > TILT+forward
+LEAN+backward,CA:BOY,null,WD,null,+sl & +up > +dn > +sl & +dn,TILT+backward > TURN+sl
+LEAN+sr > LEAN+backward,CA:DOG,2 x Puffed,//,null,+sl & +up > +dn,TILT+backward
+LEAN+backward,null,null,SQ+,null,+sl & +up > +camera > +sl & +up,TURN+sl
+TWIST+sl,null,null,null,null,+sl & +up > +camera > +sl & +up,TILT+backward > TURN+sr > TURN+sl
+LEAN+forward,CA:BOY,null,WD,null,+sl & +up > +camera,TURN+sl
+TWIST+sl,null,null,SQ,null,+sl & +up > +camera,TURN+sl
+LEAN+forward > LEAN+sl,CA:OWL,null,WD,null,+sl & +up > +camera,TURN+sl > TILT+forward
+TWIST+sl,CA:DOG ,null,SQ,null,+sl & +up,Headnod > TILT+backward
+LEAN+sr,CA:WOMAN,2 x Puffed,SQ,null,+sl & +up,TURN+sl
+LEAN+sr,null,null,SQ,null,+sl & +up,TURN+sl
+LEAN+sr,null,null,// > SQ,null,+sl & +up,TURN+sl
+SHOULDERS+hunched,CA:WOMAN ,null,WD,null,+sl & +up,null
+LEAN+sr,CA:WOMAN,null,null,null,+sl & +up,TURN+sl
+LEAN+sr,CA:WOMAN,null,null,null,+sl & +up,TURN+sl
+null,null,null,//,null,+sl & +up,null
+null,null,null,null,null,+sl & +up,null
+LEAN+sl,null,null,//,null,+sl & +up,null
+LEAN+sr,null,null,null,null,+sl & +up,TURN+sl
+null,null,null,//,null,+sl & +up,TURN+sl
+null,null,null,null,null,+sl & +up,PUSH+forward
+SHOULDERS+hunched,null,null,//,null,+sl & +up,Headnod
+null,null,null,null,null,+sl & +up,TILT+sl
+null,null,null,//,null,+sl & +up,TILT+sl
+null,null,null,// > SQ,null,+sl & +up,Headnod
+null,null,null,SQ,null,+sl & +up,Headnod
+SHOULDERS+hunched,null,null,SQ+,null,+sl & +up,Headnod
+SHOULDERS+hunched,CA:HELEN,null,SQ+,null,+sl & +up,TURN+sl
+SHOULDERS+hunched,CA:HELEN,null,SQ+,null,+sl & +up,TILT+sr
+SHOULDERS+hunched > LEAN+sr,CA:HELEN,null,SQ+ > //,null,+sl & +up,TILT+sl
+null,null,null,//,null,+sl & +up,TILT+forward
+null,null,null,SQ,null,+sl & +up,TILT+forward
+null,CA:HELEN,null,SQ > //,null,+sl & +up,TILT+forward
+LEAN+sr,null,null,// > WD,null,+sl & +up,TURN+sl
+null,null,null,WD,null,+sl & +up,null
+TWIST+sr > LEAN+backward,CA:DOG,null,null,null,+sl & +up,TURN+sl
+LEAN+backward,CA:DOG,null,null,null,+sl & +up,TURN+sl
+LEAN+backward,null,null,null,null,+sl & +up,TURN+sl
+TWIST+sl,null,2 x Puffed,null,null,+sl & +up,TURN+sl
+LEAN+forward > LEAN+backward,null,null,WD,null,+sl & +up,TURN+sl > TILT+backward
+LEAN+backward,CA:BOY,null,WD,null,+sl & +up,TILT+backward
+LEAN+sr > LEAN+backward,CA:FROG & CA:FROG-GIRLFRIEND,2 x Puffed,SQ,null,+sl & +up,TILT+sr > TILT+backward
+TWIST+sl,CA:BOY,null,//,null,+sl & +up,TURN+sl
+LEAN+sl,CA:BOY,null,//,null,+sl & +up,TURN+sl
+LEAN+sr > LEAN+sl,null,2 x Puffed,null,null,+sl & +up,TURN+sl
+LEAN+sl > LEAN+sr,CA:BOY ,2 x Puffed,null,null,+sl & +up,TURN+sl
+LEAN+sl > LEAN+sr,CA:BOY,null,SQ,null,+sl & +up,TURN+sl
+LEAN+sr,null,null,null,null,+sl & +up,TILT+forward > TURN+sl
+LEAN+sr > TWIST+sl,null,2 x Puffed,null,null,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,null,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,null,+sl & +up,TURN+sl
+LEAN+sr,CA:DOG,null,null,null,+sl & +up,TURN+sl > TILT+backward
+LEAN+sr,null,null,null,null,+sl & +up,TILT+backward > TILT+forward
+LEAN+sl,CA:DOG,null,null,null,+sl & +up,TURN+sl & PUSH+forward
+LEAN+sl > LEAN+forward,null,null,null,null,+sl & +up,PUSH+forward > PUSH+forward > TILT+backward
+TWIST+sl,null,null,null,null,+sl & +up,TILT+backward
+TWIST+sl,null,null,null,null,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,null,+sl & +up,TURN+sl
+LEAN+sr & LEAN+forward,null,null,WD,null,+sl & +up,TURN+sl
+LEAN+sr,CA:BOY,null,//,null,+sl & +up,TURN+sr
+null,null,null,null,null,+sl & +up,TILT+forward
+LEAN+sr,null,null,//,null,+sl & +up,TILT+forward > TILT+sl
+LEAN+forward > TWIST+sr,null,null,null,null,+sl & +dn > +sr & +up,PUSH+forward > TURN+sr
+LEAN+sl > TWIST+sl > TWIST+sr > LEAN+forward,CA:BOY,2 x Puffed,WD > //,null,+sl & +dn > +sr & +dn > +sl & +dn,TURN+sl > TURN+sr > TURN+sl > TILT+backward
+null,null,null,null,null,+sl & +dn > +sr & +dn,TURN+sl
+null,null,null,null,null,+sl & +dn > +sr & +dn,TILT+backward
+LEAN+forward,CA:BOY  ,null,null,null,+sl & +dn > +sr & +dn,TILT+forward > PUSH+forward
+null,null,null,null,null,+sl & +dn > +sr & +dn,TILT+forward > TURN+sr
+LEAN+forward,null,null,//,null,+sl & +dn > +sr & +dn,TILT+forward
+null,null,null,null,null,+sl & +dn > +sr & +dn,TURN+sr
+null,null,null,null,null,+sl & +dn > +sr & +dn,TURN+sl
+LEAN+sl,CA:DOG,null,WD,null,+sl & +dn > +sr & +dn,TURN+sl > TILT+forward
+LEAN+backward > LEAN+sl,CA:DOG,null,//,null,+sl & +dn > +sl & +up,TURN+sl
+LEAN+sl,CA:WOMAN ,null,//,null,+sl & +dn > +sl,TURN+sr > TURN+sl > PUSH+backward
+null,null,null,null,null,+sl & +dn > +sl,PUSH+forward
+null,CD:HELEN,null,null,null,+sl & +dn > +sl,TILT+sl
+LEAN+forward,CA:BOY,null,WD,null,+sl & +dn > +sl,TILT+forward
+null,null,null,null,null,+sl & +dn > +interlocutor1,TURN+sl
+null,null,null,//,null,+sl & +dn > +interlocutor1,TURN+sl
+null,null,null,//,null,+sl & +dn > +interlocutor1,TURN+sl
+LEAN+forward,null,null,null,null,+sl & +dn > +interlocutor1,TILT+forward
+null,CA:BOY,null,null,null,+sl & +dn > +interlocutor1,TURN+sl > TURN+sl
+LEAN+forward,CA:FATHER,null,null,null,+sl & +dn > +dn,TILT+sl > TILT+sr
+LEAN+forward,null,null,null,null,+sl & +dn > +dn,TILT+sl > TILT+forward
+SHOULDERS+hunched > LEAN+forward,CA:FATHER,null,//,null,+sl & +dn > +dn,TILT+forward > PUSH+forward
+LEAN+sl,null,null,null,null,+sl & +dn > +dn,TURN+sl > TURN+sr
+null,CA:WOMAN,null,SQ+,null,+sl & +dn > +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn > +dn,TILT+forward > TILT+sr
+LEAN+sr,null,null,//,null,+sl & +dn > +dn,TURN+sr
+TWIST+sl,null,null,null,null,+sl & +dn > +camera,TURN+sl
+LEAN+backward > LEAN+sl,null,null,//,null,+sl & +dn > +camera,TILT+sl > TURN+sl
+TWIST+sl > LEAN+sl,null,null,SQ,null,+sl & +dn > +camera,TURN+sl & TILT+forward
+LEAN+backward,null,null,//,null,+sl & +dn > +camera,TILT+forward > TILT+backward
+TWIST+sl,CA:BOY,null,SQ,null,+sl & +dn,TURN+sl
+TWIST+sl & LEAN+sl,null,null,SQ > //,null,+sl & +dn,TURN+sl
+null,CA:WOMAN,null,//,null,+sl & +dn,TILT+backward
+null,null,null,//,null,+sl & +dn,TILT+backward
+LEAN+forward,null,null,null,null,+sl & +dn,null
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+backward
+null,CA:WOMAN ,null,null,null,+sl & +dn,TURN+sl
+null,CA:WOMAN ,null,null,null,+sl & +dn,TURN+sl
+null,CA:WOMAN ,null,//,null,+sl & +dn,TURN+sl
+null,CA:WOMAN ,null,//,null,+sl & +dn,TURN+sl
+null,CA:WOMAN ,null,//,null,+sl & +dn,TURN+sl
+null,CA:MAN,null,SQ,null,+sl & +dn,TILT+sr
+null,CA:MAN,null,SQ,null,+sl & +dn,TILT+sr
+null,null,null,SQ,null,+sl & +dn,TILT+sr
+null,null,null,SQ,null,+sl & +dn,TILT+sr
+null,null,null,SQ,null,+sl & +dn,TILT+sr
+null,null,null,null,null,+sl & +dn,TILT+sr
+null,CA:FRIEND,null,null,null,+sl & +dn,null
+LEAN+backward,null,null,null,null,+sl & +dn,null
+LEAN+backward,null,null,null,null,+sl & +dn,null
+LEAN+backward,null,null,null,null,+sl & +dn,null
+LEAN+backward,null,null,null,null,+sl & +dn,null
+LEAN+backward,null,null,null,null,+sl & +dn,null
+null,CA:MAN,null,null,null,+sl & +dn,TURN+sl > TILT+sl
+null,null,null,null,null,+sl & +dn,TILT+sl
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+sl
+LEAN+forward,null,null,null,null,+sl & +dn,TURN+sl > TILT+forward
+null,null,null,//,null,+sl & +dn,TILT+forward
+null,null,null,null,null,+sl & +dn,Headshake
+LEAN+forward,null,null,//,null,+sl & +dn,PUSH+backward
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward > SHOULDERS+hunched,null,null,null,null,+sl & +dn,TILT+forward
+SHOULDERS+hunched & LEAN+forward,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,null,null,//,null,+sl & +dn,TILT+forward
+LEAN+forward,null,null,//,null,+sl & +dn,TILT+backward
+null,null,null,null,null,+sl & +dn,TILT+backward
+LEAN+backward,null,null,//,null,+sl & +dn,TURN+sr
+null,null,null,null,null,+sl & +dn,TURN+sr
+TWIST+sr,CA:DAD ,null,//,null,+sl & +dn,TURN+sl
+TWIST+sl,CA:DAD ,null,null,null,+sl & +dn,TILT+forward
+null,CA:DAD ,null,//,null,+sl & +dn,PUSH+forward
+TWIST+sl,CA:DAD ,null,null,null,+sl & +dn,PUSH+forward
+null,null,null,SQ+,null,+sl & +dn,TILT+forward
+SHOULDERS+hunched > TWIST+sl,CA:FATHER,2 x Puffed,null,null,+sl & +dn,TILT+forward > TILT+sl
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+sl
+LEAN+backward,null,null,null,null,+sl & +dn,TILT+forward
+null,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,null,null,//,null,+sl & +dn,TILT+backward
+LEAN+forward,null,null,//,null,+sl & +dn,TILT+backward
+null,null,null,//,null,+sl & +dn,TILT+backward
+TWIST+sl,CA:HELEN,null,null,null,+sl & +dn,TURN+sl
+TWIST+sl,null,null,null,null,+sl & +dn,TILT+forward
+TWIST+sl,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+sl,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+sl,null,null,null,null,+sl & +dn,TILT+forward
+null,CA:BOY,null,null,null,+sl & +dn,TILT+forward > TURN+sl
+LEAN+forward > LEAN+sr,null,null,null,null,+sl & +dn,PUSH+forward > TILT+sl
+TWIST+sr,CA:BOY  ,null,CLOSED,null,+sl & +dn,TILT+forward
+null,null,null,//,null,+sl & +dn,TILT+forward
+null,CA:WOMAN,null,null,null,+sl & +dn,TILT+forward
+null,null,null,SQ+,null,+sl & +dn,TILT+forward > TURN+sl
+null,null,null,null,null,+sl & +dn,TILT+backward
+null,null,null,null,null,+sl & +dn,Headshake
+null,null,null,null,null,+sl & +dn,null
+null,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+sl,null,null,CLOSED,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:DOG,null,CLOSED,null,+sl & +dn,TILT+forward
+LEAN+sl > LEAN+sr,CA:DOG,null,WD,null,+sl & +dn,PUSH+forward > TILT+sr
+LEAN+sr,CA:DOG,null,WD,null,+sl & +dn,TILT+sr
+LEAN+sr,CA:DOG,null,WD,null,+sl & +dn,TILT+sr
+LEAN+sr > TWIST+sl,CA:DOG,null,WD,null,+sl & +dn,TILT+sr & PUSH+forward > TURN+sl
+LEAN+forward,CA:DOG,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,CA:DOG,null,null,null,+sl & +dn,TILT+forward
+TWIST+sl,null,null,null,null,+sl & +dn,TILT+backward
+TWIST+sl,null,null,// > //,null,+sl & +dn,TURN+sl
+LEAN+sr,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sr,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sr > LEAN+forward,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+forward,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+forward,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+backward > LEAN+forward,CA:OWL,null,WD+ > WD,null,+sl & +dn,TILT+backward > TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+null,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+forward,null,null,null,null,+sl & +dn,null
+LEAN+forward,CA:BOY,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward,CA:BOY,null,null,null,+sl & +dn,TILT+forward
+LEAN+forward > LEAN+sr,null,null,null,null,+sl & +dn,TILT+forward > TILT+sr
+LEAN+sr,null,null,null,null,+sl & +dn,TILT+sr
+LEAN+sr,null,null,null,null,+sl & +dn,TILT+sr
+LEAN+sr,null,null,null,null,+sl & +dn,TILT+sr
+LEAN+sr,null,null,SQ,null,+sl & +dn,TILT+sr
+LEAN+sr,null,2 x Puffed,SQ,null,+sl & +dn,TILT+sr
+LEAN+forward,CA:BOY ,null,WD,null,+sl & +dn,TILT+forward
+LEAN+forward,CA:BOY ,null,WD,null,+sl & +dn,TILT+forward
+LEAN+forward,CA:BOY ,null,WD,null,+sl & +dn,TILT+forward
+LEAN+forward,CA:BOY ,null,null,null,+sl & +dn,PUSH+forward
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,//,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:BOY,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:BOY,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:BOY,null,null,null,+sl & +dn,TURN+sl > Headnod
+LEAN+sl,CA:BOY,null,null,null,+sl & +dn,Headnod > TURN+sl
+LEAN+forward,CA:BOY,null,//,null,+sl & +dn,Headnod > TURN+sl > Headnod
+null,null,null,//,null,+sl & +dn,TURN+sr
+LEAN+sr,null,null,null,null,+sl & +dn,TURN+sr > TURN+sl
+LEAN+sr,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sr,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sr > LEAN+sl,CA:DOG,null,null,null,+sl & +dn,TURN+sl > Headnod > TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,null,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:BOY ,null,null,null,+sl & +dn,Headnod
+LEAN+sl,CA:BOY ,null,null,null,+sl & +dn,Headnod
+LEAN+sl,CA:BOY ,null,null,null,+sl & +dn,Headnod
+LEAN+sl,CA:BOY ,null,null,null,+sl & +dn,TURN+sl
+LEAN+sl,CA:BOY ,null,null,null,+sl & +dn,TURN+sl
+null,null,null,null,null,+sl & +dn,TURN+sl
+SHOULDERS+hunched,CA:BOY,null,null,null,+sl & +dn,TURN+sl > TILT+forward
+TWIST+sl > LEAN+forward,CA:BOY,null,WD,null,+sl & +dn,TILT+forward
+null,null,null,null,null,+sl & +dn,TURN+sl
+null,CA:BOY,null,null,null,+sl & +dn,TURN+sl
+LEAN+sr,null,null,//,null,+sl & +dn,TURN+sl > TILT+forward
+LEAN+sr,null,null,null,null,+sl & +dn,TILT+forward
+LEAN+sl > LEAN+sr,null,2 x Puffed,WD,null,+sl & +dn,TURN+sl
+LEAN+sr > LEAN+backward,null,2 x Puffed,null,null,+sl & +dn,TURN+sl > PUSH+backward
+LEAN+sl,null,null,WD > SQ,null,+sl & +dn,TILT+forward
+null,null,null,null,null,+sl & +camera,Headnod
+SHOULDERS+hunched,null,null,null,null,+sl,PUSH+forward
+SHOULDERS+hunched,CA:WOMAN ,null,null,null,+sl,TURN+sl
+SHOULDERS+hunched,CA:WOMAN ,null,null,null,+sl,TURN+sl & TILT+backward
+LEAN+sr,CA:WOMAN ,null,null,null,+sl,TILT+backward > TURN+sl
+LEAN+sl,CA:WOMAN ,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:WOMAN ,null,null,null,+sl,TURN+sl
+null,null,null,null,null,+sl,TURN+sl
+null,CA:WOMAN,null,SQ,null,+sl,PUSH+backward
+null,CA:WOMAN,null,//,null,+sl,PUSH+backward
+LEAN+sl,CA:WOMAN,null,null,null,+sl,PUSH+backward
+LEAN+sl,null,null,null,null,+sl,PUSH+backward
+LEAN+sl > LEAN+sr,CA:WOMAN,null,null,null,+sl,TURN+sl
+LEAN+backward,CA:WOMAN,2 x Puffed,//,null,+sl,TILT+sl > PUSH+backward
+LEAN+backward,CA:WOMAN,null,null,null,+sl,TILT+sl
+null,null,null,//,null,+sl,null
+null,null,null,null,null,+sl,null
+null,CD:WOMAN,null,null,null,+sl,TILT+backward
+TWIST+sl,null,null,null,null,+sl,TURN+sl
+LEAN+forward,null,null,null,null,+sl,null
+null,null,null,null,null,+sl,null
+LEAN+backward,null,null,null,null,+sl,null
+LEAN+backward,null,null,null,null,+sl,null
+LEAN+sl,null,null,//,null,+sl,Headnod
+null,null,null,//,null,+sl,TURN+sl > TILT+backward
+null,null,null,null,null,+sl,TILT+backward
+null,null,null,null,null,+sl,TURN+sl
+LEAN+forward,null,null,null,null,+sl,TILT+backward
+null,null,null,null,null,+sl,TURN+sl
+null,null,null,null,null,+sl,TURN+sl
+null,null,null,null,null,+sl,TILT+forward
+null,null,null,null,null,+sl,TURN+sl
+null,null,null,null,null,+sl,TURN+sl
+null,null,null,null,null,+sl,null
+null,null,null,null,null,+sl,null
+null,null,null,null,null,+sl,Headnod
+null,null,null,null,null,+sl,Headnod
+LEAN+sl,null,null,null,null,+sl,null
+null,CA:MAN ,null,null,null,+sl,TURN+sl
+null,CA:MAN ,null,null,null,+sl,TURN+sl
+LEAN+sr,CA:MAN ,null,null,null,+sl,TURN+sl
+LEAN+sr > LEAN+sl,CA:MAN ,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:MAN ,null,null,null,+sl,TURN+sl
+null,CA:MOTHER,null,WD,null,+sl,null
+null,null,null,null,null,+sl,TURN+sr
+null,null,null,null,null,+sl,PUSH+forward
+null,null,null,null,null,+sl,PUSH+forward
+null,null,null,null,null,+sl,PUSH+forward
+null,null,null,CLOSED,null,+sl,TILT+sl
+null,null,null,//,null,+sl,Headnod
+null,null,null,//,null,+sl,null
+null,null,null,//,null,+sl,Headshake
+null,null,null,//,null,+sl,Headnod
+LEAN+backward,null,null,//,null,+sl,TILT+forward
+null,null,null,//,null,+sl,TURN+sr
+null,null,null,null,null,+sl,PUSH+forward
+null,null,null,//,null,+sl,null
+null,null,null,//,null,+sl,TILT+sl
+null,null,null,//,null,+sl,TILT+forward
+LEAN+forward,CA:FATHER,2 x Puffed,//,null,+sl,TURN+sl
+null,null,null,//,null,+sl,TILT+sl
+null,null,null,// > SQ+ > //,null,+sl,TILT+sl
+null,CD:HELEN,null,null,null,+sl,PUSH+forward
+TWIST+sl,CD:HELEN,null,null,null,+sl,PUSH+forward
+TWIST+sl,CD:HELEN,null,SQ,null,+sl,TILT+sr
+TWIST+sl,null,null,//,null,+sl,TURN+sl
+LEAN+sl,null,null,//,null,+sl,Headnod
+TWIST+sl,null,null,null,null,+sl,TURN+sl
+LEAN+backward,null,null,//,null,+sl,TURN+sl
+LEAN+backward,null,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:DOG        ,null,WD,null,+sl,TURN+sr
+LEAN+sl,null,null,null,null,+sl,TURN+sl
+LEAN+sr,CA:MAN,null,null,null,+sl,TURN+sl
+LEAN+sr,null,null,WD,null,+sl,TURN+sl
+LEAN+sr,null,null,WD > //,null,+sl,TURN+sl
+LEAN+sr,null,null,//,null,+sl,TURN+sl
+null,null,null,//,null,+sl,null
+LEAN+forward,null,null,//,null,+sl,Headnod
+null,null,null,//,null,+sl,TILT+sr
+null,null,null,//,null,+sl,TILT+sr
+LEAN+sr,null,null,null,null,+sl,TILT+sr
+LEAN+backward,null,null,WD+,null,+sl,TILT+backward
+LEAN+backward,null,null,WD+,null,+sl,TILT+backward
+LEAN+backward,null,null,null,null,+sl,TURN+sr > TURN+sl
+LEAN+backward,null,null,null,null,+sl,TURN+sl
+SHOULDERS+hunched,null,null,null,null,+sl,TURN+sl
+LEAN+forward,null,null,null,null,+sl,PUSH+forward
+LEAN+backward,null,null,null,null,+sl,TILT+backward
+LEAN+sl,null,null,null,null,+sl,TURN+sl
+LEAN+sl,null,null,null,null,+sl,TURN+sl
+LEAN+sl,null,null,null,null,+sl,TURN+sl
+SHOULDERS+hunched,null,null,// > //,null,+sl,TILT+backward
+LEAN+backward > LEAN+sl,CD:BOY,null,SQ,null,+sl,TURN+sl
+LEAN+sl,CA:BOY & CA:DOG,null,SQ,null,+sl,TURN+sl
+LEAN+sl,CA:BOY & CA:DOG,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:BOY & CA:DOG,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:BOY & CA:DOG,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,//,null,+sl,TILT+sl > TURN+sl
+LEAN+sl,CA:BOY,null,null,null,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,null,null,+sl,TURN+sl
+LEAN+sl,null,null,null,null,+sl,TURN+sr
+LEAN+sl,CA:BOY,null,//,null,+sl,TURN+sl > Headshake > TILT+sl
+LEAN+sl,CA:BOY,null,null,null,+sl,TILT+sl
+TWIST+sl > LEAN+backward,null,null,SQ,null,+nd > +sr & +up,TURN+sl
+SHOULDERS+hunched,null,null,//,null,+nd > +interlocutor1,TILT+forward
+TWIST+sr > TWIST+sl,null,2 x Puffed,null,null,+nd > +interlocutor1,TILT+forward
+LEAN+forward,null,null,//,null,+nd > +interlocutor1,null
+LEAN+sl,CA:DOG,null,null,null,+nd > +dn,TILT+sr > Headnod
+SHOULDERS+hunched,null,null,SQ > //,null,+nd,TILT+forward
+LEAN+forward,CA:MAN,null,WD,null,+nd,TILT+forward
+LEAN+forward,CA:MAN,null,WD > //,null,+nd,TILT+forward
+LEAN+sr,null,null,null,null,+nd,TILT+forward
+null,null,null,//,null,+nd,TILT+forward
+LEAN+sl,CA:BOY,null,//,null,+nd,null
+LEAN+sl,CA:BOY ,null,CLOSED,null,+nd,TILT+sr
+LEAN+forward > TWIST+sl,CA:BOY,null,SQ,null,+nd,TURN+sl
+TWIST+sl,CA:BOY,null,null,null,+nd,TURN+sl
+TWIST+sr,null,null,null,null,+interlocutor2 > +sr,Headnod
+null,null,null,null,null,+interlocutor2 > +dn,null
+TWIST+sr,CA:WOMAN,null,// > //,null,+interlocutor2 > +camera > +interlocutor2,Headnod > Headnod
+LEAN+sl,CD:WOMAN,null,null,null,+interlocutor2,PUSH+backward
+LEAN+sl,CA:WOMAN,null,//,null,+interlocutor2,PUSH+backward
+TWIST+sr,CA:WOMAN,null,WD,null,+interlocutor2,TURN+sr
+TWIST+sr,CA:WOMAN,null,WD,null,+interlocutor2,TURN+sr
+TWIST+sr,CA:WOMAN,null,WD,null,+interlocutor2,Headshake
+TWIST+sr,CA:WOMAN,null,null,null,+interlocutor2,Headnod
+TWIST+sr,null,null,//,null,+interlocutor2,Headshake
+TWIST+sr,null,null,null,null,+interlocutor2,Headshake
+TWIST+sr,null,null,null,null,+interlocutor2,Headshake
+TWIST+sr,null,null,null,null,+interlocutor2,Headshake > Headnod
+TWIST+sr,null,null,//,null,+interlocutor2,Headnod
+TWIST+sr,null,null,null,null,+interlocutor2,null
+TWIST+sr,null,null,//,null,+interlocutor2,TILT+backward
+TWIST+sr,null,null,//,null,+interlocutor2,Headshake
+TWIST+sr,null,null,//,null,+interlocutor2,Headshake > Headnod
+TWIST+sr,null,null,//,null,+interlocutor2,Headnod
+null,null,null,// > CLOSED,null,+interlocutor2,null
+LEAN+forward,null,null,//,null,+interlocutor2,PUSH+forward > PUSH+backward
+null,null,null,null,null,+interlocutor2,PUSH+backward
+null,null,null,//,null,+interlocutor2,null
+LEAN+forward,null,null,null,null,+interlocutor2,PUSH+forward > Headnod > TILT+forward
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+null,null,null,null,null,+interlocutor2,null
+TWIST+sr,CA:BOY,null,null,null,+interlocutor1 > +sr > +interlocutor1,TILT+sr
+LEAN+sl,null,null,null,null,+interlocutor1 > +sr & +up,TURN+sr
+LEAN+backward,CA:DOG,null,//,null,+interlocutor1 > +sr & +dn > +interlocutor1 > +dn,TILT+backward
+LEAN+sl,CA:BOY,null,null,null,+interlocutor1 > +sr & +dn > +interlocutor1,TILT+sr
+LEAN+sr > LEAN+forward,null,null,SQ,null,+interlocutor1 > +sr & +dn > +interlocutor1,TILT+forward & PUSH+forward
+null,null,null,null,null,+interlocutor1 > +sr & +dn,TILT+forward
+null,CA:BOY,null,null,null,+interlocutor1 > +sr & +dn,TILT+sr > PUSH+forward & TURN+sr
+LEAN+sl,null,null,null,null,+interlocutor1 > +sr & +dn,TURN+sr
+LEAN+sl,CA:BOY,null,null,null,+interlocutor1 > +sr & +dn,TURN+sr
+LEAN+forward,null,null,//,null,+interlocutor1 > +sr & +dn,TURN+sr
+LEAN+forward & LEAN+sr,null,null,SQ,null,+interlocutor1 > +sr & +dn,null
+LEAN+sr,null,null,//,null,+interlocutor1 > +sr,Headnod > TILT+sr
+null,null,null,//,null,+interlocutor1 > +sr,TILT+sr
+null,CA:BOY,null,null,null,+interlocutor1 > +sr,TURN+sr
+null,null,null,//,null,+interlocutor1 > +sr,PUSH+forward
+null,null,null,null,null,+interlocutor1 > +sr,null
+LEAN+sl,CA:BOY,null,null,null,+interlocutor1 > +sr,TILT+backward
+LEAN+sl,CA:BOY,null,//,null,+interlocutor1 > +sr,TURN+sr
+null,CA:BIRD,null,//,null,+interlocutor1 > +sl > +interlocutor1,TURN+sl
+null,CA:BOY,null,null,null,+interlocutor1 > +sl & +dn > +interlocutor1,TURN+sr
+null,null,null,//,null,+interlocutor1 > +sl & +dn,TILT+forward
+null,CA:BOY,null,//,null,+interlocutor1 > +sl & +dn,TILT+backward
+LEAN+sl,null,null,null,null,+interlocutor1 > +sl & +dn,null
+SHOULDERS+hunched,null,null,WD > SQ,null,+interlocutor1 > +sl,TURN+sr > TURN+sl
+null,null,null,null,null,+interlocutor1 > +sl,Headnod > TURN+sl
+LEAN+backward,CA:BOY,null,//,null,+interlocutor1 > +sl,null
+LEAN+forward,null,null,CLOSED,null,+interlocutor1 > +sl,TILT+forward
+LEAN+forward,null,null,// > //,null,+interlocutor1 > +sl,TILT+forward
+LEAN+sl,null,null,WD > CLOSED,null,+interlocutor1 > +sl,TILT+backward
+TWIST+sr,null,2 x Puffed,null,null,+interlocutor1 > +nd,TILT+forward
+null,null,null,null,null,+interlocutor1 > +hands,PUSH+forward > TILT+forward
+LEAN+sr,CA:BOY,null,null,null,+interlocutor1 > +hands,TILT+forward
+LEAN+forward,CA:BOY,null,null,null,+interlocutor1 > +hands,TILT+forward
+null,null,null,//,null,+interlocutor1 > +dn > +interlocutor1,PUSH+forward
+null,CA:FROG,null,null,null,+interlocutor1 > +dn > +interlocutor1,PUSH+forward
+LEAN+forward,CA:BOY,null,//,null,+interlocutor1 > +dn > +interlocutor1,PUSH+forward
+SHOULDERS+hunched,null,null,//,null,+interlocutor1 > +dn,TILT+forward
+null,CA:FROG,null,null,null,+interlocutor1 > +dn,TILT+backward > TILT+forward
+LEAN+forward,CA:DEER,null,null,null,+interlocutor1 > +dn,TILT+forward
+LEAN+forward,null,null,//,null,+interlocutor1 > +dn,TILT+forward
+LEAN+forward,null,null,//,null,+interlocutor1 > +dn,TILT+forward
+LEAN+backward,null,null,//,null,+interlocutor1 > +dn,PUSH+backward
+LEAN+sr,null,null,null,null,+interlocutor1 > +dh,PUSH+forward
+SHOULDERS+hunched,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+LEAN+sr,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,2 x Puffed,null,null,+interlocutor1,TURN+sr
+null,null,null,//,null,+interlocutor1,TURN+sr > Headnod
+LEAN+sr,null,null,//,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr & TILT+forward
+null,null,null,null,null,+interlocutor1,TILT+forward
+null,null,null,null,null,+interlocutor1,TILT+forward
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,SQ,null,+interlocutor1,TILT+forward
+null,null,null,null,null,+interlocutor1,TILT+forward
+null,null,null,CLOSED,null,+interlocutor1,TILT+forward
+null,CA:ENGLISH MAN,null,null,null,+interlocutor1,TURN+sr
+LEAN+sr,CA:ENGLISH MAN,null,//,null,+interlocutor1,TILT+forward
+TWIST+sl,null,null,null,null,+interlocutor1,TILT+forward > TILT+sl
+null,null,null,null,null,+interlocutor1,TILT+sl > Headnod
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,//,null,+interlocutor1,TURN+sr > Headnod
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,WD,null,+interlocutor1,TURN+sr
+LEAN+forward,null,null,//,null,+interlocutor1,null
+LEAN+forward,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,TILT+sl & Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,null
+null,null,null,CLOSED,null,+interlocutor1,Headnod
+null,null,null,//,null,+interlocutor1,TURN+sr
+null,null,null,//,null,+interlocutor1,Headshake
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+LEAN+sr,null,null,null,null,+interlocutor1,PUSH+forward
+null,null,null,null,null,+interlocutor1,PUSH+forward > Headnod
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,Headshake
+null,null,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,TURN+sr
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,TILT+sr
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,PUSH+forward
+null,null,null,null,null,+interlocutor1,PUSH+forward & TURN+sr
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TILT+sr
+LEAN+sr,null,null,null,null,+interlocutor1,TILT+forward
+LEAN+sr,null,null,//,null,+interlocutor1,TURN+sr
+null,CA:FROG,null,null,null,+interlocutor1,null
+null,null,null,//,null,+interlocutor1,Headnod
+null,null,null,null,null,+interlocutor1,null
+null,CD:BOY,null,null,null,+interlocutor1,TURN+sr
+null,CA:BOY,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TURN+sr
+null,CA:DOG,null,null,null,+interlocutor1,TILT+backward
+null,null,null,null,null,+interlocutor1,PUSH+forward
+LEAN+forward,null,null,null,null,+interlocutor1,PUSH+forward
+null,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TILT+forward
+null,null,null,CLOSED,null,+interlocutor1,TILT+backward
+null,null,null,null,null,+interlocutor1,TILT+forward
+null,CA:BIRD,null,null,null,+interlocutor1,TILT+forward
+null,null,null,//,null,+interlocutor1,TILT+forward
+null,null,null,//,null,+interlocutor1,TILT+forward
+null,CA:BIRD,null,null,null,+interlocutor1,TILT+forward
+null,CA:BIRD,null,//,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,TURN+sl
+null,null,null,null,null,+interlocutor1,null
+LEAN+sl,null,null,null,null,+interlocutor1,TILT+backward
+null,null,null,null,null,+interlocutor1,null
+LEAN+forward,CA:BOY,null,null,null,+interlocutor1,PUSH+forward
+LEAN+sl,CA:BOY,null,//,null,+interlocutor1,TILT+sr
+LEAN+forward,null,null,null,null,+interlocutor1,PUSH+forward
+LEAN+forward,null,null,null,null,+interlocutor1,TILT+forward
+LEAN+forward,null,null,null,null,+interlocutor1,null
+null,null,null,null,null,+interlocutor1,null
+LEAN+forward,CA:BOY,null,null,null,+interlocutor1,null
+LEAN+forward,CA:BOY,null,null,null,+interlocutor1,TILT+forward
+LEAN+sl,null,null,null,null,+interlocutor1,null
+LEAN+sl,null,null,null,null,+interlocutor1,null
+LEAN+sl,null,null,//,null,+interlocutor1,TILT+forward
+null,null,null,null,null,+interlocutor1,null
+LEAN+backward,null,null,null,null,+interlocutor1,null
+TWIST+sr,null,null,//,null,+interlocutor1,TURN+sr
+null,null,null,//,null,+interlocutor1,TURN+sr
+null,CA:BOY,null,//,null,+interlocutor1,TURN+sr
+TWIST+sr,null,null,null,null,+interlocutor1,TURN+sr
+LEAN+backward,CA:BOY ,null,null,null,+interlocutor1,PUSH+backward
+LEAN+forward,null,null,CLOSED,null,+interlocutor1,TURN+sr
+LEAN+sr,null,null,//,null,+interlocutor1,TILT+sr
+LEAN+forward,null,null,CLOSED,null,+interlocutor1,TURN+sr
+LEAN+forward & LEAN+sr,null,null,SQ,null,+interlocutor1,TILT+forward
+LEAN+sr,null,null,CLOSED > SQ,null,+interlocutor1,Headnod
+LEAN+sr,null,null,SQ,null,+interlocutor1,Headnod > TILT+forward
+null,null,null,SQ,null,+interlocutor1,PUSH+backward
+LEAN+sl,null,null,//,null,+interlocutor1,PUSH+backward
+SHOULDERS+hunched,CA:MAN,null,//,null,+interlocutor1,TILT+sl
+TWIST+sl,CA:MAN,null,null,null,+interlocutor1,Headshake
+TWIST+sl,CA:MAN,null,null,null,+interlocutor1,Headshake
+TWIST+sl,CA:MAN,null,null,null,+interlocutor1,Headshake & PUSH+forward
+TWIST+sl,CA:MAN,null,null,null,+interlocutor1,PUSH+forward
+TWIST+sl,CA:MAN,null,//,null,+interlocutor1,PUSH+forward
+null,null,null,//,null,+hands > +sr,TILT+forward > TILT+sr
+LEAN+forward,null,null,//,null,+hands > +sl & +dn,TILT+sl
+LEAN+backward,null,null,null,null,+hands > +sl & +dn,TILT+forward
+null,null,null,//,null,+hands > +sl,TURN+sr > TURN+sl
+null,null,null,null,null,+hands > +interlocutor2,null
+null,CA:BOY,null,null,null,+hands > +interlocutor1 > +dn,TILT+forward
+null,null,null,null,null,+hands > +interlocutor1 > +dn,TILT+backward > TILT+forward
+SHOULDERS+hunched,null,2 x Puffed,null,null,+hands > +interlocutor1,null
+null,null,null,null,null,+hands > +interlocutor1,null
+null,null,null,SQ,null,+hands > +interlocutor1,TILT+forward
+LEAN+forward,null,null,null,null,+hands > +interlocutor1,TILT+backward
+null,null,null,null,null,+hands > +camera,TILT+backward
+LEAN+sl,null,null,WD,null,+hands > +camera,TILT+sl > TILT+backward
+LEAN+sr,null,null,null,null,+hands,Headnod
+SHOULDERS+hunched,CA:WOMAN,null,//,null,+hands,PUSH+forward
+SHOULDERS+hunched,CA:WOMAN,null,null,null,+hands,PUSH+forward
+SHOULDERS+hunched,CA:WOMAN,null,SQ,null,+hands,TILT+forward
+LEAN+forward,null,null,null,null,+hands,TURN+sr
+null,CA:MAN,null,//,null,+hands,TILT+forward
+null,null,null,//,null,+hands,TILT+forward
+LEAN+forward,null,null,null,null,+hands,TILT+sl
+TWIST+sl,null,null,null,null,+hands,TILT+forward
+LEAN+backward,null,null,null,null,+hands,TILT+forward
+LEAN+backward,null,null,null,null,+hands,TILT+forward
+null,null,null,null,null,+hands,TILT+forward & PUSH+forward > TILT+forward
+null,null,null,null,null,+hands,PUSH+forward
+LEAN+sl,CA:BOY,null,// > CLOSED,null,+hands,TILT+sl
+LEAN+forward,null,null,null,null,+hands,TILT+forward
+LEAN+forward,CA:BOY,null,null,null,+hands,TILT+forward
+null,null,null,CLOSED,null,+hands,TILT+forward
+null,null,null,CLOSED,null,+hands,TILT+forward
+null,null,null,CLOSED,null,+hands,TILT+forward
+null,null,null,null,null,+hands,TURN+sr
+null,null,null,null,null,+hands,TURN+sr
+null,null,null,null,null,+hands,TILT+forward
+TWIST+sr,CA:WOMAN,null,null,null,+hands,TILT+forward
+LEAN+sr,null,null,SQ,null,+hands,TURN+sl
+LEAN+sr,null,null,SQ,null,+hands,TURN+sl
+LEAN+forward > LEAN+backward,null,null,SQ > // > //,null,+dn > +sr & +dn > +camera > +sl,TILT+forward > TURN+sl
+null,null,null,// > SQ,null,+dn > +sr & +dn,TURN+sr
+SHOULDERS+hunched,null,null,null,null,+dn > +sr & +dn,TURN+sr
+LEAN+forward,CA:DEER,null,null,null,+dn > +sr & +dn,PUSH+forward & TILT+forward
+LEAN+forward,null,null,null,null,+dn > +sr & +dn,TILT+forward > TURN+sr
+null,null,null,//,null,+dn > +sr,TILT+forward > Headnod
+LEAN+forward > TWIST+sl,null,null,WD,null,+dn > +sl & +dn > +dn,TILT+forward > TURN+sl
+LEAN+forward,null,null,//,null,+dn > +sl & +dn,PUSH+forward
+null,null,null,//,null,+dn > +sl & +dn,TURN+sl
+LEAN+forward > LEAN+backward,null,null,null,null,+dn > +sl & +dn,PUSH+forward & Headnod > TILT+forward
+LEAN+sl,null,2 x Puffed,WD,null,+dn > +sl & +dn,TURN+sl
+LEAN+sr,CA:DOG,null,null,null,+dn > +sl & +dn,TILT+forward > TURN+sl
+LEAN+sl,null,null,SQ,null,+dn > +sl,TILT+forward
+SHOULDERS+hunched,null,null,//,null,+dn > +sl,TURN+sl
+LEAN+backward,null,null,null,null,+dn > +sl,Headshake
+null,CA:BOY,null,null,null,+dn > +interlocutor1 > +dh,PUSH+forward
+SHOULDERS+hunched,CA:MAN,null,WD,null,+dn > +interlocutor1,TILT+forward > TURN+sr
+LEAN+sr,null,null,null,null,+dn > +interlocutor1,PUSH+forward
+null,CA:FROG,null,//,null,+dn > +interlocutor1,TILT+forward
+LEAN+forward,CA:DOG,null,null,null,+dn > +interlocutor1,PUSH+forward
+LEAN+forward,CA:DOG,null,WD,null,+dn > +interlocutor1,TILT+backward
+LEAN+sr,null,null,CLOSED,null,+dn > +dh,TILT+sr > TILT+forward
+TWIST+sr,null,null,null,null,+dn > +camera > +up,TILT+backward
+LEAN+forward,CA:WOMAN,null,//,null,+dn > +camera > +sr,PUSH+backward > Headnod
+LEAN+forward,null,null,SQ > //,null,+dn > +camera > +dn,Headnod
+LEAN+backward,CA:BOY,null,SQ,null,+dn > +camera,TILT+sr
+SHOULDERS+hunched,null,null,SQ > SQ+,null,+dn > +camera,PUSH+forward
+LEAN+forward,null,null,null,null,+dn > +camera,TILT+forward
+LEAN+sr > SHOULDERS+hunched,null,null,SQ,null,+dn > +camera,PUSH+forward
+null,CA:WOMAN,null,//,null,+dn > +camera,TILT+forward
+null,null,null,null,null,+dn > +camera,Headnod
+LEAN+sl,null,null,SQ,null,+dn > +camera,TILT+sr > TILT+backward
+LEAN+forward,CA:BOY,null,null,null,+dn,PUSH+forward
+LEAN+backward,null,null,null,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward > TURN+sl
+null,null,null,null,null,+dn,TURN+sl
+null,null,null,null,null,+dn,PUSH+backward
+LEAN+backward,null,null,null,null,+dn,TILT+sr
+LEAN+sl,null,null,//,null,+dn,PUSH+forward
+null,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,Headnod
+LEAN+sl,CA:MAN,null,null,null,+dn,null
+LEAN+sl,CA:MAN,null,null,null,+dn,null
+LEAN+sl,CA:MAN,null,null,null,+dn,TILT+forward
+LEAN+sl,CA:MAN,null,null,null,+dn,TILT+forward
+LEAN+sl,CA:MAN,null,null,null,+dn,TILT+forward
+LEAN+sl,CA:MAN,null,null,null,+dn,TILT+forward
+null,CA:MOTHER,null,WD,null,+dn,TILT+forward
+null,CA:MOTHER,null,WD,null,+dn,TILT+forward
+null,CA:MOTHER,null,WD,null,+dn,TILT+forward
+SHOULDERS+hunched,null,null,//,null,+dn,TILT+forward
+SHOULDERS+hunched,null,null,null,null,+dn,TILT+forward
+SHOULDERS+hunched,null,null,null,null,+dn,TILT+forward
+null,null,null,//,null,+dn,Headnod
+null,null,null,//,null,+dn,TILT+forward > TILT+sl
+null,null,null,null,null,+dn,TILT+forward
+null,null,null,//,null,+dn,TILT+forward
+null,null,null,//,null,+dn,TURN+sl
+null,CA:HELEN,null,SQ,null,+dn,TURN+sr
+LEAN+forward,CA:FATHER,2 x Puffed,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+sl
+LEAN+sl,CA:FATHER,2 x Puffed,SQ,null,+dn,TILT+sl
+null,null,2 x Puffed,SQ,null,+dn,TILT+sl > TURN+sl
+null,null,null,SQ,null,+dn,TURN+sl > TILT+forward
+LEAN+forward,null,null,null,null,+dn,PUSH+forward
+LEAN+forward,CA:BOY,null,null,null,+dn,TILT+forward
+LEAN+forward,CA:BOY,null,null,null,+dn,TILT+forward
+LEAN+forward,CA:BOY,null,null,null,+dn,TILT+forward
+LEAN+sl,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,null
+LEAN+forward,CA:DOG,null,null,null,+dn,PUSH+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+backward,null,null,null,null,+dn,TILT+backward > PUSH+forward
+LEAN+forward,null,null,null,null,+dn,PUSH+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,Headnod
+SHOULDERS+hunched,null,null,CLOSED,null,+dn,Headnod
+LEAN+backward,null,null,WD,null,+dn,PUSH+backward
+LEAN+backward & SHOULDERS+hunched,null,null,WD > SQ,null,+dn,PUSH+backward
+SHOULDERS+hunched,null,null,SQ,null,+dn,Headnod
+null,null,null,SQ > CLOSED,null,+dn,null
+null,null,null,//,null,+dn,Headnod
+LEAN+forward,null,null,CLOSED,null,+dn,Headnod
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+LEAN+sl,null,null,//,null,+dn,TILT+sr
+null,null,null,CLOSED,null,+dn,TURN+sl
+null,null,null,CLOSED,null,+dn,TURN+sl
+LEAN+forward,null,null,CLOSED,null,+dn,PUSH+forward
+LEAN+forward,null,null,CLOSED,null,+dn,PUSH+forward
+LEAN+sl,CA:BOY ,null,null,null,+dn,TILT+sr
+LEAN+backward,CA:BOY,null,CLOSED,null,+dn,TILT+backward
+null,null,null,CLOSED,null,+dn,Headnod
+null,null,null,null,null,+dn,TILT+sr
+LEAN+sl,null,null,null,null,+dn,null
+SHOULDERS+hunched,null,null,// > WD,null,+dn,null
+null,null,null,//,null,+dn,null
+LEAN+forward,CA:BOY,null,CLOSED,null,+dn,TILT+forward
+LEAN+forward,CA:BOY,null,WD,null,+dn,PUSH+forward
+LEAN+forward,CA:BOY,null,WD,null,+dn,PUSH+forward
+LEAN+forward,CA:BOY,null,WD,null,+dn,PUSH+forward
+TWIST+sr,null,null,WD,null,+dn,TURN+sl
+null,null,null,//,null,+dn,null
+LEAN+forward,CA:DOG ,null,WD,null,+dn,TILT+backward
+null,null,null,// > CLOSED,null,+dn,null
+LEAN+forward,null,null,CLOSED,null,+dn,null
+LEAN+forward,null,null,null,null,+dn,PUSH+forward
+LEAN+forward,null,null,//,null,+dn,TILT+forward
+LEAN+forward,CA:BOY  ,null,null,null,+dn,TILT+sl
+LEAN+forward,CA:BOY  ,null,null,null,+dn,TILT+sl
+null,null,null,SQ,null,+dn,TILT+forward
+null,null,null,SQ > CLOSED,null,+dn,Headnod > TURN+sl
+SHOULDERS+hunched,CA:WOMAN,null,SQ > //,null,+dn,Headnod
+SHOULDERS+hunched,CA:WOMAN,null,//,null,+dn,Headnod
+null,null,null,null,null,+dn,TILT+backward
+LEAN+sr,null,null,SQ,null,+dn,Headnod
+LEAN+backward,null,null,//,null,+dn,TILT+backward
+LEAN+forward,null,null,null,null,+dn,PUSH+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,null
+null,null,null,//,null,+dn,PUSH+backward
+null,null,null,null,null,+dn,Headnod
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+sr,null,null,null,null,+dn,TILT+forward
+LEAN+sr > LEAN+sl,null,null,null,null,+dn,TILT+forward
+LEAN+sl,null,null,null,null,+dn,TILT+forward > PUSH+forward
+null,null,null,null,null,+dn,TILT+forward
+SHOULDERS+hunched,null,null,null,null,+dn,TILT+forward
+SHOULDERS+hunched,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+sr
+LEAN+forward > LEAN+sl,CA:DOG,null,null,null,+dn,TILT+forward
+LEAN+sl > LEAN+sr,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward & LEAN+sr,CA:DOG,null,null,null,+dn,TILT+forward
+LEAN+sr,null,null,null,null,+dn,TILT+forward & TILT+sr
+LEAN+sr,null,null,null,null,+dn,TILT+sr
+LEAN+sl,null,null,null,null,+dn,TILT+sr > TILT+sl
+TWIST+sr,CA:BOY,null,null,null,+dn,TILT+sr
+TWIST+sr,null,null,null,null,+dn,Headnod
+LEAN+backward,CA:BOY,null,//,null,+dn,TILT+sl
+LEAN+backward,null,null,CLOSED,null,+dn,TILT+forward
+null,null,null,CLOSED,null,+dn,TILT+forward
+LEAN+forward,null,null,//,null,+dn,Headnod
+null,null,null,null,null,+dn,TILT+sr
+SHOULDERS+hunched,CA:FROG ,2 x Puffed,//,null,+dn,TILT+forward
+null,null,2 x Puffed,//,null,+dn,TILT+forward
+null,null,2 x Puffed,null,null,+dn,TILT+forward
+null,null,2 x Puffed,null,null,+dn,TILT+forward
+LEAN+backward,null,2 x Puffed,null,null,+dn,TILT+forward
+LEAN+sl,null,null,null,null,+dn,TILT+forward
+,null,null,//,null,+dn,TURN+sl
+SHOULDERS+hunched,null,null,//,null,+dn,TURN+sl
+SHOULDERS+hunched,null,null,//,null,+dn,TURN+sl
+LEAN+forward,null,null,//,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+null,null,null,null,null,+dn,null
+LEAN+forward,CA:DEER,null,null,null,+dn,PUSH+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward,null,null,null,null,+dn,TILT+forward
+LEAN+forward,CA:DOG,null,null,null,+dn,PUSH+forward
+LEAN+sl,CA:BOY,null,null,null,+dn,TILT+forward > TILT+sr
+LEAN+sl,null,null,null,null,+dn,TILT+sr
+LEAN+sl,null,null,null,null,+dn,TILT+sr
+LEAN+sl,null,null,SQ,null,+dn,TILT+sr
+LEAN+sl,CA:FROG,null,SQ,null,+dn,TILT+forward & TILT+sr
+LEAN+sl > LEAN+sr > LEAN+sl > LEAN+backward,CA:BOY,null,CLOSED,null,+dn,TILT+sr > TILT+forward > TILT+sr
+LEAN+backward,null,null,CLOSED,null,+dn,TILT+sr
+LEAN+forward,null,null,null,null,+dn,TILT+backward
+LEAN+forward,CA:DOG,null,WD,null,+dn,TILT+forward
+LEAN+forward > LEAN+sr,CA:DOG,null,null,null,+dn,TILT+forward
+LEAN+backward,null,null,//,null,+dn,Headshake
+LEAN+backward,null,null,//,null,+dn,TURN+sr
+LEAN+backward > LEAN+sl,null,null,null,null,+dn,TILT+backward > TILT+sl
+LEAN+sl,CA:BOY,null,null,null,+dn,TILT+sl
+LEAN+sr,null,null,// > SQ,null,+dn,Headnod > TILT+sl
+LEAN+sl,null,null,WD,null,+dh > +sr & +up,TURN+sr > TILT+backward
+LEAN+forward,CA:BOY  ,null,null,null,+dh > +sr & +dn,TILT+forward > Headnod
+LEAN+forward,null,null,null,null,+dh > +interlocutor1,TILT+forward
+null,null,null,SQ,null,+dh > +interlocutor1,Headnod
+LEAN+sr,null,null,SQ,null,+dh > +hands,TURN+sr > TURN+sl
+null,null,null,null,null,+dh > +dn,TURN+sr
+LEAN+forward,null,null,CLOSED,null,+dh > +camera,TILT+backward > Headnod
+null,null,null,null,null,+dh,null
+LEAN+sr,null,null,null,null,+dh,null
+LEAN+sl,null,null,null,null,+dh,null
+LEAN+sl,null,null,null,null,+dh,TURN+sr
+null,null,null,//,null,+dh,TILT+forward
+null,null,null,SQ+ > //,null,+dh,TILT+forward
+null,null,null,SQ,null,+dh,null
+LEAN+sr,null,null,SQ,null,+dh,null
+LEAN+sr,null,null,CLOSED,null,+dh,TURN+sr
+null,null,null,SQ,null,+dh,TURN+sr > TILT+forward
+null,null,null,CLOSED,null,+dh,TILT+forward
+null,null,null,//,null,+dh,Headnod
+null,null,null,SQ,null,+dh,Headnod
+null,null,null,SQ,null,+dh,null
+null,null,null,SQ,null,+dh,TURN+sr
+LEAN+forward,null,null,SQ,null,+dh,TURN+sr
+LEAN+sr,null,null,SQ,null,+dh,TURN+sr
+null,null,null,null,null,+camera > +sr > +sl,null
+null,null,null,null,null,+camera > +sr & +up,null
+LEAN+sr,CA:BOY,null,SQ,null,+camera > +sr & +up,TILT+sr > TILT+forward
+LEAN+forward > LEAN+sr > TWIST+sl,CA:BOY,null,WD,null,+camera > +sr & +dn > +sl,TURN+sl > TILT+forward > TURN+sl
+LEAN+sl,null,null,//,null,+camera > +sr & +dn,TILT+forward > TILT+sr
+LEAN+forward & TWIST+sr,null,null,null,null,+camera > +sr & +dn,TILT+sr
+LEAN+forward & TWIST+sr,null,null,//,null,+camera > +sr & +dn,PUSH+forward
+null,null,null,//,null,+camera > +sr & +dn,TILT+forward
+LEAN+forward,null,null,SQ,null,+camera > +sr & +dn,TILT+forward
+LEAN+backward,null,null,//,null,+camera > +sr & +dn,TILT+backward
+LEAN+sr,null,null,WD,null,+camera > +sr & +dn,TILT+backward > TURN+sr
+null,CA:MOTHER ,null,//,null,+camera > +sr,TILT+forward
+null,null,null,//,null,+camera > +sr,Headshake > TURN+sr
+TWIST+sr,CA:WOMAN,null,WD > //,null,+camera > +sr,PUSH+forward > TURN+sr > Headshake
+LEAN+forward,null,null,null,null,+camera > +sl > +dn,TURN+sr
+LEAN+sr,CA:BOY,null,WD > //,null,+camera > +sl & +up > +sl & +up,TURN+sl > TURN+sr
+LEAN+forward,CA:BOY,null,WD,null,+camera > +sl & +up,TURN+sl > TILT+forward > TURN+sl
+TWIST+sl,null,null,null,null,+camera > +sl & +dn,TURN+sl > TILT+forward
+LEAN+forward,null,null,WD,null,+camera > +sl & +dn,TILT+backward
+LEAN+sl,null,null,null,null,+camera > +sl & +dn,TILT+backward > TURN+sl
+LEAN+forward > TWIST+sl,CA:BOY,null,null,null,+camera > +sl & +dn,TURN+sl
+null,null,null,WD > //,null,+camera > +sl & +dn,TURN+sr > TURN+sl
+LEAN+forward,null,null,// > //,null,+camera > +sl,TILT+sl > PUSH+forward
+null,null,null,null,null,+camera > +sl,null
+LEAN+sl,null,null,null,null,+camera > +sl,TILT+sr
+null,CD:HELEN,null,//,null,+camera > +sl,TURN+sr
+LEAN+sl,null,null,null,null,+camera > +sl,TURN+sr > Headnod
+LEAN+forward > LEAN+sl,null,null,//,null,+camera > +sl,TURN+sl
+LEAN+sr,null,null,SQ,null,+camera > +sl,TILT+backward > TURN+sl
+null,null,null,SQ+,null,+camera > +interlocutor1,TURN+sr
+LEAN+sr,null,null,null,null,+camera > +hands,TILT+forward
+null,null,null,null,null,+camera > +dn > +sr & +dn,TURN+sl
+LEAN+forward,null,null,null,null,+camera > +dn > +camera,TILT+forward > PUSH+forward
+LEAN+backward,null,2 x Puffed,WD,null,+camera > +dn,PUSH+backward > TILT+forward
+TWIST+sr,null,null,//,null,+camera > +dn,TILT+forward
+null,CA:FATHER,null,//,null,+camera > +dn,TURN+sr
+null,null,null,SQ,null,+camera > +dn,Headnod
+LEAN+forward > SHOULDERS+hunched,CA:WOMAN,null,//,null,+camera > +dn,TURN+sr > TILT+forward > TILT+backward
+SHOULDERS+hunched,null,null,SQ > //,null,+camera > +dn,Headnod
+LEAN+sl,null,null,SQ,null,+camera > +dn,TILT+backward > TILT+forward
+LEAN+forward,null,null,WD,null,+camera > +dn,TILT+forward
+LEAN+sr,null,null,WD,null,+camera > +dh,TURN+sr > TILT+backward
+LEAN+forward,CA:BOY,null,null,null,+camera,Headshake
+LEAN+sr,null,null,null,null,+camera,Headshake
+LEAN+sr,CA:BOY,null,// > SQ,null,+camera,Headshake
+LEAN+sr,null,null,SQ,null,+camera,TILT+backward
+SHOULDERS+hunched,null,null,null,null,+camera,TILT+backward
+null,null,null,null,null,+camera,TILT+backward
+LEAN+forward,CA:BOY,null,SQ,null,+camera,TILT+backward
+LEAN+backward,CA:BOY,null,CLOSED,null,+camera,TURN+sl
+LEAN+backward,CA:DOG,null,CLOSED,null,+camera,TURN+sl
+LEAN+sl,CA:BOY,null,CLOSED,null,+camera,TILT+sl
+LEAN+forward,null,null,null,null,+camera,TILT+backward
+LEAN+forward,null,null,null,null,+camera,TILT+backward
+LEAN+sr,null,null,null,null,+camera,TURN+sr
+TWIST+sl,CA:DOG ,null,//,null,+camera,TILT+backward
+null,null,null,null,null,+camera,TURN+sr
+LEAN+backward,null,null,null,null,+camera,TILT+backward
+LEAN+sr,null,null,WD,null,+camera,TURN+sl
+TWIST+sr,null,null,null,null,+camera,TURN+sr
+LEAN+forward,null,null,null,null,+camera,PUSH+forward
+LEAN+sr,null,null,null,null,+camera,Headnod
+LEAN+sl,null,null,null,null,+camera,TILT+backward
+LEAN+sl,null,null,null,null,+camera,TILT+backward
+null,null,null,null,null,+camera,TILT+backward
+null,CA:MOTHER,null,WD,null,+camera,null
+null,null,null,null,null,+camera,PUSH+forward
+null,null,null,//,null,+camera,PUSH+forward
+null,null,null,//,null,+camera,TILT+backward > PUSH+forward
+LEAN+forward,null,null,//,null,+camera,TILT+forward
+null,null,null,null,null,+camera,Headnod
+LEAN+forward,null,null,//,null,+camera,PUSH+forward
+null,null,null,null,null,+camera,TILT+sl
+null,null,null,//,null,+camera,TILT+forward
+LEAN+sr,null,null,//,null,+camera,TILT+forward
+LEAN+sr,null,null,null,null,+camera,TILT+sl
+LEAN+sr,null,null,null,null,+camera,TILT+sl
+LEAN+sl,null,null,// > //,null,+camera,TILT+sl > TILT+sr
+LEAN+sl,null,null,null,null,+camera,TILT+sr
+LEAN+sl,null,null,null,null,+camera,null
+LEAN+forward,null,null,null,null,+camera,TURN+sr
+LEAN+forward,CD:HELEN,null,//,null,+camera,PUSH+forward
+LEAN+sl,null,null,//,null,+camera,Headnod & TILT+forward
+LEAN+sl,null,null,//,null,+camera,TILT+forward
+LEAN+sl,null,null,null,null,+camera,null
+null,null,null,SQ > //,null,+camera,TILT+forward
+LEAN+forward,null,null,SQ,null,+camera,Headnod
+null,null,null,CLOSED > SQ,null,+camera,Headnod
+LEAN+sl,null,null,SQ+,null,+camera,null
+LEAN+sl,null,null,SQ+,null,+camera,null
+null,null,null,//,null,+camera,null
+LEAN+sl,null,null,null,null,+camera,TILT+sr
+LEAN+backward,null,null,//,null,+camera,TILT+backward
+null,null,null,CLOSED,null,+camera,null
+null,null,null,CLOSED,null,+camera,null
+LEAN+forward,null,null,CLOSED,null,+camera,TURN+sl
+null,null,null,null,null,+camera,null
+LEAN+forward,CA:DOG ,null,WD,null,+camera,TILT+backward
+LEAN+forward,CA:DOG ,null,WD,null,+camera,TILT+backward
+LEAN+forward,null,null,//,null,+camera,null
+null,null,null,//,null,+camera,null
+LEAN+forward > LEAN+backward,CA:BOY ,null,CLOSED,null,+camera,null
+LEAN+sr,null,null,null,null,+camera,null
+LEAN+sr,null,null,null,null,+camera,null
+TWIST+sr,null,null,CLOSED,null,+camera,TURN+sr
+LEAN+sl,null,null,null,null,+camera,TURN+sl
+null,null,null,SQ+ > //,null,+camera,TILT+sl
+null,null,null,SQ+,null,+camera,TILT+forward
+null,null,null,SQ+,null,+camera,TILT+sl
+null,null,null,SQ,null,+camera,Headnod
+null,null,null,SQ,null,+camera,Headnod
+null,null,null,CLOSED,null,+camera,TILT+sr
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,SQ,null,+camera,TILT+forward
+null,null,null,SQ,null,+camera,TILT+backward
+null,null,null,//,null,+camera,null
+LEAN+forward,null,null,SQ,null,+camera,null
+LEAN+forward,null,null,SQ,null,+camera,TILT+forward
+null,null,null,null,null,+camera,TILT+backward
+null,null,null,SQ,null,+camera,TILT+backward
+null,null,null,null,null,+camera,TILT+backward
+null,null,null,SQ,null,+camera,null
+null,null,null,SQ,null,+camera,TURN+sr
+SHOULDERS+hunched,null,null,SQ,null,+camera,TURN+sr
+SHOULDERS+hunched,null,null,CLOSED,null,+camera,TURN+sr > Headnod
+null,null,null,CLOSED,null,+camera,TURN+sl
+null,null,null,CLOSED,null,+camera,TURN+sl
+null,null,null,CLOSED,null,+camera,TURN+sl
+null,null,null,CLOSED > SQ,null,+camera,TILT+forward
+null,null,null,SQ,null,+camera,TILT+forward
+null,null,null,SQ > //,null,+camera,Headnod
+SHOULDERS+hunched,null,null,SQ,null,+camera,PUSH+forward
+SHOULDERS+hunched,null,null,SQ,null,+camera,null
+null,null,null,CLOSED,null,+camera,null
+null,null,null,//,null,+camera,TILT+forward
+null,CA:WOMAN,null,null,null,+camera,null
+null,null,null,//,null,+camera,TILT+forward
+null,null,null,// > SQ,null,+camera,null
+null,null,null,SQ > //,null,+camera,null
+LEAN+sr,null,null,null,null,+camera,TILT+sl
+LEAN+sr,null,null,CLOSED,null,+camera,TILT+sl
+null,CA:WOMAN ,null,// > SQ,null,+camera,Headnod & TURN+sl
+null,null,null,SQ > // > SQ,null,+camera,null
+null,null,null,//,null,+camera,Headnod
+null,null,null,//,null,+camera,Headnod
+null,null,null,//,null,+camera,TILT+backward
+null,null,null,null,null,+camera,TILT+backward
+LEAN+forward,null,null,//,null,+camera,TILT+forward
+LEAN+forward,null,null,//,null,+camera,TILT+forward
+null,null,null,// > SQ,null,+camera,Headnod
+null,null,null,SQ > //,null,+camera,TILT+backward
+LEAN+forward,null,null,// > SQ,null,+camera,TILT+backward
+LEAN+forward,null,null,//,null,+camera,TILT+forward
+LEAN+forward,null,null,//,null,+camera,TILT+forward
+null,null,null,//,null,+camera,Headshake
+null,null,null,//,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,//,null,+camera,null
+TWIST+sr,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,Headshake
+null,null,null,// > SQ,null,+camera,PUSH+backward
+LEAN+forward,null,null,SQ > //,null,+camera,TILT+forward
+null,null,null,CLOSED,null,+camera,Headnod
+null,null,null,WD,null,+camera,Headnod
+null,null,null,WD > //,null,+camera,null
+null,null,null,//,null,+camera,null
+null,null,null,CLOSED,null,+camera,null
+null,null,null,WD,null,+camera,null
+LEAN+backward,null,null,WD,null,+camera,null
+TWIST+sr,null,null,WD,null,+camera,TURN+sr
+TWIST+sr,null,null,WD,null,+camera,null
+null,null,null,WD > //,null,+camera,null
+null,null,null,CLOSED,null,+camera,null
+SHOULDERS+hunched,null,null,//,null,+camera,TURN+sr
+null,null,null,null,null,+camera,null
+null,null,null,null,null,+camera,TURN+sl > TURN+sr
+TWIST+sr,null,null,//,null,+camera,null
+null,null,null,//,null,+camera,null
+null,null,null,//,null,+camera,TURN+sr
+null,null,null,null,null,+camera,TURN+sr > TILT+forward
+TWIST+sr,null,null,SQ > //,null,+camera,TILT+sr & TURN+sr
+TWIST+sr,null,null,//,null,+camera,TURN+sr
+null,null,null,//,null,+camera,null
+SHOULDERS+hunched,null,null,SQ,null,+camera,Headnod
+null,null,null,//,null,+camera,Headnod > TILT+backward
+null,null,null,null,null,+camera,TILT+sl
+LEAN+sl,null,null,SQ,null,+camera,TILT+sl
+LEAN+sl,null,null,null,null,+camera,TILT+forward
+null,null,null,WD,null,+camera,null
+null,null,null,WD,null,+camera,TILT+forward
+LEAN+backward > LEAN+sl,null,null,CLOSED,null,+camera,TILT+backward > TILT+sr
+LEAN+sl,CA:BOY,2 x Puffed,CLOSED,null,+camera,TILT+sr
+LEAN+forward,null,null,null,null,+camera,TILT+backward
+LEAN+sl,null,null,WD,null,+camera,TILT+forward
+LEAN+sl,null,null,WD,null,+camera,TILT+forward
+LEAN+forward,null,null,WD,null,+camera,null
+LEAN+backward,null,null,//,null,+camera,TURN+sr > TILT+sl
+SHOULDERS+hunched > LEAN+sl,CA:BOY,null,null,null,+camera,TILT+forward > PUSH+forward
+LEAN+forward,CA:BOY,null,null,null,+camera,TILT+forward
+null,null,null,WD,null,+camera,TURN+sr > TURN+sl
+LEAN+sl > LEAN+forward,null,null,null,null,+camera,TURN+sl
+TWIST+sl,null,null,SQ,null,+camera,TILT+backward
+LEAN+backward,null,null,SQ+,null,+camera,TILT+backward
+LEAN+sr,null,null,SQ,null,+camera,TILT+sr
+LEAN+sr,null,null,SQ,null,+camera,TILT+sr
+LEAN+sl,null,null,SQ,null,+camera,null
+LEAN+sl,null,null,SQ,null,+camera,null
+LEAN+backward,null,null,//,null,+camera,TILT+forward
+LEAN+sr,null,null,WD,null,+camera,TILT+backward
+LEAN+sr,null,null,WD,null,+camera,TILT+backward & TURN+sl
+LEAN+sr,null,null,null,null,+camera,TURN+sl
+TWIST+sr,null,null,null,null,+camera,TILT+backward
+TWIST+sr,null,null,null,null,+camera,TILT+backward
+null,CA:WOMAN,null,// > SQ+ > // > WD,Furrowed > Raised,+sr > +sl > +camera,Headnod > Headnod > TILT+backward
+LEAN+sr,null,null,SQ+,Furrowed > raised,+sr > +dn,TILT+backward
+LEAN+sr,null,null,SQ > //,Furrowed > Raised,+sr & +dn,TURN+sr
+LEAN+backward,CD:BOY,null,// > WD+,Furrowed > Raised,+sr & +dn,TILT+backward
+LEAN+sl > LEAN+forward,CA:WOMAN ,null,// > WD,Furrowed > Raised,+sr,TURN+sr > PUSH+forward
+LEAN+sr,null,null,CLOSED,Furrowed > Raised,+sr,PUSH+forward
+null,null,null,null,Furrowed > Raised,+sr,TURN+sr
+null,CA:WOMAN,null,SQ > WD,Furrowed > Raised,+sr,TURN+sr
+SHOULDERS+hunched > LEAN+sl > LEAN+forward,null,null,SQ > // > SQ+,Furrowed > Raised,+sl > +hands,TURN+sl > TILT+forward
+LEAN+backward,CA:MAN,null,CLOSED > SQ,Furrowed > Raised,+sl,Headnod
+null,null,null,WD,Furrowed > Raised,+sl,TILT+sr > TILT+backward
+LEAN+backward,CA:PEOPLE IN CAR,null,null,Furrowed > Raised,+sl,TURN+sl
+LEAN+sl,null,null,null,Furrowed > Raised,+sl,null
+null,null,null,SQ,Furrowed > Raised,+hands,TILT+forward > TILT+backward
+LEAN+sr & LEAN+forward,CA:WOMAN,null,SQ+ > // > SQ > // > SQ > //,Furrowed > Raised,+dn > +sr,Headnod > TILT+backward > TURN+sl
+LEAN+forward,null,null,SQ > WD,Furrowed > Raised,+dn,TURN+sl
+LEAN+forward,null,null,null,Furrowed > Raised,+camera,null
+LEAN+forward,null,null,SQ > //,Furrowed > Raised,+camera,TILT+backward
+LEAN+sr,CA:DOG & CA:BOY ,null,CLOSED,Furrowed,null,TILT+backward
+LEAN+sl,CA:DOG & CA:BOY ,null,CLOSED,Furrowed,null,TILT+sl
+LEAN+sl,CA:BOY ,null,CLOSED > WD,Furrowed,null,TILT+sl
+null,CA:BOY,null,SQ+,Furrowed,null,TILT+sl
+null,CA:MAN,null,null,Furrowed,null,TURN+sr
+null,null,null,SQ+,Furrowed,null,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,null,PUSH+forward
+null,null,null,CLOSED,Furrowed,null,TILT+sl
+null,null,null,null,Furrowed,null,null
+LEAN+sl,CA:FRIEND,null,SQ,Furrowed,null,null
+null,null,null,SQ,Furrowed,null,TILT+sr
+LEAN+backward,CA:BOY,null,SQ+,Furrowed,null,PUSH+backward
+null,null,null,null,Furrowed,null,TILT+forward
+null,CA:BOY,null,null,Furrowed,null,PUSH+forward & TURN+sr
+LEAN+sr,null,null,SQ+,Furrowed,null,PUSH+forward
+TWIST+sr,null,null,SQ+,Furrowed,null,TURN+sr
+TWIST+sr,null,null,SQ+,Furrowed,null,TURN+sr
+TWIST+sr,null,null,SQ+,Furrowed,null,Headshake
+null,null,null,CLOSED,Furrowed,null,null
+LEAN+sr,CD:BOY ,null,SQ+,Furrowed,+up > +sr,TILT+sr
+null,CA:ENGLISH MAN,null,//,Furrowed,+up,null
+SHOULDERS+hunched,CA:HELEN,null,SQ > //,Furrowed,+up,PUSH+backward > TURN+sr
+SHOULDERS+hunched,CA:BOY,null,SQ,Furrowed,+up,null
+SHOULDERS+hunched > LEAN+sr,CA:BOY,null,SQ,Furrowed,+up,TILT+sr
+LEAN+sr,null,null,null,Furrowed,+up,TILT+sr
+LEAN+sr,null,null,null,Furrowed,+up,TILT+sr
+LEAN+sr,null,null,null,Furrowed,+up,TILT+sr
+LEAN+sr,null,null,null,Furrowed,+up,TILT+sr
+LEAN+sr,null,null,null,Furrowed,+up,TILT+sr
+TWIST+sr > LEAN+forward,null,null,SQ > //,Furrowed,+sr > +sr & +up,TURN+sr
+LEAN+forward,CA:BOY,null,SQ+,Furrowed,+sr > +sr & +dn,TURN+sr > TILT+forward
+null,CA:WOMAN,null,SQ,Furrowed,+sr > +sr & +dn,null
+null,null,null,// > // > //,Furrowed,+sr > +sl & +up,TILT+sl
+SHOULDERS+hunched,null,null,null,Furrowed,+sr > +sl,TURN+sr
+null,CA:WOMAN,null,WD,Furrowed,+sr > +sl,TURN+sr > PUSH+backward
+LEAN+sr,null,null,null,Furrowed,+sr > +sl,TURN+sr
+null,null,null,null,Furrowed,+sr > +sl,TURN+sr
+LEAN+sr,null,null,//,Furrowed,+sr > +interlocutor1,TURN+sr
+null,null,null,null,Furrowed,+sr > +interlocutor1,TURN+sr
+null,null,null,//,Furrowed,+sr > +interlocutor1,TURN+sr & Headnod
+LEAN+forward,null,null,SQ > WD,Furrowed,+sr > +interlocutor1,PUSH+forward
+null,null,null,SQ,Furrowed,+sr > +interlocutor1,TURN+sr
+LEAN+backward,CA:BOY,null,CLOSED > SQ+ > //,Furrowed,+sr > +interlocutor1,TILT+backward
+LEAN+backward,CA:BIRD,null,SQ,Furrowed,+sr > +interlocutor1,TURN+sr
+null,CA:BOY,null,// > SQ > //,Furrowed,+sr > +interlocutor1,null
+LEAN+backward,CA:WOMAN ,null,SQ > // > SQ,Furrowed,+sr > +hands > +sr & +up,TURN+sr > TILT+sr
+TWIST+sl,null,null,//,Furrowed,+sr > +hands,TURN+sr > TILT+forward
+LEAN+sl > LEAN+forward,CA:BOY ,null,WD,Furrowed,+sr > +dn,TURN+sl > TURN+sr
+TWIST+sr,CA:BOY,null,null,Furrowed,+sr > +dn,TURN+sr > TILT+forward
+LEAN+sr > LEAN+sl,CD:BOY ,null,null,Furrowed,+sr > +camera > +up,PUSH+forward & TURN+sl
+LEAN+sr,CA:BOY  ,null,SQ,Furrowed,+sr > +camera,TURN+sr > Headshake
+null,null,null,SQ,Furrowed,+sr > +camera,Headnod
+null,null,null,//,Furrowed,+sr > +camera,null
+TWIST+sr,null,null,SQ+ > // > SQ,Furrowed,+sr > +camera,TURN+sr > Headnod
+LEAN+sr,null,null,SQ+,Furrowed,+sr & +up > +sr & +dn,Headshake
+LEAN+sr > LEAN+forward,CA:BOY > CD:BOY,null,SQ,Furrowed,+sr & +up > +sr & +dn,TURN+sr > TILT+forward > PUSH+forward
+LEAN+forward > LEAN+sl,CA:BOY,null,null,Furrowed,+sr & +up > +sl & +up,TURN+sr > TURN+sl
+LEAN+sl,null,2 x Puffed,SQ > WD,Furrowed,+sr & +up > +sl & +dn,TILT+backward > TURN+sl
+LEAN+forward,null,null,SQ+,Furrowed,+sr & +up > +sl,TURN+sr > TURN+sl
+LEAN+sl,CA:BOY,null,//,Furrowed,+sr & +up > +interlocutor1,Headnod > TURN+sr
+null,null,null,SQ,Furrowed,+sr & +up > +interlocutor1,TURN+sr > TILT+sr > TILT+sl > TILT+sr > TILT+sl > TILT+sr > TILT+sl
+LEAN+sl,CA:WOMAN,null,SQ+,Furrowed,+sr & +up > +interlocutor1,TURN+sr
+TWIST+sr,CA:BOY,null,null,Furrowed,+sr & +up,TURN+sr > TILT+backward
+LEAN+sl,CD:BOY ,null,null,Furrowed,+sr & +up,TILT+backward > TURN+sl
+LEAN+sr,CD:BOY ,null,null,Furrowed,+sr & +up,TURN+sl > TURN+sr
+LEAN+sr > LEAN+sl,CD:BOY ,null,null,Furrowed,+sr & +up,TURN+sl
+TWIST+sr,null,null,SQ+,Furrowed,+sr & +up,TILT+sl
+LEAN+backward,CA:WOMAN ,null,SQ,Furrowed,+sr & +up,TURN+sr
+null,null,null,SQ,Furrowed,+sr & +up,TURN+sr
+null,null,null,SQ,Furrowed,+sr & +up,TURN+sr
+null,null,null,SQ,Furrowed,+sr & +up,TURN+sr
+null,null,null,SQ > //,Furrowed,+sr & +up,TURN+sr
+null,null,null,// > SQ,Furrowed,+sr & +up,TILT+backward
+LEAN+sl,null,null,SQ > //,Furrowed,+sr & +up,TILT+backward > Headnod
+null,CA:DOG,null,//,Furrowed,+sr & +up,TILT+backward
+LEAN+sl,null,null,SQ,Furrowed,+sr & +up,TILT+backward
+LEAN+sr,CA:DOG ,null,SQ+ > // > SQ+,Furrowed,+sr & +up,PUSH+forward
+LEAN+sr,null,null,CLOSED > SQ+,Furrowed,+sr & +up,TURN+sr > Headshake
+LEAN+forward,null,null,SQ,Furrowed,+sr & +up,TURN+sr
+LEAN+backward,CA:BOY,null,null,Furrowed,+sr & +up,PUSH+backward
+null,null,null,// > SQ,Furrowed,+sr & +up,Headnod
+LEAN+forward,null,null,null,Furrowed,+sr & +up,null
+LEAN+forward,null,null,SQ+,Furrowed,+sr & +up,TURN+sr
+LEAN+sl,CA:WOMAN,null,SQ+,Furrowed,+sr & +up,TURN+sr
+LEAN+forward,CA:BOY,null,null,Furrowed,+sr & +up,TURN+sr
+LEAN+forward,null,null,null,Furrowed,+sr & +up,TURN+sr
+SHOULDERS+hunched,CA:DEER,null,//,Furrowed,+sr & +up,TILT+backward
+LEAN+backward > LEAN+sl,null,null,SQ,Furrowed,+sr & +up,TILT+backward
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+sr & +up,TILT+backward
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +up,PUSH+forward
+LEAN+sl,null,null,null,Furrowed,+sr & +dn > +up,TILT+forward
+TWIST+sr,CA:WOMAN,null,SQ,Furrowed,+sr & +dn > +sr,TURN+sr
+LEAN+backward,null,null,SQ,Furrowed,+sr & +dn > +sr,TILT+forward
+TWIST+sr,null,null,SQ+,Furrowed,+sr & +dn > +sr,TURN+sr
+SHOULDERS+hunched,null,null,SQ,Furrowed,+sr & +dn > +sl & +up,TURN+sr > TURN+sl
+LEAN+sr > LEAN+sl,CA:BOY ,null,WD,Furrowed,+sr & +dn > +sl & +dn > +sr & +dn,TURN+sr > TURN+sl
+LEAN+sl,CA:WOMAN,null,SQ+,Furrowed,+sr & +dn > +sl & +dn > +nd,TURN+sr > TILT+forward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sr & +dn > +sl & +dn,PUSH+forward
+LEAN+sl,null,null,WD,Furrowed,+sr & +dn > +sl & +dn,Headnod & TURN+sl
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn > +sl & +dn,TURN+sr > TILT+forward > TURN+sl
+LEAN+forward,null,null,null,Furrowed,+sr & +dn > +sl & +dn,TILT+forward
+null,CA:WOMAN ,null,null,Furrowed,+sr & +dn > +sl,PUSH+forward
+LEAN+sr,null,null,null,Furrowed,+sr & +dn > +sl,TURN+sr
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sr & +dn > +sl,TURN+sr > TURN+sl
+LEAN+sr,null,null,SQ,Furrowed,+sr & +dn > +sl,TURN+sr > TURN+sl
+null,CA:BOY,null,SQ,Furrowed,+sr & +dn > +interlocutor1,TURN+sr > PUSH+forward
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn > +interlocutor1,TURN+sr
+LEAN+sl,CA:INSPECTOR,null,SQ+,Furrowed,+sr & +dn > +interlocutor1,TURN+sr
+TWIST+sr,null,null,null,Furrowed,+sr & +dn > +dn,TURN+sr > TURN+sl
+LEAN+forward,null,null,SQ+,Furrowed,+sr & +dn > +camera,TILT+forward
+TWIST+sr,CD:BOY,null,SQ > WD,Furrowed,+sr & +dn > +camera,TURN+sr
+null,null,null,null,Furrowed,+sr & +dn > +camera,TILT+forward > TILT+sl
+LEAN+backward,null,null,// > SQ+,Furrowed,+sr & +dn > +camera,Headnod
+LEAN+sl,CA:WOMAN,null,SQ+ > // > SQ+ > //,Furrowed,+sr & +dn > +camera,TURN+sr
+TWIST+sr,CA:WOMAN,null,// > SQ,Furrowed,+sr & +dn > +camera,TILT+forward > Headnod > TURN+sr
+null,null,null,//,Furrowed,+sr & +dn > +camera,PUSH+backward
+null,null,null,// > SQ,Furrowed,+sr & +dn > +camera,null
+LEAN+sr,null,null,SQ,Furrowed,+sr & +dn > +camera,TURN+sr > TILT+backward
+LEAN+sl,CA:MAN,null,null,Furrowed,+sr & +dn,TILT+forward
+LEAN+sl,CA:FRIEND,null,SQ,Furrowed,+sr & +dn,TILT+forward
+null,null,null,null,Furrowed,+sr & +dn,TILT+forward
+LEAN+forward,CA:MAN2,null,null,Furrowed,+sr & +dn,TILT+forward > TURN+sr
+null,null,null,null,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CD:MAN2,null,null,Furrowed,+sr & +dn,PUSH+forward
+LEAN+forward,CD:MAN2,null,null,Furrowed,+sr & +dn,PUSH+forward
+LEAN+forward > LEAN+backward,CA:MAN2,null,null,Furrowed,+sr & +dn,PUSH+backward
+LEAN+backward,CA:MAN2,null,null,Furrowed,+sr & +dn,PUSH+backward
+null,CA:MAN2,null,null,Furrowed,+sr & +dn,PUSH+backward
+null,null,null,// > SQ > //,Furrowed,+sr & +dn,TURN+sr
+LEAN+backward,CA:BOY,null,SQ > CLOSED,Furrowed,+sr & +dn,PUSH+backward
+LEAN+backward,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+null,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+null,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,SQ > WD,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CA:OWL,null,WD,Furrowed,+sr & +dn,PUSH+forward
+LEAN+sr,CA:BOY,null,SQ,Furrowed,+sr & +dn,TURN+sr > TURN+sl > TURN+sr
+TWIST+sr,CA:WOMAN,null,SQ > //,Furrowed,+sr & +dn,null
+null,null,null,// > SQ,Furrowed,+sr & +dn,TURN+sr
+null,CA:WOMAN,null,SQ,Furrowed,+sr & +dn,Headnod
+TWIST+sr,CA:WOMAN,null,SQ,Furrowed,+sr & +dn,TURN+sr
+LEAN+backward,null,null,SQ,Furrowed,+sr & +dn,TILT+forward
+TWIST+sr,CA:WOMAN,2 x Puffed,SQ > //,Furrowed,+sr & +dn,Headnod
+null,CA:WOMAN,null,//,Furrowed,+sr & +dn,null
+null,null,null,SQ+,Furrowed,+sr & +dn,PUSH+backward
+null,null,null,null,Furrowed,+sr & +dn,TURN+sr
+null,null,null,CLOSED,Furrowed,+sr & +dn,TILT+forward
+SHOULDERS+hunched,CA:WOMAN,null,CLOSED,Furrowed,+sr & +dn,Headshake
+LEAN+forward > LEAN+sr,CA:SUPERVISOR,null,SQ+,Furrowed,+sr & +dn,TURN+sr
+LEAN+sr,CA:SUPERVISOR,null,SQ+,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward > TWIST+sr,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr & PUSH+forward
+TWIST+sr > LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr & PUSH+forward
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr & PUSH+forward
+LEAN+forward,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr & PUSH+forward
+TWIST+sr,CA:BOY,null,WD,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr > LEAN+forward,CA:BOY,null,SQ,Furrowed,+sr & +dn,TURN+sr > Headshake
+TWIST+sr,CA:BOY,null,null,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,CA:BOY,null,null,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,CA:BOY,null,null,Furrowed,+sr & +dn,TURN+sr
+TWIST+sr,null,null,null,Furrowed,+sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,Furrowed,+sr & +dn,TILT+sr
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CA:BOY,null,null,Furrowed,+sr & +dn,TURN+sr
+LEAN+forward,CD:BOY,null,SQ > //,Furrowed,+sr & +dn,PUSH+forward > PUSH+forward
+LEAN+sl > LEAN+backward,CA:BOY,null,//,Furrowed,+sr & +dn,TILT+sr > TILT+backward
+LEAN+sr,CA:BOY  ,null,SQ > WD,Furrowed,+sr,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+sl > LEAN+sr,CA:DOG ,null,SQ+,Furrowed,+sr,TURN+sr
+LEAN+sr,null,null,SQ+,Furrowed,+sr,TURN+sr
+LEAN+sr,null,null,SQ+,Furrowed,+sr,TURN+sr
+TWIST+sr,null,null,SQ+,Furrowed,+sr,TURN+sr
+TWIST+sr,null,null,SQ+,Furrowed,+sr,TURN+sr
+null,CD:WOMAN,null,SQ,Furrowed,+sr,TURN+sr
+SHOULDERS+hunched,null,null,null,Furrowed,+sr,TURN+sr
+LEAN+sl,null,null,//,Furrowed,+sr,null
+null,CA:WOMAN,null,SQ+,Furrowed,+sr,TURN+sr
+LEAN+sr,null,null,//,Furrowed,+sr,TURN+sr
+LEAN+sr,CA:WOMAN,null,null,Furrowed,+sr,Headshake
+LEAN+sl > LEAN+sr > LEAN+forward,CA:WOMAN,null,WD+ > //,Furrowed,+sr,TURN+sr
+LEAN+sr,null,null,null,Furrowed,+sr,TURN+sr
+null,null,null,null,Furrowed,+sr,null
+null,null,null,null,Furrowed,+sr,TURN+sr
+null,null,null,null,Furrowed,+sr,TURN+sr
+LEAN+backward,null,null,SQ+,Furrowed,+sr,TILT+sr
+LEAN+sr,null,null,SQ+,Furrowed,+sr,TILT+sr > TURN+sr
+TWIST+sr,CA:POLICE,null,//,Furrowed,+sr,TURN+sr
+null,null,null,//,Furrowed,+sr,TILT+sl & TURN+sr
+null,null,null,null,Furrowed,+sr,TURN+sr
+null,CA:ENGLISH MAN,null,//,Furrowed,+sr,PUSH+forward
+SHOULDERS+hunched,CD:HELEN,null,SQ+,Furrowed,+sr,TILT+forward > TURN+sr
+SHOULDERS+hunched,CD:HELEN,null,SQ+,Furrowed,+sr,TURN+sr
+null,CA:FROG,null,SQ,Furrowed,+sr,null
+null,null,null,SQ+ > //,Furrowed,+sr,TURN+sr
+null,CA:BOY,null,SQ+ > // > SQ,Furrowed,+sr,PUSH+backward > TURN+sr
+null,CA:BOY,null,SQ+,Furrowed,+sr,TURN+sr
+null,null,null,// > SQ,Furrowed,+sr,TURN+sr
+null,null,null,SQ,Furrowed,+sr,null
+null,CA:BOY,null,null,Furrowed,+sr,TILT+sr
+null,null,null,//,Furrowed,+sr,TILT+sr
+LEAN+sl,CA:BOY,null,// > SQ,Furrowed,+sr,TURN+sr
+LEAN+backward,CA:BOY,null,//,Furrowed,+sr,PUSH+backward > TURN+sr
+null,null,null,SQ+,Furrowed,+sr,Headnod & TURN+sr
+null,null,null,SQ+ > // > SQ,Furrowed,+sr,Headnod & TURN+sr
+null,null,null,SQ > //,Furrowed,+sr,TURN+sr
+null,null,null,// > SQ,Furrowed,+sr,TURN+sr
+TWIST+sr,CA:WOMAN,null,// > SQ,Furrowed,+sr,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr,TURN+sr
+null,null,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+sl,CA:WOMAN,null,SQ,Furrowed,+sr,TURN+sr
+null,CA:WOMAN,null,SQ+ > //,Furrowed,+sr,Headnod
+null,null,null,SQ+,Furrowed,+sr,null
+LEAN+sl,CA:WOMAN,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+sl,CA:WOMAN,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+sl > TWIST+sr,CA:WOMAN,null,SQ > // > SQ,Furrowed,+sr,TURN+sr > TILT+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr,TURN+sr
+TWIST+sr,null,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+forward > LEAN+backward,null,null,// > SQ,Furrowed,+sr,TURN+sr > TILT+forward
+LEAN+sl,null,null,SQ+,Furrowed,+sr,Headnod
+LEAN+sl,null,null,SQ+ > //,Furrowed,+sr,Headnod
+LEAN+backward,CA:SUPERVISOR,null,SQ+,Furrowed,+sr,null
+LEAN+backward,CA:SUPERVISOR,null,SQ+,Furrowed,+sr,null
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sr,TURN+sr
+LEAN+forward > LEAN+backward,null,null,SQ,Furrowed,+sr,TURN+sr
+SHOULDERS+hunched,CA:HELEN,null,SQ,Furrowed,+sl > +up,PUSH+backward
+LEAN+sl > LEAN+forward,CA:BOY,null,// > WD,Furrowed,+sl > +sr > +sr & +dn,TURN+sl > TURN+sr > TILT+forward > TURN+sr
+TWIST+sr,CA:BOY,null,SQ,Furrowed,+sl > +sr > +sr & +dn,TURN+sr
+SHOULDERS+hunched,CA:HELEN,null,SQ,Furrowed,+sl > +sr & +up,PUSH+forward > TURN+sr
+LEAN+forward,CA:BOY,null,null,Furrowed,+sl > +sr & +dn,TURN+sl > TURN+sr > TILT+forward
+TWIST+sr,CA:BOY,null,null,Furrowed,+sl > +sr & +dn,TURN+sl > TURN+sr
+LEAN+backward,CA:WOMAN,2 x Sucked,SQ,Furrowed,+sl > +sr,TURN+sl > TURN+sr
+null,null,null,null,Furrowed,+sl > +sr,TURN+sl > TURN+sr
+TWIST+sl & LEAN+sr,CA:BOY ,null,SQ,Furrowed,+sl > +sr,TURN+sl > TURN+sr
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sl > +sr,TURN+sl > TURN+sr
+null,null,null,null,Furrowed,+sl > +sl & +up,TURN+sl
+null,CA:FRIEND,null,null,Furrowed,+sl > +sl & +dn > +dn,TURN+sl > TILT+forward
+null,CD:FRIEND,null,null,Furrowed,+sl > +sl & +dn,TILT+forward
+LEAN+sl,CA:MAN,2 x Puffed,null,Furrowed,+sl > +sl & +dn,PUSH+forward > TILT+forward
+null,null,null,SQ,Furrowed,+sl > +interlocutor1,Headnod > TURN+sr
+LEAN+sl,CA:BOY,null,CLOSED > SQ > CLOSED > SQ > //,Furrowed,+sl > +interlocutor1,TILT+backward
+LEAN+sr,null,null,//,Furrowed,+sl > +dn,TURN+sl
+null,CD:FRIEND,null,null,Furrowed,+sl > +dn,TILT+forward
+null,null,null,SQ,Furrowed,+sl > +dn,TILT+sl
+null,null,null,//,Furrowed,+sl > +dn,TURN+sl
+LEAN+sl > LEAN+forward,CA:BOY,null,WD,Furrowed,+sl > +dn,TURN+sl > Headshake
+LEAN+sl,null,null,null,Furrowed,+sl > +dn,TURN+sl > TILT+forward
+null,null,null,null,Furrowed,+sl > +dn,TURN+sr
+LEAN+sl,CA:BOY,null,null,Furrowed,+sl > +dn,TURN+sl
+TWIST+sl,CA:BOY,null,null,Furrowed,+sl > +dn,TURN+sl
+TWIST+sr > LEAN+forward,null,null,SQ,Furrowed,+sl > +dn,PUSH+forward > TURN+sl
+null,null,null,WD,Furrowed,+sl > +camera > +sr,TURN+sl > TURN+sr
+null,CA:HELEN,null,//,Furrowed,+sl > +camera > +sr,TURN+sl > TURN+sr
+null,null,null,//,Furrowed,+sl > +camera,TURN+sl
+LEAN+forward,CA:DOG,null,SQ,Furrowed,+sl > +camera,TURN+sl
+LEAN+sr,null,null,null,Furrowed,+sl > +camera,Headnod
+LEAN+sr,null,null,SQ,Furrowed,+sl > +camera,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+sl > +camera,TURN+sl
+TWIST+sr,null,null,null,Furrowed,+sl & +up > +sr & +dn,TURN+sl > TURN+sr
+TWIST+sl,null,null,null,Furrowed,+sl & +up > +sr,TURN+sl
+TWIST+sl,null,null,SQ,Furrowed,+sl & +up > +sl & +dn,Headnod > TURN+sl
+null,CA:PEOPLE IN CAR,null,SQ,Furrowed,+sl & +up > +sl,TURN+sl
+LEAN+forward,CA:DOG,null,WD > SQ,Furrowed,+sl & +up > +sl,TURN+sl > TILT+forward
+LEAN+sr,null,null,SQ,Furrowed,+sl & +up > +camera,TILT+backward > TILT+sl
+TWIST+sl,CA:DOG,null,SQ+,Furrowed,+sl & +up,TURN+sl > TILT+backward
+TWIST+sl,null,null,SQ+,Furrowed,+sl & +up,TILT+backward
+TWIST+sl,null,null,SQ,Furrowed,+sl & +up,TILT+backward
+null,CA:MOTHER,null,SQ,Furrowed,+sl & +up,TILT+sr
+LEAN+sl,CA:PEOPLE IN CAR,null,SQ,Furrowed,+sl & +up,PUSH+forward
+null,CA:PEOPLE IN CAR,null,SQ,Furrowed,+sl & +up,TURN+sl
+null,CA:HELEN,null,SQ,Furrowed,+sl & +up,TURN+sr & TURN+sl
+null,CA:HELEN,null,SQ > //,Furrowed,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,CA:BOY,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,CA:BOY,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+SHOULDERS+hunched,null,null,null,Furrowed,+sl & +up,TURN+sl
+SHOULDERS+hunched,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+TWIST+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+TWIST+sl,CA:BOY,null,null,Furrowed,+sl & +up,TURN+sl
+TWIST+sl,CA:BOY,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl > LEAN+sr,null,null,null,Furrowed,+sl & +up,TURN+sl
+TWIST+sl > LEAN+sr,CA:DOG,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr,CA:DOG,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr > SHOULDERS+hunched,CA:DOG,null,SQ,Furrowed,+sl & +up,TILT+backward
+SHOULDERS+hunched,CA:DOG,null,SQ,Furrowed,+sl & +up,TILT+backward
+TWIST+sl,CA:DOG,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr,CA:BOY,null,SQ,Furrowed,+sl & +up,TURN+sl > TILT+backward
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,CA:BEE SWARM,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+sl,CA:BEE SWARM,null,null,Furrowed,+sl & +up,TURN+sl
+LEAN+backward,null,null,null,Furrowed,+sl & +up,TILT+backward
+LEAN+backward,null,null,null,Furrowed,+sl & +up,TILT+backward
+LEAN+backward,null,null,null,Furrowed,+sl & +up,TILT+backward
+LEAN+sl,null,null,null,Furrowed,+sl & +up,TILT+backward & TURN+sl
+LEAN+sr,null,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr,null,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr,null,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sr,null,null,SQ,Furrowed,+sl & +up,TILT+backward
+LEAN+sl > LEAN+sr,null,null,SQ > //,Furrowed,+sl & +dn > +up,TURN+sl > PUSH+backward
+LEAN+forward,CA:BOY,null,null,Furrowed,+sl & +dn > +sr & +dn > +sl & +dn,TILT+forward
+LEAN+forward,null,null,null,Furrowed,+sl & +dn > +sr & +dn,TILT+forward
+TWIST+sl,null,null,WD,Furrowed,+sl & +dn > +sr & +dn,PUSH+forward > TURN+sr
+null,CA:WOMAN,null,// > SQ+ > //,Furrowed,+sl & +dn > +sr,null
+TWIST+sr,CA:BOY,null,null,Furrowed,+sl & +dn > +sr,TILT+forward > TURN+sr
+LEAN+sl,null,null,null,Furrowed,+sl & +dn > +sl & +up,TURN+sl
+LEAN+backward,null,null,null,Furrowed,+sl & +dn > +sl & +up,TILT+backward
+null,null,null,null,Furrowed,+sl & +dn > +sl,TILT+sr
+SHOULDERS+hunched,CA:FRIEND,null,null,Furrowed,+sl & +dn > +sl,PUSH+forward
+null,CD:MAN,null,null,Furrowed,+sl & +dn > +sl,TURN+sl > TILT+sr
+null,null,null,null,Furrowed,+sl & +dn > +sl,TILT+sl & TILT+backward
+null,CA:MAN,null,null,Furrowed,+sl & +dn > +sl,TILT+forward
+LEAN+sr,null,null,null,Furrowed,+sl & +dn > +sl,TURN+sl
+LEAN+backward,null,null,SQ > //,Furrowed,+sl & +dn > +nd,TURN+sl
+null,CA:BOY,null,null,Furrowed,+sl & +dn > +interlocutor1,TURN+sr
+SHOULDERS+hunched > LEAN+sr,CA:BEE SWARM,null,SQ,Furrowed,+sl & +dn > +dn > +sr & +dn,TURN+sl > TILT+forward
+LEAN+forward,CA:FATHER,null,SQ+,Furrowed,+sl & +dn > +dn,TILT+forward > PUSH+forward
+LEAN+forward,CD:DAD ,null,null,Furrowed,+sl & +dn > +camera,PUSH+forward > TURN+sr
+LEAN+forward & LEAN+sl,CA:BOY,null,SQ,Furrowed,+sl & +dn,TURN+sl > PUSH+forward
+null,CA:WOMAN,null,null,Furrowed,+sl & +dn,PUSH+forward > TURN+sl > TURN+sl
+SHOULDERS+hunched,null,null,SQ,Furrowed,+sl & +dn,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,+sl & +dn,TILT+forward
+LEAN+forward,CA:MAN,null,SQ,Furrowed,+sl & +dn,TILT+sl
+null,CA:MAN,null,SQ,Furrowed,+sl & +dn,TILT+sl > TILT+backward
+null,CA:MAN,null,SQ,Furrowed,+sl & +dn,TILT+sr
+null,null,null,null,Furrowed,+sl & +dn,TILT+sr > TILT+sl
+null,CA:WOMAN,null,null,Furrowed,+sl & +dn,TILT+sl
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,null
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TILT+sl > TILT+forward
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+sr,null,null,//,Furrowed,+sl & +dn,TILT+forward
+null,null,null,null,Furrowed,+sl & +dn,TILT+sr
+null,null,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+forward
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+forward
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+forward
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+forward
+null,CD:FRIEND,null,null,Furrowed,+sl & +dn,TILT+forward
+null,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+null,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+null,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+sl,CD:MAN,null,null,Furrowed,+sl & +dn,null
+LEAN+sl,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+sl,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+sl,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+SHOULDERS+hunched,CD:MAN,null,null,Furrowed,+sl & +dn,PUSH+forward
+SHOULDERS+hunched,CA:FRIEND,null,null,Furrowed,+sl & +dn,PUSH+forward
+null,CD:MAN,null,null,Furrowed,+sl & +dn,TURN+sl
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl & +dn,TILT+sr
+null,null,null,null,Furrowed,+sl & +dn,TILT+sr
+null,null,null,null,Furrowed,+sl & +dn,TILT+sr
+null,CA:MAN,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+sl,null,null,SQ,Furrowed,+sl & +dn,PUSH+forward
+LEAN+sl,CA:PEOPLE IN CAR,null,SQ,Furrowed,+sl & +dn,PUSH+forward
+LEAN+sl,CA:PEOPLE IN CAR,null,SQ,Furrowed,+sl & +dn,PUSH+forward
+null,CA:MAN,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+sl > LEAN+forward,null,null,null,Furrowed,+sl & +dn,null
+null,CA:ENGLISH MAN,null,null,Furrowed,+sl & +dn,null
+LEAN+sl,null,null,// > SQ,Furrowed,+sl & +dn,TILT+sl
+LEAN+forward,null,null,SQ > //,Furrowed,+sl & +dn,TILT+sl
+SHOULDERS+hunched,null,null,// > SQ+ > //,Furrowed,+sl & +dn,TILT+forward
+SHOULDERS+hunched,null,null,// > SQ+ > //,Furrowed,+sl & +dn,TILT+backward
+null,CD:HELEN,null,SQ+,Furrowed,+sl & +dn,TILT+forward
+null,null,null,null,Furrowed,+sl & +dn,PUSH+backward
+LEAN+forward,CD:DAD ,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+forward,CD:DAD ,null,null,Furrowed,+sl & +dn,PUSH+forward
+null,null,null,SQ+,Furrowed,+sl & +dn,TILT+sr
+null,null,null,SQ+,Furrowed,+sl & +dn,TILT+sr
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TURN+sl
+TWIST+sl,CA:HELEN,null,//,Furrowed,+sl & +dn,TURN+sl > TILT+sr
+null,CA:BOY,null,SQ > // > SQ > //,Furrowed,+sl & +dn,TURN+sl
+null,CA:BOY,null,CLOSED > SQ,Furrowed,+sl & +dn,TILT+forward
+LEAN+forward,CA:BOY,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+forward,CA:BOY  ,null,CLOSED,Furrowed,+sl & +dn,TURN+sr
+null,CA:WOMAN,null,SQ+ > //,Furrowed,+sl & +dn,Headnod
+LEAN+sl,null,null,WD,Furrowed,+sl & +dn,TURN+sl
+LEAN+sl,CA:DOG,null,WD,Furrowed,+sl & +dn,PUSH+forward
+TWIST+sl,CA:BOY,null,WD,Furrowed,+sl & +dn,PUSH+forward
+LEAN+forward > LEAN+sl,null,null,WD,Furrowed,+sl & +dn,TURN+sl
+LEAN+sl,null,null,WD,Furrowed,+sl & +dn,TURN+sl
+LEAN+sl,null,null,WD,Furrowed,+sl & +dn,TURN+sl
+LEAN+forward,CA:DOG,null,null,Furrowed,+sl & +dn,PUSH+forward
+LEAN+forward,CA:DOG,2 x Puffed,null,Furrowed,+sl & +dn,PUSH+forward
+null,CA:DOG,2 x Puffed,null,Furrowed,+sl & +dn,TURN+sl
+null,null,null,//,Furrowed,+sl & +dn,Headshake
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TWIST+sl
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TWIST+sl
+LEAN+sl,null,null,null,Furrowed,+sl & +dn,TILT+forward
+SHOULDERS+hunched,null,null,null,Furrowed,+sl & +dn,TILT+forward
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TILT+backward > TILT+forward
+TWIST+sl,CA:DOG,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+sl,CA:DOG,null,null,Furrowed,+sl & +dn,TILT+forward
+LEAN+forward,null,null,SQ,Furrowed,+sl & +dn,PUSH+forward
+LEAN+forward,null,null,SQ,Furrowed,+sl & +dn,TURN+sl
+LEAN+forward,null,null,SQ,Furrowed,+sl & +dn,TURN+sl > Headnod
+null,null,null,SQ,Furrowed,+sl & +dn,TURN+sl
+null,null,null,SQ,Furrowed,+sl & +dn,TURN+sl
+null,null,null,SQ,Furrowed,+sl & +dn,TURN+sl > TILT+forward
+null,CA:OWL,null,SQ,Furrowed,+sl & +dn,TILT+forward
+LEAN+forward,CA:OWL,null,SQ,Furrowed,+sl & +dn,TURN+sl > Headnod
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TURN+sl
+LEAN+backward,CA:BOY,null,null,Furrowed,+sl & +dn,TURN+sl
+TWIST+sl,CA:BOY,null,null,Furrowed,+sl & +dn,TURN+sl
+TWIST+sl,CA:BOY,2 x Puffed,null,Furrowed,+sl & +dn,TURN+sl
+SHOULDERS+hunched,null,2 x Puffed,null,Furrowed,+sl & +dn,TURN+sl
+SHOULDERS+hunched,null,2 x Puffed,null,Furrowed,+sl & +dn,TURN+sl
+SHOULDERS+hunched > TWIST+sl,null,2 x Puffed,null,Furrowed,+sl & +dn,TURN+sl
+TWIST+sl,null,null,null,Furrowed,+sl & +dn,TURN+sl
+TWIST+sl & SHOULDERS+hunched > LEAN+forward,CA:BOY,null,null,Furrowed,+sl & +dn,TURN+sl > TILT+forward
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TURN+sl
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TURN+sl
+LEAN+sr,null,null,null,Furrowed,+sl & +dn,TURN+sl
+LEAN+sl,null,null,WD > // > SQ,Furrowed,+sl & +dn,TURN+sl
+LEAN+forward,null,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,CA:WOMAN ,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+sl,TILT+sr
+LEAN+sl,null,null,SQ,Furrowed,+sl,TILT+sr
+null,null,null,SQ,Furrowed,+sl,TILT+sr
+null,null,null,SQ,Furrowed,+sl,TILT+sr > Headnod
+SHOULDERS+hunched,null,null,null,Furrowed,+sl,TURN+sr > TURN+sl
+null,CA:MAN,null,SQ+ > SQ,Furrowed,+sl,TILT+forward > PUSH+backward
+LEAN+sr,CA:WOMAN ,null,null,Furrowed,+sl,PUSH+forward
+LEAN+sr,CA:WOMAN ,null,null,Furrowed,+sl,PUSH+forward
+LEAN+sl,null,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+sl,PUSH+forward
+LEAN+sl,null,null,SQ,Furrowed,+sl,TURN+sl
+null,CA:PERSON ,null,SQ,Furrowed,+sl,null
+null,CA:PERSON ,null,SQ,Furrowed,+sl,null
+null,CA:PERSON ,null,SQ,Furrowed,+sl,null
+null,CA:PERSON ,null,SQ,Furrowed,+sl,TILT+sl
+null,CA:PERSON ,null,SQ,Furrowed,+sl,TILT+sl
+SHOULDERS+hunched,null,null,SQ,Furrowed,+sl,TURN+sl
+SHOULDERS+hunched,CA:WOMAN,null,CLOSED,Furrowed,+sl,TILT+sl
+TWIST+sl,null,null,SQ,Furrowed,+sl,TILT+backward
+TWIST+sl,null,null,CLOSED,Furrowed,+sl,TURN+sr
+null,null,null,null,Furrowed,+sl,TILT+forward
+null,null,null,null,Furrowed,+sl,Headshake
+null,null,null,null,Furrowed,+sl,null
+LEAN+sl,null,null,SQ,Furrowed,+sl,PUSH+forward
+LEAN+sl,null,null,SQ,Furrowed,+sl,PUSH+forward
+LEAN+sl,CA:FRIEND,null,SQ,Furrowed,+sl,TILT+backward > Headnod
+null,null,null,null,Furrowed,+sl,null
+null,null,null,null,Furrowed,+sl,null
+null,null,null,//,Furrowed,+sl,TURN+sl
+null,CD:FRIEND,null,null,Furrowed,+sl,TILT+forward
+null,CA:FRIEND,null,null,Furrowed,+sl,null
+null,CD:FRIEND,null,null,Furrowed,+sl,null
+null,CD:FRIEND,null,null,Furrowed,+sl,null
+null,CD:MAN,null,null,Furrowed,+sl,TILT+sl
+null,CD:MAN,null,null,Furrowed,+sl,null
+null,CD:MAN,null,null,Furrowed,+sl,Headnod
+null,CD:MAN,null,null,Furrowed,+sl,Headnod
+null,CD:MAN,null,null,Furrowed,+sl,Headnod
+null,CD:MAN,null,null,Furrowed,+sl,PUSH+forward
+null,CD:MAN,null,null,Furrowed,+sl,PUSH+forward > TILT+backward
+null,CD:MAN,null,null,Furrowed,+sl,TILT+backward
+null,CD:MAN,null,null,Furrowed,+sl,TILT+backward > TILT+forward
+null,null,null,null,Furrowed,+sl,null
+null,null,null,null,Furrowed,+sl,TILT+forward
+null,CD:MAN,null,null,Furrowed,+sl,Headshake
+null,CD:MAN,null,null,Furrowed,+sl,TILT+sr
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+null,null,null,null,Furrowed,+sl,TURN+sl
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl,null
+null,CD:JOB SUPERVISOR,null,null,Furrowed,+sl,null
+null,null,null,//,Furrowed,+sl,Headnod
+null,null,null,null,Furrowed,+sl,TURN+sr
+LEAN+sl,CA:MAN,null,null,Furrowed,+sl,TURN+sl > PUSH+forward
+null,CA:MAN,null,null,Furrowed,+sl,TILT+forward
+LEAN+backward,CA:MAN,null,SQ+,Furrowed,+sl,null
+null,null,null,null,Furrowed,+sl,TURN+sl
+null,null,null,SQ,Furrowed,+sl,TILT+sr
+LEAN+sr,CA:PEOPLE IN CAR,null,null,Furrowed,+sl,TILT+sr
+LEAN+sr,CA:PEOPLE IN CAR,null,null,Furrowed,+sl,TILT+sr
+LEAN+sr,CA:PEOPLE IN CAR,null,null,Furrowed,+sl,TILT+sr
+LEAN+backward,CA:MAN,null,null,Furrowed,+sl,TILT+forward
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+null,CA:MAN,null,null,Furrowed,+sl,Headshake
+null,null,null,null,Furrowed,+sl,TILT+sr
+null,CA:CAR,null,null,Furrowed,+sl,Headshake
+null,CA:CAR,null,null,Furrowed,+sl,Headshake
+null,null,null,null,Furrowed,+sl,Headnod
+null,CA:MAN,null,null,Furrowed,+sl,Headnod
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl > TILT+forward
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+null,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+null,null,null,null,Furrowed,+sl,TURN+sl
+null,null,null,null,Furrowed,+sl,TURN+sl > TILT+forward
+LEAN+sl,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl > LEAN+sr > LEAN+sl,CA:MAN,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,null,null,null,Furrowed,+sl,null
+LEAN+sl,null,null,null,Furrowed,+sl,null
+LEAN+sl,null,null,null,Furrowed,+sl,null
+null,null,null,null,Furrowed,+sl,TURN+sl
+null,null,null,//,Furrowed,+sl,TILT+forward
+null,null,null,// > SQ,Furrowed,+sl,TILT+sl
+SHOULDERS+hunched,null,null,// > SQ,Furrowed,+sl,PUSH+backward
+LEAN+forward,CA:HELEN,null,SQ,Furrowed,+sl,TURN+sr
+LEAN+forward,CA:HELEN,null,SQ,Furrowed,+sl,PUSH+forward
+SHOULDERS+hunched,CA:HELEN,null,SQ,Furrowed,+sl,PUSH+forward
+TWIST+sl,CA:HELEN,null,// > SQ,Furrowed,+sl,TILT+sr
+TWIST+sl,CA:HELEN,null,SQ,Furrowed,+sl,TILT+sr
+TWIST+sl,CD:HELEN,null,SQ,Furrowed,+sl,TILT+forward
+null,CA:BOY,null,SQ+,Furrowed,+sl,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+sl,TURN+sl
+LEAN+backward,null,null,//,Furrowed,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,WD,Furrowed,+sl,TURN+sl
+LEAN+forward,CA:BOY,null,null,Furrowed,+sl,Headshake
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+sl,TILT+forward
+LEAN+sr,null,null,null,Furrowed,+sl,null
+null,CA:BOY,null,null,Furrowed,+sl,null
+null,CA:BOY,null,null,Furrowed,+sl,null
+null,CA:BOY,null,null,Furrowed,+sl,null
+LEAN+backward > LEAN+sl,null,null,SQ,Furrowed,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+sl,TURN+sl
+null,CA:BOY,null,SQ,Furrowed,+sl,TURN+sl
+SHOULDERS+hunched,null,null,null,Furrowed,+sl,TURN+sl & Headshake
+LEAN+backward,CA:BOY,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,CA:BOY,null,null,Furrowed,+sl,PUSH+forward & TILT+sr
+LEAN+sl,CA:BOY,null,null,Furrowed,+sl,TILT+sr
+LEAN+sl > TWIST+sl,CA:BOY,null,null,Furrowed,+sl,TURN+sl > TILT+sr
+TWIST+sl,null,null,null,Furrowed,+sl,TILT+sr & TURN+sl
+TWIST+sl,null,null,null,Furrowed,+sl,TILT+sr & TURN+sl
+TWIST+sl,CA:BOY,null,null,Furrowed,+sl,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+sl,TILT+sl > TURN+sl
+null,CA:MAN,null,null,Furrowed,+nd > +sr & +dn,TILT+forward
+null,null,null,SQ,Furrowed,+nd > +interlocutor1,TILT+forward
+null,null,null,WD,Furrowed,+nd > +interlocutor1,TILT+forward
+LEAN+forward > LEAN+sl,CA:BOY,null,SQ,Furrowed,+nd > +dn,TURN+sr
+null,CA:WOMAN,null,SQ+,Furrowed,+nd > +camera,TURN+sr
+LEAN+forward,CA:BOY,null,SQ+,Furrowed,+nd,TILT+sr
+null,CA:MAN,null,SQ,Furrowed,+nd,TILT+forward
+null,CA:MAN,null,null,Furrowed,+nd,TILT+forward
+null,CA:WOMAN,null,SQ+,Furrowed,+nd,TURN+sr
+TWIST+sl,CA:BOY,null,null,Furrowed,+nd,TURN+sl
+null,CA:BOY,null,//,Furrowed,+interlocutor1 > +sr > +interlocutor1,TURN+sr
+null,CD:BOY,null,//,Furrowed,+interlocutor1 > +sr > +interlocutor1,TURN+sr
+null,CA:FROG,null,null,Furrowed,+interlocutor1 > +sr & +up > +interlocutor1,TURN+sr
+LEAN+sl,null,null,SQ+,Furrowed,+interlocutor1 > +sr & +up,TURN+sr
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+interlocutor1 > +sr & +dn,TURN+sr
+TWIST+sr,CA:DOG,null,SQ,Furrowed,+interlocutor1 > +sr & +dn,TURN+sr
+LEAN+sr,null,null,SQ,Furrowed,+interlocutor1 > +sr & +dn,TURN+sr
+null,CA:BOY,null,null,Furrowed,+interlocutor1 > +sr,null
+null,CA:BOY,null,SQ,Furrowed,+interlocutor1 > +sr,null
+null,CA:BOY,null,SQ,Furrowed,+interlocutor1 > +sl > +interlocutor1,TILT+sr
+null,CA:BOY,null,SQ+,Furrowed,+interlocutor1 > +hands,TILT+sl > TILT+forward > TURN+sl
+null,null,null,//,Furrowed,+interlocutor1 > +hands,PUSH+forward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+interlocutor1 > +hands,PUSH+forward
+LEAN+forward,null,null,SQ,Furrowed,+interlocutor1 > +dn,PUSH+forward
+null,null,null,null,Furrowed,+interlocutor1 > +dn,null
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+interlocutor1 > +dh > +interlocutor1 > +dn,PUSH+forward
+null,null,null,SQ,Furrowed,+interlocutor1 > +dh,null
+null,null,null,SQ,Furrowed,+interlocutor1,TURN+sr
+null,null,null,SQ,Furrowed,+interlocutor1,TURN+sr
+null,null,null,null,Furrowed,+interlocutor1,null
+null,null,null,SQ,Furrowed,+interlocutor1,PUSH+forward
+LEAN+sr,null,null,null,Furrowed,+interlocutor1,TURN+sr
+LEAN+sr,CA:ENGLISH MAN,null,null,Furrowed,+interlocutor1,TURN+sr
+null,null,null,SQ,Furrowed,+interlocutor1,null
+null,null,null,SQ,Furrowed,+interlocutor1,null
+null,null,null,WD,Furrowed,+interlocutor1,TURN+sr
+null,null,null,WD,Furrowed,+interlocutor1,TURN+sr
+null,CA:BOY,null,SQ,Furrowed,+interlocutor1,TURN+sr > TILT+forward
+null,CA:BOY,null,// > SQ,Furrowed,+interlocutor1,null
+null,CA:DOG,null,// > SQ,Furrowed,+interlocutor1,TILT+backward
+null,null,null,null,Furrowed,+interlocutor1,TILT+forward
+null,null,null,null,Furrowed,+interlocutor1,PUSH+forward
+LEAN+forward,null,null,null,Furrowed,+interlocutor1,PUSH+forward
+LEAN+forward,CA:PIG,null,WD,Furrowed,+interlocutor1,PUSH+forward
+LEAN+sl,CA:BOY,null,CLOSED,Furrowed,+interlocutor1,TILT+sl
+null,CA:BOY,null,SQ,Furrowed,+interlocutor1,TILT+forward
+LEAN+backward,CA:BOY,null,SQ+ > CLOSED,Furrowed,+interlocutor1,PUSH+backward
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+interlocutor1,TILT+sr > TILT+backward
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+interlocutor1,TILT+backward
+LEAN+forward,CA:BOY,null,//,Furrowed,+interlocutor1,TILT+sr
+null,CA:DEER,null,//,Furrowed,+interlocutor1,TILT+forward
+LEAN+sl,CA:BOY,null,null,Furrowed,+interlocutor1,TURN+sr & PUSH+forward
+LEAN+sl,CA:BOY,null,SQ,Furrowed,+interlocutor1,null
+LEAN+sl,null,null,// > SQ,Furrowed,+interlocutor1,TILT+forward
+LEAN+sl,null,null,SQ,Furrowed,+interlocutor1,TURN+sl
+LEAN+sl,null,null,SQ,Furrowed,+interlocutor1,null
+LEAN+forward,null,null,SQ,Furrowed,+interlocutor1,null
+TWIST+sr,null,null,SQ+,Furrowed,+interlocutor1,TURN+sr
+null,null,null,CLOSED,Furrowed,+interlocutor1,Headnod
+TWIST+sr,null,null,CLOSED,Furrowed,+interlocutor1,Headnod
+null,null,null,null,Furrowed,+interlocutor1,TURN+sr
+null,null,null,//,Furrowed,+interlocutor1,TURN+sr
+null,null,null,//,Furrowed,+interlocutor1,TURN+sr
+LEAN+sl,CA:INSPECTOR,null,SQ+,Furrowed,+interlocutor1,TURN+sr
+LEAN+sl,CA:WOMAN,null,SQ+ > // > SQ+,Furrowed,+interlocutor1,null
+LEAN+sl,CA:WOMAN,null,SQ+,Furrowed,+interlocutor1,PUSH+backward
+LEAN+sl,null,null,SQ+,Furrowed,+interlocutor1,PUSH+backward
+LEAN+backward,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+LEAN+backward,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+null,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+null,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+null,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+null,CA:SUPERVISOR,null,SQ+,Furrowed,+interlocutor1,TURN+sl
+LEAN+forward,CA:SUPERVISOR,null,SQ+ > //,Furrowed,+interlocutor1,TURN+sl > PUSH+forward
+null,CA:MAN,null,null,Furrowed,+hands > +sl,TILT+forward > TURN+sl
+null,null,null,null,Furrowed,+hands > +interlocutor1,null
+null,null,null,SQ+,Furrowed,+hands > +camera,TILT+backward
+null,null,null,SQ+,Furrowed,+hands > +camera,TILT+backward
+TWIST+sl,CA:BEES,null,SQ+,Furrowed,+hands > +camera,TURN+sl
+LEAN+forward,null,null,SQ+,Furrowed,+hands,null
+LEAN+forward,null,null,SQ+,Furrowed,+hands,null
+SHOULDERS+hunched,CA:WOMAN,null,SQ,Furrowed,+hands,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,+hands,TILT+forward
+TWIST+sl,null,2 x Puffed,SQ,Furrowed,+hands,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,+hands,TURN+sl
+null,null,null,null,Furrowed,+hands,TILT+forward
+LEAN+forward,null,null,null,Furrowed,+hands,null
+LEAN+forward,null,null,null,Furrowed,+hands,null
+null,CA:MAN,null,null,Furrowed,+hands,TILT+forward
+LEAN+sr,CA:POLICE,null,//,Furrowed,+hands,TILT+forward
+null,null,null,null,Furrowed,+hands,TILT+forward
+SHOULDERS+hunched,null,null,null,Furrowed,+hands,TILT+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,+hands,TILT+forward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+hands,PUSH+forward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+hands,PUSH+forward
+null,null,null,null,Furrowed,+dn > +sr,TURN+sr
+null,null,null,SQ,Furrowed,+dn > +sr,TILT+forward > TURN+sr
+LEAN+sl,CA:BOY,null,SQ > //,Furrowed,+dn > +sr,TURN+sr
+TWIST+sl > LEAN+sr,CA:BOY,null,WD,Furrowed,+dn > +sr,TURN+sl > TURN+sr
+LEAN+sr > LEAN+forward,CA:BOY,2 x Puffed,null,Furrowed,+dn > +sl > +sr & +dn > +sl,TURN+sr > TILT+sr > TILT+forward > Headnod
+LEAN+forward,CA:DOG,null,WD,Furrowed,+dn > +sl & +up,PUSH+forward > TURN+sl
+LEAN+forward,CA:DOG,null,SQ,Furrowed,+dn > +sl & +dn > +sr & +dn > +interlocutor1,PUSH+forward > TURN+sl > PUSH+forward
+LEAN+forward,CA:BOY,null,WD,Furrowed,+dn > +sl & +dn,Headshake > TURN+sl
+null,null,null,null,Furrowed,+dn > +sl,TILT+forward
+null,CA:MAN,null,null,Furrowed,+dn > +sl,TILT+forward > TURN+sl
+null,CA:BOY,null,null,Furrowed,+dn > +sl,TURN+sr > TURN+sl
+LEAN+backward,CA:BOY,null,null,Furrowed,+dn > +sl,TURN+sl
+LEAN+forward,CA:BOY,null,null,Furrowed,+dn > +sl,PUSH+forward
+LEAN+forward,CA:DOG,null,SQ > //,Furrowed,+dn > +interlocutor1 > +sl & +dn,PUSH+forward
+null,CA:BOY,null,//,Furrowed,+dn > +interlocutor1,TURN+sr
+LEAN+forward,CA:BOY,null,//,Furrowed,+dn > +interlocutor1,TILT+sr > PUSH+forward
+LEAN+sl,null,null,SQ,Furrowed,+dn > +interlocutor1,TILT+forward
+LEAN+forward,CA:DOG,null,SQ,Furrowed,+dn > +interlocutor1,TILT+forward
+SHOULDERS+hunched,null,null,SQ+ > //,Furrowed,+dn > +camera,TILT+forward
+null,null,null,SQ,Furrowed,+dn > +camera,TILT+sr
+TWIST+sr,null,null,// > SQ > //,Furrowed,+dn > +camera,null
+LEAN+forward,null,null,SQ,Furrowed,+dn > +camera,TILT+forward
+LEAN+sr > LEAN+forward > LEAN+backward,CA:BOY,null,WD,Furrowed,+dn > +camera,PUSH+forward > TILT+backward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+dn,PUSH+forward
+SHOULDERS+hunched,null,null,SQ,Furrowed,+dn,TILT+forward
+LEAN+sr,CA:BOY ,null,WD,Furrowed,+dn,TILT+forward
+LEAN+sr,null,null,WD,Furrowed,+dn,TILT+forward
+LEAN+forward,null,null,SQ,Furrowed,+dn,TILT+backward
+LEAN+sr,CA:BOY ,null,//,Furrowed,+dn,TILT+sr & TURN+sr
+LEAN+forward,null,null,WD > SQ,Furrowed,+dn,TILT+backward > TURN+sl
+LEAN+sl,null,null,null,Furrowed,+dn,TURN+sl
+null,CA:MAN,null,null,Furrowed,+dn,TURN+sl > TURN+sr
+SHOULDERS+hunched,null,null,SQ,Furrowed,+dn,PUSH+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,Headshake
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,//,Furrowed,+dn,TILT+forward
+null,CA:FRIEND,null,null,Furrowed,+dn,TILT+forward
+null,CA:FRIEND,null,null,Furrowed,+dn,TILT+forward
+null,CA:FRIEND,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TILT+forward > TURN+sr
+null,CD:MAN,null,null,Furrowed,+dn,TURN+sr
+null,CD:MAN,null,null,Furrowed,+dn,TURN+sr > PUSH+forward
+null,CD:MAN,null,null,Furrowed,+dn,PUSH+forward
+LEAN+forward,null,null,null,Furrowed,+dn,TURN+sr
+null,CA:MAN,null,null,Furrowed,+dn,TILT+forward
+null,null,null,//,Furrowed,+dn,TILT+forward
+null,null,null,SQ,Furrowed,+dn,TILT+sr
+null,null,null,SQ,Furrowed,+dn,TILT+sr
+null,null,null,SQ,Furrowed,+dn,TILT+sr
+null,null,null,SQ,Furrowed,+dn,TILT+sr
+LEAN+forward,null,null,null,Furrowed,+dn,TILT+sl
+TWIST+sl > TWIST+sr,CA:BROTHER,null,null,Furrowed,+dn, TURN+sl > TURN+sr
+LEAN+forward,CA:FATHER,null,SQ+,Furrowed,+dn,PUSH+forward
+LEAN+forward,CA:DOG,null,SQ,Furrowed,+dn,PUSH+forward
+LEAN+forward,CA:DOG,null,SQ,Furrowed,+dn,TURN+sr & TILT+forward
+null,CA:BOY,null,null,Furrowed,+dn,TILT+forward > TURN+sl > TURN+sr
+LEAN+forward,CA:BOY,null,null,Furrowed,+dn,PUSH+forward
+LEAN+forward,null,null,null,Furrowed,+dn,null
+LEAN+forward,CA:BOY,null,null,Furrowed,+dn,PUSH+forward
+LEAN+forward,CA:BOY  ,null,CLOSED,Furrowed,+dn,TURN+sr > TILT+backward
+null,null,null,SQ+,Furrowed,+dn,null
+SHOULDERS+hunched,null,null,SQ,Furrowed,+dn,TILT+forward
+SHOULDERS+hunched,null,null,SQ+ > // > SQ+,Furrowed,+dn,TILT+forward
+SHOULDERS+hunched & LEAN+sr,CA:WOMAN,null,SQ+,Furrowed,+dn,TILT+forward & TILT+sl
+LEAN+sr,null,null,SQ+,Furrowed,+dn,TILT+sl
+LEAN+sr & LEAN+forward,null,null,SQ+,Furrowed,+dn,TILT+sl
+LEAN+forward > LEAN+backward > LEAN+forward > LEAN+backward,CA:WOMAN,null,SQ+,Furrowed,+dn,TILT+sl & TILT+forward
+LEAN+backward & LEAN+sr,null,null,SQ+,Furrowed,+dn,TILT+forward
+LEAN+sr,null,null,SQ+,Furrowed,+dn,TILT+forward
+LEAN+sr,null,null,SQ+,Furrowed,+dn,TILT+forward
+null,null,null,SQ+,Furrowed,+dn,null
+LEAN+sl,null,null,null,Furrowed,+dn,TILT+forward
+LEAN+sl > LEAN+forward,null,null,null,Furrowed,+dn,TILT+forward > PUSH+forward
+LEAN+forward,CA:DOG,null,SQ > //,Furrowed,+dn,TILT+forward
+LEAN+forward,null,null,//,Furrowed,+dn,PUSH+forward
+LEAN+backward > LEAN+forward,null,null,//,Furrowed,+dn,TILT+forward
+null,null,null,null,Furrowed,+dn,TURN+sr
+TWIST+sr > LEAN+backward,CA:BOY,null,null,Furrowed,+dn,TURN+sr > TURN+sl
+LEAN+sl,CA:BOY,null,null,Furrowed,+dn,TURN+sl
+LEAN+sl,CA:BOY,null,null,Furrowed,+dn,TURN+sl
+LEAN+forward,CA:BOY,null,null,Furrowed,+dn,PUSH+forward
+LEAN+forward,CA:BOY,null,null,Furrowed,+dn,PUSH+forward
+LEAN+sl,CA:DOG,null,null,Furrowed,+dn,TILT+forward
+LEAN+sl,null,null,null,Furrowed,+dn,TILT+forward
+LEAN+sl > LEAN+backward,null,null,//,Furrowed,+dn,Headshake
+LEAN+forward,null,null,SQ,Furrowed,+dn,TILT+forward
+null,CA:BOY,null,SQ > // > SQ,Furrowed,+dh > +interlocutor1 > +dn,PUSH+forward > TILT+sl
+null,null,null,SQ > //,Furrowed,+dh > +interlocutor1,null
+null,null,null,//,Furrowed,+dh > +interlocutor1,TILT+forward
+TWIST+sr,CA:BOY ,null,SQ+,Furrowed,+dh,TILT+sl
+LEAN+sr,null,null,SQ,Furrowed,+dh,TILT+forward
+LEAN+sr,null,null,SQ,Furrowed,+dh,TILT+forward > TURN+sr
+SHOULDERS+hunched,null,null,SQ+,Furrowed,+camera > +up,null
+null,CA:WOMAN,null,SQ+,Furrowed,+camera > +sr & +up,TURN+sr
+LEAN+backward,null,null,null,Furrowed,+camera > +sr & +up,TILT+backward
+SHOULDERS+hunched,CA:WOMAN,null,SQ+,Furrowed,+camera > +sr & +dn > +camera,null
+LEAN+sr,null,null,SQ,Furrowed,+camera > +sr & +dn > +camera,TILT+backward > TURN+sr
+null,null,null,// > SQ,Furrowed,+camera > +sr & +dn,Headnod
+TWIST+sr,CA:WOMAN,null,SQ > // > SQ,Furrowed,+camera > +sr & +dn,Headnod > Headnod > Headnod > Headnod
+null,CA:WOMAN,null,SQ+ > //,Furrowed,+camera > +sr & +dn,null
+null,null,null,CLOSED > SQ+,Furrowed,+camera > +sr & +dn,null
+LEAN+forward,CA:WOMAN,null,// > SQ+,Furrowed,+camera > +sr & +dn,PUSH+forward > Headshake & TURN+sr
+LEAN+forward > LEAN+sl,CA:BOY,null,WD  > //,Furrowed,+camera > +sr & +dn,TILT+sr
+null,CA:WOMAN,null,SQ+ > // > SQ,Furrowed,+camera > +sr,TURN+sl
+null,CA:WOMAN,null,SQ+,Furrowed,+camera > +sr,Headnod > Headnod > Headnod
+TWIST+sl > LEAN+forward,null,null,WD,Furrowed,+camera > +sl & +dn,TURN+sl > TILT+forward
+LEAN+sl,CA:BOY,null,SQ > WD,Furrowed,+camera > +sl,TURN+sl
+null,null,null,WD,Furrowed,+camera > +sl,TILT+sl > TILT+backward
+LEAN+backward,null,null,null,Furrowed,+camera > +dn,TILT+backward
+null,null,null,CLOSED > SQ,Furrowed,+camera > +dn,null
+SHOULDERS+hunched > LEAN+sr,CA:WOMAN,null,SQ+ > //,Furrowed,+camera > +dn,TILT+sl
+LEAN+forward,null,null,null,Furrowed,+camera > +dh,TURN+sl
+LEAN+sr,null,null,SQ,Furrowed,+camera > +dh,TILT+sl > TILT+forward
+LEAN+forward,CA:BOY,null,SQ,Furrowed,+camera,Headshake
+SHOULDERS+hunched,null,null,SQ,Furrowed,+camera,TURN+sr
+SHOULDERS+hunched,null,null,SQ,Furrowed,+camera,TURN+sr
+LEAN+sr,null,null,WD,Furrowed,+camera,TILT+forward
+TWIST+sr,null,null,null,Furrowed,+camera,TILT+sr
+TWIST+sr,null,null,null,Furrowed,+camera,TILT+sr
+null,null,null,//,Furrowed,+camera,null
+TWIST+sl,null,null,null,Furrowed,+camera,TURN+sl
+TWIST+sl,null,null,null,Furrowed,+camera,TURN+sl
+LEAN+backward,null,null,null,Furrowed,+camera,TILT+backward
+LEAN+sl,CA:BOY ,null,null,Furrowed,+camera,PUSH+backward
+TWIST+sr,null,null,SQ+,Furrowed,+camera,TILT+sl
+LEAN+sl,null,null,SQ+,Furrowed,+camera,TURN+sl
+TWIST+sr,CA:DOG,null,WD,Furrowed,+camera,TURN+sr
+null,null,null,SQ+,Furrowed,+camera,TILT+backward
+LEAN+sl,null,null,//,Furrowed,+camera,TILT+sr
+LEAN+sl,null,null,SQ,Furrowed,+camera,TILT+backward > Headnod
+null,null,null,null,Furrowed,+camera,TILT+sr > TILT+backward
+LEAN+forward,null,null,SQ,Furrowed,+camera,TURN+sl
+LEAN+forward,null,null,//,Furrowed,+camera,TILT+forward
+null,null,null,SQ,Furrowed,+camera,TURN+sr > TILT+forward
+SHOULDERS+hunched,null,null,SQ+ > CLOSED,Furrowed,+camera,TILT+sr
+null,null,null,SQ+,Furrowed,+camera,null
+null,null,null,SQ,Furrowed,+camera,null
+null,null,null,SQ,Furrowed,+camera,null
+SHOULDERS+hunched > SHOULDERS+hunched,CA:WOMAN,null,SQ,Furrowed,+camera,null
+null,null,null,// > SQ > //,Furrowed,+camera,null
+null,null,null,//,Furrowed,+camera,TILT+backward
+SHOULDERS+hunched > SHOULDERS+hunched > SHOULDERS+hunched > SHOULDERS+hunched,CA:WOMAN,null,// > SQ+ > // > SQ+,Furrowed,+camera,TILT+backward > Headnod > Headnod > Headnod
+null,CA:WOMAN,null,// > SQ+,Furrowed,+camera,Headnod
+null,null,null,SQ+ > //,Furrowed,+camera,Headnod > Headnod > Headnod
+null,null,null,SQ > //,Furrowed,+camera,null
+null,CA:WOMAN,null,SQ+,Furrowed,+camera,null
+null,null,null,SQ+ > //,Furrowed,+camera,Headnod > Headnod > Headnod
+null,null,null,SQ+,Furrowed,+camera,null
+null,null,null,SQ+ > //,Furrowed,+camera,null
+LEAN+sl,null,null,SQ+,Furrowed,+camera,null
+LEAN+sr,null,null,SQ,Furrowed,+camera,null
+TWIST+sr & SHOULDERS+hunched,CA:WOMAN,null,SQ+,Furrowed,+camera,Headnod
+SHOULDERS+hunched,null,null,SQ+,Furrowed,+camera,null
+null,null,null,//,Furrowed,+camera,PUSH+backward
+TWIST+sr,null,null,//,Furrowed,+camera,TURN+sr
+null,CA:WOMAN,null,SQ,Furrowed,+camera,null
+null,CA:WOMAN,null,SQ > SQ+ > //,Furrowed,+camera,PUSH+backward
+null,null,null,SQ,Furrowed,+camera,TILT+sl
+LEAN+forward,null,null,SQ,Furrowed,+camera,TURN+sl > TURN+sr
+LEAN+forward,null,null,SQ,Furrowed,+camera,TURN+sr
+LEAN+forward,null,null,SQ,Furrowed,+camera,TURN+sl > TILT+backward
+LEAN+sl,null,null,null,Furrowed,+camera,Headnod
+LEAN+sl,null,null,null,Furrowed,+camera,TILT+forward
+LEAN+forward,null,null,SQ,Furrowed,+camera,TILT+backward
+null,null,null,SQ,Furrowed,+camera,TILT+backward
+LEAN+sl,null,null,SQ,Furrowed,+camera,TILT+forward
+LEAN+sl,null,null,SQ,Furrowed,+camera,TILT+forward
+LEAN+forward,CA:BOY,null,WD,Furrowed,+camera,PUSH+forward > TILT+sr
+LEAN+backward,CA:BOY,null,WD,Furrowed,+camera,TILT+backward
+LEAN+backward > LEAN+forward,null,null,WD,Furrowed,+camera,PUSH+forward
+null,null,null,SQ,Furrowed,+camera,TILT+forward
+TWIST+sl,null,null,SQ,Furrowed,+camera,TILT+forward
+TWIST+sl > LEAN+sl,CA:DEER,null,SQ,Furrowed,+camera,TILT+sl > TURN+sr
+LEAN+sr,null,null,SQ,Furrowed,+camera,TILT+backward
+LEAN+sr,null,null,SQ,Furrowed,+camera,TILT+sl
+LEAN+sl,null,null,SQ,Furrowed,+camera,TILT+sl
+,,,,null,,
