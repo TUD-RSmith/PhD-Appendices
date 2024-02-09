@@ -1,7 +1,7 @@
 # PhD Appendices
 
 
-#Cite: 
+## Cite: 
 Robert G. Smith, Exploiting Association Rules Mining to Inform the Use of Non-Manual Features in Sign Language Processing,
 Ph.D. thesis, Technological University Dublin, Ireland, 2023.
 
@@ -9,7 +9,7 @@ Robert G. Smith. (2024). TUD-RSmith/PhD-Appendices: First release - Smith_NMF Da
 
 [![DOI](https://zenodo.org/badge/560578153.svg)](https://zenodo.org/doi/10.5281/zenodo.10639533)
 
-#About
+## About
 This dataset was published in the appendix of a PhD Dissertation by Robert G. Smith robert.smith@tudublin.ie
 
 Cite: Robert G. Smith, Exploiting Association Rules Mining to Inform the Use of Non-Manual Features in Sign Language Processing, PhD Dissertation, Technological University Dublin, Ireland, 2023.
