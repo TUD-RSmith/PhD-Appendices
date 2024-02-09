@@ -14,7 +14,7 @@ This dataset was published in the appendix of a PhD Dissertation by Robert G. Sm
 Cite: Robert G. Smith, Exploiting Association Rules Mining to Inform the Use of Non-Manual Features in Sign Language Processing, PhD Dissertation, Technological University Dublin, Ireland, 2023.
 
 The dataset is comprised of several smaller datasets: 
-### Appendix C
+[### Appendix C](https://github.com/TUD-RSmith/PhD-Appendices/tree/main/AppendixC-most_frequent_lexical_items_in_the_SOI_corpus)
 lexical frequency list (see: Smith, R. G. & Hofmann, M., (2020). A Lexical Frequency Analysis of Irish Sign Language. TEANGA, the Journal of the Irish Association for Applied Linguistics, 11, 18–47. https://doi.org/10.35903/teanga.v11i1.162)
 
 ### Appendix D
