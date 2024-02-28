@@ -2,7 +2,7 @@
 
 ## Dataset designation: Smith_ISL_NMF
 
-This is an dataset of Irish Sign Language (ISL) Non-Manual Feature data.
+This is a dataset of Irish Sign Language (ISL) Non-Manual Feature (NMF) data.
 
 ## Cite: 
 
