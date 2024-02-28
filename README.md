@@ -1,5 +1,9 @@
 # PhD Appendices
 
+## Dataset designation: Smith_ISL_NMF
+
+This is an dataset of Irish Sign Language (ISL) Non-Manual Feature data.
+
 ## Cite: 
 
 Robert G. Smith, (2023). Exploiting Association Rules Mining to Inform the Use of Non-Manual Features in Sign Language Processing. PhD Dissertation. Technological University Dublin. Dublin, Ireland.
